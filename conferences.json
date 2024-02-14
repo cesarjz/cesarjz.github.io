@@ -1,0 +1,748 @@
+[
+        {
+                "id": "sessionDetail-1001",
+                "title": "Break",
+                "metadata": "",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-1002",
+                "title": "Lunch Break",
+                "metadata": "",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-1003",
+                "title": "TBD/Por anunciar",
+                "metadata": "",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-1004",
+                "title": "ROOTEDCON - KEYNOTE",
+                "metadata": "",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-1005",
+                "title": "CRIPTORED - KEYNOTE",
+                "metadata": "Idioma: es",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-1006",
+                "title": "ROOTEDCON - HACKERNIGHT",
+                "metadata": "",
+                "description": "",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-3001",
+                "title": "The Lord of the Keys: The Return of Post-Quantum Cryptography",
+                "metadata": "Idioma: es",
+                "description": "'The speakers gave an overview of post-quantum cryptography at last year''s conference, including the threat of quantum computers to current cryptography, main families of post-quantum cryptographic algorithms and the status of adoption and standardization efforts at the time.As the adoption of post-quantum cryptography is an ongoing effort which involves cross-border collaborations between government institutions and different industry players, technologies and migration challenges, in this talk the goal will be to give an update on the most relevant events that occurred during this past year. First, the authors will provide an overview of the latest news in standardization efforts, including the NIST call for alternate signature schemes and the release of first standard drafts, and also what other organizations or regulatory bodies have done. Then, the authors will provide an overview of some of the hottest topics in PQC, focusing especially on the algorithms that have already been selected to become standardized. To conclude, they will go deeper into real-world examples of migration to PQC, reviewing what has already been done and what could be the next steps.'",
+                "people": [
+                        {
+                                "name": "Sandra Guasch Castelló",
+                                "about": "Sandra Guasch is a privacy engineer at SandboxAQ, where she works on quantum-resistant privacy-preserving technologies. She got her PhD from the Polytechnic University of Catalonia (UPC) on voter verifiability applied to electronic voting in 2016. She has worked in different areas of applied cryptography and cybersecurity, including designing electronic voting protocols, security lifecycle management, secure systems design and red teaming.",
+                                "image": "/img/people/2024/sguasch.png"
+                        },
+                        {
+                                "name": "Marc Manzano",
+                                "about": "Marc Manzano leads the quantum security group at SandboxAQ, focusing on creating technology for modern cryptography management. His current research interests include post-quantum cryptography and fully-homomorphic encryption. With over 25 articles at international conferences, he has published more than ten journal papers, and collaborated on scientific books on cryptography and computer networks security. In the past decade, Dr. Manzano pioneered the development of secure cryptographic libraries and protocols. Formerly a Senior Staff Software Engineer at Google, he was also the Vice President of the Cryptography Research Centre at the Technology Innovation Institute in the UAE. He also played key roles in implementing cryptographic components for secure communication products, including an electronic voting platform. Dr. Manzano holds a PhD in Computers Network Security, from the University of Girona (Spain) and Kansas State University (United States), an MSc in Computer Science from the University of Girona, and initiated his research career during his BSc in Computer Engineering at Strathclyde University (UK).",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3002",
+                "title": "7 motivos para predecir comportamientos en las redes sociales.",
+                "metadata": "Idioma: es",
+                "description": "Una charla de OSINT y SOCMINT. Listo, ya tengo tu atención. Se hablará de comportamiento, patrones mentales y cómo sumamos eso al perfilado de un target con uso de fuentes abiertas y manipulación inconsciente. No es tan confuso como esta descripción.",
+                "people": [
+                        {
+                                "name": "Jezer Ferreira",
+                                "about": "Jezer Ferreira, hago OSINT. Enseño a las FFCCS, detectives e investigadores a ser cotillas profesionales.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3003",
+                "title": "Ataques masivos a vehiculos - Los olvidados",
+                "metadata": "Idioma: es",
+                "description": "En los últimos 10 años, la industria del automóvil ha sufrido un proceso de electrificación y automatización que esta revolucionando la manera en la que diseñamos y conducimos nuestros coches. Los motores eléctricos alimentados por baterías, los coches autónomos, los vehículos compartidos o los vehículos conectados son algunos de los avances que están cambiando la industria. Todos estos avances están trayendo consigo muchos nuevos retos en el área de la ciberseguridad y la industria automovilística esta teniendo problemas para reaccionar a tiempo.En esta presentación hablaremos de nuestro trabajo de investigación en el ámbito de la seguridad de los vehículos conectados. A diferencia de otros trabajos ya publicados donde los investigadores se centran en analizar \"el coche de moda\", nuestro trabajo se enfoca en varios elementos que también forman parte del ecosistema de los vehículos conectados pero que son generalmente ignorados por diseñadores e incluso por otros investigadores. Dispositivos como T-boxes, dongles ODB2, modems 5G o aplicaciones para el móvil fueron analizados desde el punto de vista de un atacante que quiere lanzar un ataque masivo contra flotas enteras. Presentaremos algunos de las vulnerabilidades mas interesantes que descubrimos (ej: CVE-2023-3028, CVE-2023-6248), problemas que tuvimos al reportarlas - desde ser ignorados hasta ser amenazados - e intentaremos ofrecer algunas de nuestras conclusiones sobre el actual estado de la seguridad en la industria automovilística.",
+                "people": [
+                        {
+                                "name": "Ramiro Pareja Veredas",
+                                "about": "Ramiro Pareja is Principal Security Analyst at Riscure Security Lab. He has a large experience on hardware security and he specializes on Embedded Systems and SoC security. In the last years, Ramiro has developed his interest and expertise in the automotive industry, where he applied successfully attacks like fault injection and side channel attacks very common in other markets like smartcards or content protection – to the automotive electronic systems. If it has chips, he can break it ;)",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Yashin Mehaboobe",
+                                "about": "Yashin Mehaboobe is a security consultant at Xebia and has more than 8 years experience in the embedded systems security domain. His primary areas of interest is blackbox vulnerability analysis and pentesting of common IoT devices with focus on Internet facing scalable attacks. He's also identified several fault injection attacks in open source embedded software and modern microcontrollers. In his spare time he likes to travel, take photographs, bake and read.",
+                                "image": "/img/people/2024/ymehaboobe.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3004",
+                "title": "AWS, con sus lambdas y sus cositas",
+                "metadata": "Idioma: es",
+                "description": "El servicio de AWS Lambdas es muy conocido y ampliamente usado. Pero, ¿qué hay por debajo de las Lambdas de AWS? ¿Cómo funciona su modelo de seguridad? ¿Qué se puede hacer dentro de ellas? ¿Cómo ha implementado Amazon la arquitectura de escalado sin perder de vista la seguridad?Más allá de AWS, otros proveedores ofrecen este servicio bajo otros nombres: GCP Functions, Azure Functions…No mucha gente a analizado el resto operativo de usar este tipo de sistemas y cómo puede impactar en su arquitectura: denegaciones de servicio distribuidas, sistemas de datos de internos saturados, sistemas de logs y métricas desbordados… todo eso por no saber cómo gestionar y manejar el riesgo de este tipo de sistemas. En la charla se darán respuesta a todas estás preguntas y algunas más. Se expondrán ejemplos reales de uso. Buenas, malas y terribles prácticas. La charla será amena. Divertida. Con chistes malos y todos los ejemplos que los dioses de las demos nos permitan hacer.",
+                "people": [
+                        {
+                                "name": "Daniel García (cr0hn)",
+                                "about": "'I''m Dani, also known as cr0hn. I''m a freelance cybersecurity guy and Python architect. I have over 20 years of experience in tech. I help organizations strengthen their digital defenses and optimize their operations through advanced API security, innovative development practices, and my extensive Python programming and cybersecurity knowledge. I am honored to have been a featured speaker at prestigious international conferences, including RSA Conference, OWASP USA, Open Security Summit, and RootedCON, among others.'",
+                                "image": "/img/people/2024/dgarcia.png"
+                        },
+                        {
+                                "name": "César Gallego Rodríguez",
+                                "about": "Llevo toda la vida dedicándome a crear aplicaciones. La tecnología me apasiona. Maker, Radio aficionado y rolero.",
+                                "image": "/img/people/2024/cgallego.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3005",
+                "title": "BSAM: Seguridad en Bluetooth",
+                "metadata": "Idioma: es",
+                "description": "La tecnología Bluetooth se ha vuelto imprescindible en las comunicaciones IoT pero su seguridad ha sido relegada a un segundo plano. El desconocimiento general sobre su funcionamiento, la falta de herramientas y guías adecuadas dificultan enormemente su análisis y auditoría. BSAM es una nueva metodología de análisis de seguridad Bluetooth que te ayudará a realizar auditorias de seguridad en detalle.Descubre en esta presentación cómo auditar y proteger tus dispositivos Bluetooth, donde exploraremos los desafíos, las soluciones y herramientas que harán que tu dispositivo sea mas seguro tras analizar con BSAM.",
+                "people": [
+                        {
+                                "name": "Antonio Vázquez Blanco",
+                                "about": "Ingeniero Industrial que ha dado el salto al mundo de la Investigación en el departamento de Innovación de Tarlogic. Apasionado de la electrónica, el reversing (sobre todo de binarios \"bare metal\"), la radiofrecuencia y todo lo \"low level\". Autor y colaborador en proyectos como BlueTrust, BSAM y Ghidra DTB.",
+                                "image": "/img/people/2024/avazquez.png"
+                        },
+                        {
+                                "name": "Jesús María Gómez Moreno",
+                                "about": "Ingeniero informático, especializado en Ciberseguridad. Investigador del departamento de Innovación y Desarrollo de Tarlogic Security y colaborador de proyectos como PLCTool, BlueTrust y BSAM.",
+                                "image": "/img/people/2024/jmgomez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3006",
+                "title": "Ciberinteligencia y Geopolítica: Claves para la Supervivencia y Éxito de las Marcas en el Tablero Global",
+                "metadata": "Idioma: es",
+                "description": "Este análisis pionero se sumerge en el fascinante y turbulento mundo de la geopolítica y su impacto directo en el ámbito empresarial global. Con un enfoque en los recientes boicots en Rusia e Israel, el estudio desentraña cómo marcas reconocidas como Aeroflot, Gazprom, Lukoil, McDonald’s, Pepsi y Coca-Cola han enfrentado desafíos sin precedentes, moldeando su reputación y rendimiento en el mercado. A través de una meticulosa vigilancia digital que abarca desde las redes sociales hasta los foros de opinión pública, se revela un panorama dinámico, donde las estrategias de respuesta y adaptación se convierten en piezas clave para la supervivencia y el éxito de las marcas. Este análisis no solo capta la esencia de las tensiones políticas y su efecto en grandes nombres como Inditex, Mango y H&M, sino que también brinda una guía estratégica invaluable para la gestión de reputación en un escenario geopolítico en constante cambio. Aquí, las marcas no solo enfrentan la pérdida de credibilidad y mercado, sino también una batalla por mantener la confianza de sus inversores, delineando un futuro donde la ciberinteligencia y la adaptabilidad son las armas más poderosas.",
+                "people": [
+                        {
+                                "name": "Selva María Orejon Lozano",
+                                "about": "Selva Orejón, en twitter e Instagram @selvaorejon, es perito judicial especializada en Identidad digital y reputación. Premio 2023 Woman in Business categoría empresaria senior. Premio DONATIC 2022 a la empresaria del Año de la Generalitat de Catalunya. Licenciada en Ciencias de la Comunicación por la Universitat Ramon Llull y Diplomada en Business Organization and Environment, University of Cambridge, e Inteligencia al Servicio del Estado y la Empresa, ejerce como profesora en la Universidad de Barcelona UB en el Máster de Ciberseguridad, impartiendo Ciberinteligencia. OSINT, y en la Escuela de Policía de Catalunya, (Ciberinvestigación y Protección de la identidad digital). Su empresa, onBRANDING cumple 17 años especializada en gestión de crisis de reputación online para empresas, instituciones públicas y celebridades, así como ciudadanos anónimos con recursos. Tiene el privilegio de dar clase de las mismas especialidades a la Policía de Israel, y en el Consejo General del Poder Judicial.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3007",
+                "title": "Ciberseguridad y board, ¿hablamos el mismo idioma?",
+                "metadata": "Idioma: es",
+                "description": "El nivel de riesgo que enfrentan las empresas al tratar la ciberseguridad como un asunto de IT y no como un tema estratégico.",
+                "people": [
+                        {
+                                "name": "Susana Quintás Veloso",
+                                "about": "Susana Quintás es Consejera Independiente en Sofinco, filial de consumo del grupo Credit Agricole, de Reale Seguros Generales y Reale Immobili España (RIE). Presidenta de la Comisión de Nombramientos y Retribuciones y Vocal de la Comisión de Auditoría y Riesgos en Sofinco. Presidenta de la Oficina de Vigilancia de RIE. Anteriormente ha pertenecido a los consejos de administración de 4B, Aliseda SGI (además vocal en la Comisión de Auditoría), Euroautomatich Cash y Universalpay. Desde enero 2023 es Directora de Sostenibilidad de la Comisión de Sostenibilidad de IFMA España (International Facility Management Association). Ha codirigido el “Playbook de la Oficina Sostenible”.Quintás está certificada en sostenibilidad por IASE International Association for Sustainable Economy, London UK como ISB® e ISF® II Specialist. Ha sido varios años Country Manager de Metrikus -entre las 10 primeras PropTech más innovadoras en 2021 en Reino Unido y Top20 de Europa según PWC- en España y Latinoamérica, ganando varios premios en 2023 y desarrollando importantes alianzas estratégicas de crecimiento de negocio. Ha sido finalista en SoutSummit 2023 y reconocida como PropTech Influencer por the Fringe Labs. Más de 20 años de experiencia en finanzas como directora general de Banco Pastor y subdirectora general de Banco Popular y amplia experiencia en el mundo inmobiliario (representando a Banco Santander en Quasar), estrategia, transformación digital y operaciones corporativas. Economista y auditora registrada en ROAC, y PDD del IESE. Ha completado el Programa para consejeros de ESADE, está certificada en Buen Gobierno por el IC-A y ha cursado el DIBEX (Digital Business Executive Programme) en ISDI. Es mentora en el Club de Consejeros de ESADE y en Wires (Women in Real Estate). Ha publicado diferentes tribunas en medios como Expansión o Cinco Días e impartido cursos de postgrado en varias universidades españolas. Co autora de “Piensa como un consejero” y de “Cómo innovar desde el Consejo”.",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Jose Gregorio Parrado Restrepo",
+                                "about": "Especializado en ciberseguridad y prevención del fraude, con amplia experiencia en proyectos de integración bancaria a nivel internacional. Mi trayectoria se destaca en áreas clave como préstamos, pagos, fraude y ciberseguridad. He liderado equipos en el desarrollo e implementación de soluciones avanzadas para entornos financieros. Mi enfoque y la adopción de nuevas tecnologías me llevaron a asumir nuevos retos, incluida la dirección informática y de seguridad en la creación de FrauDfense partiendo desde cero para establecer sólidos cimientos para la prevención y detección de fraude, así como en la implementación de protocolos de seguridad robustos, cruciales para garantizar la integridad y confianza en este innovador sistema.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3008",
+                "title": "Cómo crear una herramienta OpenSource para analizar SmartContracts",
+                "metadata": "Idioma: es",
+                "description": "El mundo de la ciberseguridad en la web3 y metaverso cobra cada vez más importancia. Un gran número de profesionales se recicla en este nuevo mundo y la ciberseguridad como una habilidad transversal hace que sea necesario conocer los conceptos de la web3 y poder generar herramientas que ayuden a la mejora continua de la seguridad de estos proyectos.En esta charla se muestra \"La Matilde\", una herramienta que se ha ido generando para ir comprobando diferentes vulnerabilidades que se pueden encontrar en el mundo web3. Durante la charla se pondrá foco en cómo crear la herramienta.Durante la charla se podrá ver diferentes vulnerabilidades del mundo Web3 y cómo la herramienta va detectando los diferentes escenarios. Se mostrarán diferentes fragmentos de código y diferentes pruebas de concepto... ¿Quieres crear tu propia matilde? ¿Quieres ver que es lo que necesitas para reciclarte en el mundo Web3?",
+                "people": [
+                        {
+                                "name": "Pablo González",
+                                "about": "Ingeniero Informática y Máster en Seguridad Informática. Trabajo en Telefónica en el departamento de Ideas Locas de CDCO. Soy MVP de Microsoft desde el año 2017. Soy docente en diversas universidades en Másteres de Ciberseguridad. Soy speaker en diferentes foros y congresos, tanto técnicos como directivos, a nivel nacional e internacional. Autor de diversos libros con temática de seguridad informática en la editorial 0xword, por ejemplo, Metasploit para Pentesters GOLD Edition, Pentesting con Kali Silver Edition, Pentesting con Powershell, Ethical Hacking, Hacking con Metasploit, Empire: Hacking avanzado en el Red Team, Hacking Windows: Ataques a sistemas y redes Microsoft o la novela de intriga y hacking Got Root, entre otros. Fundador de hackersClub y co-fundador de Flu Project.",
+                                "image": "/img/people/2024/pgonzalez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3009",
+                "title": "Cómo prevenir trolleos para LLM",
+                "metadata": "Idioma: es",
+                "description": "'En esta charla fascinante, nos sumergiremos en el mundo emergente de los Modelos de Lenguaje de Gran Escala (LLM), desvelando no solo cómo funcionan, sino también cómo podemos adaptarlos y extender sus capacidades. Exploraremos técnicas avanzadas como el reentrenamiento y el fine-tuning, que permiten personalizar estos modelos para necesidades específicas. Además, discutiremos el ingenioso arte del ''prompt engineering'', incluyendo estrategias de one-shot y few-shot, que revelan cómo la formulación cuidadosa de preguntas puede manipular o guiar la generación de texto de los modelos.Daremos un paso más allá para abordar las técnicas de aportación de información, como Retrieval-Augmented Generation (RAG), que enriquecen las respuestas de los LLM con información externa, ofreciendo así respuestas más detalladas y contextuales.Sin embargo, el núcleo intrigante de esta presentación se centra en \"trollear\" a estos sistemas. Exploraremos métodos para desvelar información de sus prompts, herramientas y funciones internas. Discutiremos cómo es posible saltarse los \"guardarailes\" basados en prompts, diseñados para dirigir o limitar las respuestas de los modelos. Además, investigaremos cómo se pueden manipular o \"abusar\" de las herramientas conectadas a estos sistemas para revelar vulnerabilidades o limitaciones.Esta charla es esencial para cualquier entusiasta de la IA, desarrollador, investigador o curioso tecnológico que busque entender no solo cómo funcionan estos modelos de lenguaje, sino también cómo pueden ser adaptados, manipulados y llevados al límite de sus capacidades. Únete a nosotros para una exploración profunda y técnica de uno de los avances más emocionantes en la inteligencia artificial.'",
+                "people": [
+                        {
+                                "name": "JORDI MURGÓ AMBOU",
+                                "about": "Jordi Murgó, alias \"Savage\" en el ámbito del hacking ético, actualmente ocupa un puesto clave en la multinacional GFT, donde se especializa en la arquitectura de seguridad y en estrategias anti fraude para el sector financiero. Su rol implica una fuerte orientación hacia la innovación digital, haciendo uso de sistemas avanzados basados en Modelos de Lenguaje de Gran Escala (LLMs) y Machine Learning, aplicados específicamente a este sector. Con su vasta experiencia en desarrollo de software y sistemas de seguridad, Jordi Murgó combina su conocimiento técnico con una visión innovadora para abordar desafíos de ciberseguridad y fraude en el ámbito financiero, destacando su habilidad para implementar soluciones tecnológicas avanzadas que mejoran la seguridad y eficiencia en este sector.",
+                                "image": "/img/people/2024/jmurgo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3010",
+                "title": "Dr. Jekyll and Mr. Hyde - Las 2 caras de un incidente",
+                "metadata": "Idioma: es",
+                "description": "La charla abordará un análisis detallado del grupo APT MuddyWater, activo desde 2017 y conocido por sus ataques cibernéticos, inicialmente en Irak y Arabia Saudita, y posteriormente extendidos a Medio Oriente, Europa y Estados Unidos. Se observó un incremento en sus ataques, especialmente con documentos de spearphishing, en países como Jordania, Turquía, Azerbaiyán, Pakistán, Mali, Austria, Rusia, Irán y Bahréin. Un ataque notable fue contra el Centro Nacional de CiberSeguridad de Arabia Saudita en 2017.Los motivos de MuddyWater parecen ser geopolíticos, enfocándose en blancos de alto perfil, y su autoría aún es incierta. Utilizan técnicas de desorientación en su malware, y han desarrollado métodos avanzados para evitar la detección de seguridad. La charla también cubrirá su interés creciente en África, manteniendo a Irak y Arabia Saudita como objetivos principales.Se analizarán las operaciones de MuddyWater en 2022 y 2023 desde la seguridad ofensiva y el análisis de inteligencia, destacando herramientas privadas como NIHAY, LISFONSERVICE, POWERSTATS, y otras, así como herramientas comunes en red teaming. Los ponentes ofrecerán una visión completa de las técnicas, estrategias y objetivos de MuddyWater, enfatizando en la importancia de un enfoque combinado para entender sus TTPs.",
+                "people": [
+                        {
+                                "name": "Marc Rivero Lopez",
+                                "about": "'Marc is a distinguished intelligence expert and an accomplished professional in reverse engineering, a combination that gives him an exceptionally versatile and valuable profile. His career is characterized by deep academic training and extensive practical experience in the field of intelligence, which has enabled him to capture and maintain the interest of audiences at numerous conferences both nationally and internationally. In his crucial role within CERT/CSIRT teams at leading financial institutions, Marc has distinguished himself as the Head of Research. His solid background in intelligence has been a key asset in this context, proving to be an invaluable resource in identifying, analyzing, and solving complex security challenges. His reputation as an expert in the field has made him a sought-after reference for his extensive knowledge, particularly in critical areas such as fraud, cybercrime, and targeted attacks. His leadership has been fundamental in the development of numerous research initiatives, which have significantly contributed to the advancement of knowledge in these areas. In addition to his professional success, Marc stands out as a passionate and committed educator. He currently serves as the coordinator of the Master''s program in Computer Security at La Salle Barcelona, where his innovative approach and exceptional skills continue to have a positive impact on the training of the next generation of professionals in the fields of intelligence and security.'",
+                                "image": "/img/people/2024/mrivero.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3011",
+                "title": "El año de Linux para el escritorio! Inteligencia de amenazas para el ecosistema Linux en 2023",
+                "metadata": "Idioma: es",
+                "description": "La propuesta de esta conferencia se centra en explorar las amenazas y campañas cibernéticas dirigidas a sistemas Linux durante el año 2023. A través de una serie de estudios de caso, se analizarán las tácticas y evoluciones de grupos notorios como el Grupo Lazarus, destacando su adaptación a las nuevas tecnologías y métodos de ataque. Se examinará cómo han evolucionado campañas como AppleJeus, que ilustra un cambio hacia el robo de criptomonedas y el uso de malware multiplataforma, así como DTrack de Andariel, mostrando una década de evolución en ataques variados.Además, se abordarán descubrimientos clave como los detectores de malware del clúster MATA, que han impactado a contratistas de defensa en Europa Oriental, y las infecciones activas de ChinaChopper en servidores públicos, revelando actividades y tácticas comparables a las del actor DragonSpark.El análisis también incluirá la campaña MysterySnail de IronHusky, que atacó a industrias en Europa del Este, y la introducción de DinodasRAT, un RAT multiplataforma recientemente identificado que ha sido empleado en ataques contra entidades gubernamentales.Esta conferencia ofrecerá una perspectiva actualizada y detallada sobre las técnicas y herramientas empleadas en intrusiones recientes, proporcionando una visión integral de la sofisticación y amplitud de las amenazas actuales en el ecosistema de Linux.",
+                "people": [
+                        {
+                                "name": "Marc Rivero Lopez",
+                                "about": "'Marc is a distinguished intelligence expert and an accomplished professional in reverse engineering, a combination that gives him an exceptionally versatile and valuable profile. His career is characterized by deep academic training and extensive practical experience in the field of intelligence, which has enabled him to capture and maintain the interest of audiences at numerous conferences both nationally and internationally. In his crucial role within CERT/CSIRT teams at leading financial institutions, Marc has distinguished himself as the Head of Research. His solid background in intelligence has been a key asset in this context, proving to be an invaluable resource in identifying, analyzing, and solving complex security challenges. His reputation as an expert in the field has made him a sought-after reference for his extensive knowledge, particularly in critical areas such as fraud, cybercrime, and targeted attacks. His leadership has been fundamental in the development of numerous research initiatives, which have significantly contributed to the advancement of knowledge in these areas. In addition to his professional success, Marc stands out as a passionate and committed educator. He currently serves as the coordinator of the Master''s program in Computer Security at La Salle Barcelona, where his innovative approach and exceptional skills continue to have a positive impact on the training of the next generation of professionals in the fields of intelligence and security.'",
+                                "image": "/img/people/2024/mrivero.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3012",
+                "title": "El dia a dia de un CISO",
+                "metadata": "Idioma: es",
+                "description": "De la teoría a la práctica. Cómo se asienta el rol del CISO en la realidad de las organizaciones.",
+                "people": [
+                        {
+                                "name": "Miriam Feito Huertas",
+                                "about": "Licenciada en Informática, Diplomada en Ciencias Empresariales y Máster en ciberseguridad industrial. Posee las certificaciones profesionales CISA, CISM, CRISC y CET así como varios certificados relativos a la ciberseguridad y tecnologías emergentes. Cuenta con más de 20 años de experiencia en el ámbito de la seguridad de la información, en los campos de auditoría de TI, gestión de riesgos tecnológicos, consultoría GRC y servicios de estrategia de ciberseguridad. Actualmente es gerente en el área de Cyber Strategy de Risk Advisory- Deloitte. También es miembro de la Junta Directiva de Isaca Madrid. Profesora, ponente y colaboradora habitual en eventos de la profesión.",
+                                "image": "/img/people/2024/mfeito.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3013",
+                "title": "Graphql for fun and bounties!",
+                "metadata": "Idioma: es",
+                "description": "¡Prepárate para sumergirte en el fascinante universo de la hacking Graphql! En mi charla desentrañaré a fondo las tácticas de explotación en GraphQL que me llevaron a ganar uno de los premios al Mejor Bug en la final del Ambassadors World Cup de HackerOne, como parte de la selección española. Descubre los entresijos de mi experiencia y cómo enfrenté los desafíos para alcanzar el triunfo en esta apasionante competición.",
+                "people": [
+                        {
+                                "name": "Juan Francisco Bolivar Hernandez",
+                                "about": "Senior Security Specialist en la industria farmacéutica. Autor del libro \"Infraestructuras críticas y sistemas industriales: Auditorias de seguridad y fortificación\", publicado por 0xWord. Ingeniero de Telecomunicaciones por la Universidad de Alcala y Máster en Seguridad por la UNIR. Director de Máster de Seguridad Informática en la Universidad de Camilo José Cela . Poseo diversas certificaciones como GCIH y GCFA de Sans, CEH de Ec-Council, CISA de Isaca entre otras. He sido ponente en conferencias como BlackHat, Defcon, Hackron, Sh3llcon, Isaca... Como investigador de seguridad, he descubierto y reportado más de 10 CVEs en el sector industrial (Honeywell, Siemens, Cisco, Schneider Electrics...) y acumulo 17 años de experiencia en seguridad en diversos roles, incluyendo Pentester,CISO, Director de operaciones. Aficionado al Bug Bounty, quede en 2023 el numero 50 en el mundo en Hackerone, formo parte del equipo campeón de la Ambassadors World Cup en HackerOne y he ganado uno de los premios a mejor Bug. (hackerone.com/jfran_cbit)",
+                                "image": "/img/people/2024/jfbolivar.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3014",
+                "title": "Guía definitiva para vencer a Batman: Atacamos la red eléctrica de Gotham",
+                "metadata": "Idioma: es",
+                "description": "La red eléctrica es un servicio esencial del cual dependen casi todas las demás infraestructuras críticas de un país. La mayoría de estos sistemas vienen acompañados de grandes retos para la seguridad como tiempos de respuesta muy bajos y una disponibilidad muy alta. En esta charla haremos un repaso de los diferentes ataques que se pueden realizar para dejar sin luz a Batman y quienes son los interesados en dejarle sin luz, os mostraremos un bastidor real con una arquitectura básica de subestación eléctrica automatizada para enseñar cómo funciona, y lanzaremos algunos ataques.Después explicaremos algunas medidas para contrarrestar dichos ataques evaluando su impacto sobre los requisitos de la red. Terminando con un vistazo a otras alternativas que se están considerando en países incluyendo China, Corea del Sur o Japón.",
+                "people": [
+                        {
+                                "name": "Miguel Ángel Sánchez Rodríguez",
+                                "about": "Miguel es Responsable de Ciberseguridad en el departamento de I+D de Arteche. Tiene más de 14 años de experiencia en el sector eléctrico, y ha trabajado en todo el ciclo de vida de los equipos de control de subestaciones, de los cuales 4 son en ciberseguridad industrial. Cuenta con una ingeniería en Informática, Máster en Ciberseguridad, certificación IRCP, y es un gran entusiasta de la ciberseguridad y la tecnología. Actualmente, responsable del Laboratorio de Ciberseguridad de Arteche, contribuye al mantenimiento de ISO 27001, y mejora el S-SDLC de Arteche según la norma IEC 62443-4-1.",
+                                "image": "/img/people/2024/masanchez.png"
+                        },
+                        {
+                                "name": "Sergio Valle Trillo",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3015",
+                "title": "Hardware hacking desde 0 para mete comillas / comandos - The Buzzpirat",
+                "metadata": "Idioma: es",
+                "description": "Quieres empezar con hardware hacking? Ven",
+                "people": [
+                        {
+                                "name": "David Reguera Garcia",
+                                "about": "Senior Malware Researcher, OS Internals, C/C++, assembler, reversing, forensics, hardware hacking, x86_64, AVR, ARM & PIC",
+                                "image": "/img/people/2024/dreguera.png"
+                        },
+                        {
+                                "name": "Juan M Martinez Casais",
+                                "about": "R&D Specialist ,Especialista I+D electrónica",
+                                "image": "/img/people/2024/jmmartinez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3016",
+                "title": "IA POLICIAL Y JUDICIAL: INTERESES EN CONFLICTO",
+                "metadata": "Idioma: es",
+                "description": "La evolución desde la aparición de las técnicas de Big Data y los desarrollos de Inteligencia Artificial van a suponer herramientas útiles para la automatización de la vigilancia policial y judicial a través del uso de las denominadas herramientas predictivas. La velocidad en la rápida evolución tecnológica tiene, sin duda alguna, grandes implicaciones jurídicas. De forma paralela, en el marco de la justicia criminal han venido a ser consideradas con sumo interés aquellas acciones dirigidas para combatir el cibercrimen y a fortalecer la seguridad de los Estados. Es el uso de la tecnología por parte de los Poderes públicos lo que suscita el debate de si el uso de la Inteligencia Artificial por los Estados para lograr los objetivos de seguridad y de lucha contra el cibercrimen pudiera estar vulnerando, de un modo u otro, los derechos de los ciudadanos.",
+                "people": [
+                        {
+                                "name": "Ruth Sala Ordóñez",
+                                "about": "Abogada penalista, especialista en delitos tecnológicos y en gestión y dirección de la ciberseguridad. Doctoranda, con especial interés en el ciberpatrullaje y la ciberinvestigación. Profesora colaboradora en el Máster de Derecho Digital y Sociedad de la Información y en el Grado de Seguridad de la Universidad de Barcelona.",
+                                "image": "/img/people/2024/rsala.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3017",
+                "title": "Kitsune: One C2 to control them all",
+                "metadata": "Idioma: es",
+                "description": "Una de las herramientas más importantes y utilizadas en auditorías y en campañas de Red Team, son aquellas a las que denominamos como \"Command & Control\".Actualmente, existen cientos de ellos. Pasando por públicos, privados, gratuitos o de pago. Algunos son tan famosos como Cobalt Strike, mientras que otros, solamente son conocidos por sus propios creadores.El principal problema de estas herramientas, es la falta de compatibilidad entre sí. A pesar de compartir muchos elementos comunes, como protocolos de comunicación o métodos de despliegue y ejecución.Tras trabajar en diferentes herramientas que pretenden unificar el caótico mundo de las shells y las webshells, este ambicioso proyecto nace de la misma necesidad y pretende agilizar y mejorar el trabajo de los pentesters, agrupando diferentes herramientas y técnicas en una única interfaz gráfica. Además, Kitsune es capaz de incorporar nuevas funciones a herramientas ya conocidas. Algunas de ellas, nunca antes vistas en otros C2.Si alguna vez has tenido demasiadas terminales abiertas, has olvidado dónde estaba una shell remota, o has echado en falta una GUI para tu herramienta favorita, esta charla es para ti.",
+                "people": [
+                        {
+                                "name": "Joel Gámez Molina",
+                                "about": "Administrador de sistemas con más de diez años de experiencia, actualmente trabaja como Senior Security Consultant en Deloitte Touche Tohmatsu, donde desarrolla ejercicios de simulación de adversarios (Red Team Operations) desde hace 5 años. Anteriormente, ha sido Chief Technology Officer (CTO) de la startup Cyberguard. También ejerce como profesor de cursos y másters de hacking ético, pentesting y PowerShell para organismos y universidades de alto nivel, como la Universidad Politécnica de Cataluña (UPC). Creador del blog darkbyte.net y speaker en congresos de renombre a nivel nacional e internacional, como: EkoParty, h-c0n, Black Hat USA/EU, EuskalHack, DeepSec, DEF CON, Navaja Negra o RootedCON, entre muchos otros. Programador de «hacking tools» en su tiempo libre, ha desarrollado herramientas de todo tipo, como: AutoRDPwn, Cloudtopolis, EvilnoVNC, Invoke-DNSteal, PyShell o PSRansom, por mencionar algunas.",
+                                "image": "/img/people/2024/jgamez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3018",
+                "title": "La policia hace cosas",
+                "metadata": "Idioma: es",
+                "description": "Exposición didáctica de una investigación transnacional, donde gracias a la excelente coordinacion policial tanto a nivel estatal como europea, así como el uso de técnicas de investigación poco convencionales, se consigue detectar y golpear, una organización criminal internacional de primer nivel",
+                "people": [
+                        {
+                                "name": "Jose Manuel Fernández Filgueira",
+                                "about": "'Cryptocurrencies Specialist at Mossos d''Esquadra Police (Spain LEA) | Cross Border Investigations | Asset Recovery'",
+                                "image": "/img/people/2024/jmfernandez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3019",
+                "title": "LLM steganography. Dirty PoCs and covert-channels",
+                "metadata": "Idioma: es",
+                "description": "Fourteen years ago, at the first RootedCon (2010), we analyzed the potential and limitations of natural language information hiding using steganographic (linguistic) techniques. The Stelin tool and later ones (Jano, Ryfle, etc.) showed the versatility of these techniques, especially for protecting small amounts of information. However, these proposals had a number of important limitations derived from the use of natural language processing technologies and the limited semantic resources available 14 years ago.In this talk, we will analyze how these techniques have evolved (linguistic steganography) and introduce novel research that analyzes how new algorithmic and artificial intelligence approaches can help to create stegotexts that allow information hiding, for privacy or offensive purposes (malware hiding, steal data, etc.). The talk will deepen the understanding of how LLM models work and analyze whether they can have steganographic uses. During the talk different proof-of-concepts for stegotext generation and covert channel creation will be discussed using LLMs.This talk is aimed at anyone interested in learning more about how LLM models work and their alternative uses.",
+                "people": [
+                        {
+                                "name": "Alfonso Muñoz Muñoz",
+                                "about": "'PhD in Telecommunications Engineering by Technical University of Madrid (UPM) and postdoc researcher in network security by Universidad Carlos III de Madrid (UC3M). He is a cybersecurity Tech Lead for more than 20 years and has published more than 60 academic publications, books (6), patents (2) and computer security tools. He has also worked in advanced projects with US/European Organisms, public bodies and multinational companies (global 500). For over almost two decades, he has been involved in security architecture design, penetration tests, forensic analysis, mobile and wireless environments, and information security research (leading technical and scientific teams). He created two startups: CriptoCert (focused on the development of training and technologies to improve cryptographic knowledge) and BeRealTalent (technology to detect and improve soft skills). Alfonso frequently takes part as a speaker in hacking and cybersecurity conferences [STIC CCN-CERT (4), DeepSec, HackInTheBox (3), Virus Bulletin, Ekoparty, BlackHat USA, BlackHat Europe, BlackHat Asia, BSIDES Panama, RootedCon (12), 8.8, UAD360, Summer Bootcamp INCIBE, No cON Name (3), GSICKMinds, C1b3rwall academy, Cybercamp, Secadmin, JNIC, Ciberseg,X1RedMasSegura, Navaja Negra (3), T3chfest (3), Shellcon, H-c0n...] and commercial and academic security conferences (+60 talks). Several academic and professional awards (Hall Fame Google, TOP50 Spain-2020 Cybersecurity Blue Team...). Professor in several university master''s degree programs (cybersecurity)'",
+                                "image": "/img/people/2024/amunoz.png"
+                        },
+                        {
+                                "name": "Javier Domínguez Gómez",
+                                "about": "Trabajo en ciberseguridad en BBVA y como profesor en la UCM, en el Master de Big Data, Data Science & IA. Investigador, apasionado de los sistemas Unix y GNU, de los lenguajes de bajo nivel, de la Criptografía y la Esteganografía. Aficionado a las ondas de radio, las antenas y a las comunicaciones seguras. Miembro y hacktivista de la FSF y de la EFF.",
+                                "image": "/img/people/2024/jdominguez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3020",
+                "title": "Log: It’s Big, It’s Heavy, It’s Filled with Personal Data! Measuring the Logging of Sensitive Information in the Android Ecosystem",
+                "metadata": "Idioma: es",
+                "description": "Android implementa un sistema de Logging compartido que multiplexa todos los datos registrados de todos los componentes del sistema, incluido tanto el sistema operativo como la salida de consola de las aplicaciones que se ejecutan en él. Un mecanismo de seguridad asegura que las aplicaciones que corren en el espacio de usuario solo pueden leer las entradas de registro que ellas mismas crean, aunque muchas aplicaciones \"privilegiadas\" están exentas de esta restricción. Esto incluye aplicaciones del sistema precargadas proporcionadas por Google, el fabricante del teléfono, el operador móvil que te ofrece el teléfono, así como otras firmas que pueden estar en la cadena de suministro. En consecuencia, Google aconseja a los desarrolladores que no registren información sensible en el registro del sistema.Pero ésto es sólo una recomendación. En este trabajo, examinamos el registro de datos sensibles en el ecosistema Android. A través de un estudio de campo, mostramos que la mayoría de los dispositivos registran alguna cantidad de información identificativa del usuario debido a malas prácticas de desarrollo. De hecho, mostramos que el registro de nombres de \"actividades\" puede revelar inadvertidamente información sobre los usuarios a través de su uso de aplicaciones. También probamos si diferentes teléfonos inteligentes registran identificadores personales de forma predeterminada, examinamos aplicaciones preinstaladas que acceden a los registros del sistema y analizamos las políticas de privacidad de los fabricantes que informan de la recopilación de registros del sistema.",
+                "people": [
+                        {
+                                "name": "Narseo Vallina Rodriguez",
+                                "about": "El Dr. Narseo Vallina, Profesor de Investigación en IMDEA Networks, lidera el Grupo de Análisis de Internet (IAG) y es cofundador de AppCensus, una startup enfocada en analizar los riesgos de privacidad de aplicaciones móviles a gran escala. Anteriormente, trabajó en el International Computer Science Institute (ICSI) en UC Berkeley y obtuvo su doctorado en Ciencias de la Computación en la Universidad de Cambridge. Su investigación en mediciones de red y privacidad en línea ha sido reconocida con varios premios, incluidos premios al mejor artículo en algunas de las conferencias académicas más selectivas en ciberseguridad como el IEEE Syposium on S&P, USENIX Security y ACM IMC. En sus trabajos ha identificado vulnerabilidades que han influido en políticas y mejoras de seguridad en el ecosistema Android y el kernel de Linux, además de influir en acciones legislativas y regulatorias. Recibió distinciones como Miembro Senior de la ACM, la medalla \"Jóvenes Investigadores\" de la Real Academia de Ingeniería de España, y premios de privacidad de la AEPD, CNIL-INRIA y Caspar Bowden PETS, entre otros. Su trabajo también ha sido cubierto por medios internacionales destacados.",
+                                "image": "/img/people/2024/nvallina.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3021",
+                "title": "'Look at me, I''m the EDR now'",
+                "metadata": "Idioma: es",
+                "description": "Durante los ejercicios de Red Team es habitual tener que enfrentarse a las diferentes soluciones de seguridad presentes en la infraestructura objetivo. En esta charla, explicaremos cómo durante la preparación previa de un ejercicio, identificamos varios 0-day en la solución EDR del cliente los cuales fueron claves para la consecución de los objetivos. Se explicará el proceso llevado a cabo para la identificación de estas vulnerabilidades y su explotación.",
+                "people": [
+                        {
+                                "name": "Antón Ortigueira Vázquez",
+                                "about": "Ingeniero informático por la Universidad de Santiago, Máster en Ciberseguridad por la UC3M. Actualmente formo parte del Red Team de BlackArrow (Tarlogic). Aficionado al Bug Bounty.",
+                                "image": "/img/people/2024/aotigueira.png"
+                        },
+                        {
+                                "name": "Marcos Díaz Castiñeiras",
+                                "about": "Desde hace 7 años haciendo un poco de todo en Tarlogic, actualmente en el equipo de Red Team (Blackarrow)",
+                                "image": "/img/people/2024/mdiaz.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3022",
+                "title": "mesa redonda “La promesa y el peligro de la revolución de la IA”",
+                "metadata": "Idioma: es",
+                "description": "",
+                "people": [
+                        {
+                                "name": "Ricardo Moya Garcia",
+                                "about": "Doctor en Ciencias y Tecnologías de la Computación e Ingeniero Informático por la UPM, especializado en Inteligencia Artificial. Actualmente trabaja en Telefónica Innovación Digital como Especialista tecnológico en IA & Big Data, diseñando y liderando el desarrollo de productos con Inteligencia Artificial en el departamento de \"Applied AI & Privacy\" de CDO. También desempeña labores docentes como profesor de IA en Masters y Grados Universitarios. Ha trabajado como investigador en proyectos relacionados con Sistemas de Recomendación y Deep & Machine Learning y ha ejercido como director de Proyecto en DEVO, liderando proyectos de Big Data en tiempo real. Es Cofundador de la asociación profesional de Inteligencia Artificial \"AI-Network\" y cofundador de la web jarroba.com donde publica contenido técnico sobre IA e Informática.",
+                                "image": "/img/people/2024/rmoya.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3023",
+                "title": "METIS: La titánide (Abusando de la confianza de los documentos públicos)",
+                "metadata": "Idioma: es",
+                "description": "En la charla se explicará como es posible utilizar documentos públicos modificados (que el original nos lo ha proporcionado la propia administración) para nuestro beneficio y abusando de la confianza que se deposita en ellos y de la cantidad de documentación que se pide para cualquier trámite sea público y/o privado, ya que estos documentos modificados pasarán como verdaderos a ojo humano (que es lo que nos interesa), pero cuando se quiera comprobar su veracidad en el sistema de verificación de integridad documental este o nos indicará que no existe o nos mostrará el verdadero, dependiendo de la modificación que se le haga esta podrá ser detectable o no.Ojo: Realizar esto es delito de falsedad documental en documento público con las penas de prisión de seis meses a tres años y multa de seis a doce meses.",
+                "people": [
+                        {
+                                "name": "Tomás Isasia Infante",
+                                "about": "Soy @TiiZss aka Tomás Isasia, padre, chef y ex jugador aficionado de golf. Imparto clase en varias universidades, másteres y en FP. Tengo más de 20 años de experiencia en seguridad y gestión informática. Soy una vaca investigadora y de vez en cuando encuentro algo jugoso. He dado charlas en diferentes congresos nacionales e internacionales. Me encanta el humor. Soy fan de Star Wars, amante del queso y ConCebollista.",
+                                "image": "/img/people/2024/tisasia.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3024",
+                "title": "My mobile is screwing me up! Teleputeador v2.02.4",
+                "metadata": "Idioma: es",
+                "description": "La charla se centra en el estudio de los servicios de “callback” ofrecidos por empresas en España, que permiten a los usuarios solicitar una llamada telefónica gratuita. A pesar de cumplir con las regulaciones de privacidad, estos servicios a menudo requieren un consentimiento mínimo y solicitan pocos datos, lo que puede llevar a abusos y errores. La charla destaca cómo estas prácticas pueden resultar en llamadas no deseadas y discute las implicaciones de la falta de verificación de identidad y la posibilidad de automatización por bots. Se presentará un estudio sobre este tema y se mostrarán ejemplos de estas prácticas.",
+                "people": [
+                        {
+                                "name": "Ofelia Tejerina",
+                                "about": "Abogada. Dra. Derecho Constitucional. Presidenta Asociación de Internautas.",
+                                "image": "/img/people/2024/otejerina.png"
+                        },
+                        {
+                                "name": "Pablo Fernández Burgueño",
+                                "about": "Jurista y docente especializado en Legaltech y derecho del entretenimiento, marketing, ciberseguridad y protección de datos. Participa en el diseño de soluciones legales desde 2007. Forma parte de los espacios de protección de datos y criptoactivos del Centro Europeo de Ciberdelincuencia, de Europol. Es socio en INMERSIVA XR y ASEDA, miembro de DENAE y profesor asociado universitario.",
+                                "image": "/img/people/2024/pfernandez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3025",
+                "title": "Neo_Net - The Kingpin of Spanish eCrime",
+                "metadata": "Idioma: es",
+                "description": "'Neo_Net emerged as a significant figure within the realm of cybercrime, orchestrating and facilitating a substantial portion of Spain''s eCrime landscape over the past three years. His operations resulted in the misappropriation of over 350,000 EUR from victims across Spain and globally. Leveraging the burgeoning trend of online banking in a post-COVID era, Neo_Net adeptly exploited this transition by devising a sophisticated modus operandi, commencing with Smishing messages and culminating in the compromise of victims'' bank accounts.Utilizing personalized phishing panels and deploying Android malware in conjunction with a Telegram-based Command-and-Control (C2) framework, Neo_Net strategically targeted prominent Spanish financial institutions like BBVA and Santander, establishing an expansive eCrime ecosystem for his associates in the process.Join me on an exploration of Neo_Net''s cybercriminal endeavors spanning several years, where we will delve into the operational nuances. Furthermore, we will dissect a series of operational security (OPSEC) oversights that inadvertently unveiled pivotal information related to Neo_Net''s identity. Additionally, I will provide actionable insights into leveraging Telegram-as-a-C2 in the context of cybercriminal investigations.'",
+                "people": [
+                        {
+                                "name": "Pol Thill",
+                                "about": "Pol Thill lives for the hunt! Be it nation-state adversary or eCrime actor, he will explore any means to expose their operations and unmask the individuals hiding behind the digital veil. Drawing upon this expertise, Pol has held different Threat Intelligence positions as well as lead the Luxembourgish cybersecurity team. Cybercriminal investigations are what he thrives for.",
+                                "image": "/img/people/2024/pthill.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3026",
+                "title": "NightClubMare: Hackeando dispositivos de DJs",
+                "metadata": "Idioma: es",
+                "description": "Todo el mundo alguna vez ha salido de fiesta, ya sea con amigos, familiares o solos. Ese gran antro con altavoces enormes, música puesta por un DJ profesional sonando sin parar y gente bailando con la finalidad de pasarselo bien una noche pero... ¿Sabías que ese espacio se puede convertir en una autentica pesadilla?En esta charla se presenta NightClubmare, un framework capaz de obtener el control de los aparatos profesionales que utilizan los DJ para poner música. ¿Dices que es imposible? En este mundo tan conectado todo es posible. Ponte la capucha y haz que los DJ sientan el terror con NightClubMare.",
+                "people": [
+                        {
+                                "name": "David Cuadrado Gomez",
+                                "about": "",
+                                "image": "/img/people/2024/dcuadrado.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3027",
+                "title": "No sólo de Terraform vive el hombre",
+                "metadata": "Idioma: es",
+                "description": "El objetivo es mostrar, más allá de Terraform; primero veremos a sus hermanos como Vagrant, Packer, Vault; que son y cómo trabajan con Terraform. Veremos otras opciones y alternativas para, combinarlo con scripts de python, Ansible, Salt, etc. Pondremos ejemplos de sistemas creados con estas herramientas para ver las diferencias y elegir las apropiadas para nuestros intereses.",
+                "people": [
+                        {
+                                "name": "Oscar García-Rama García",
+                                "about": "Llevo toda mi vida relacionada con temas de cloud y ciberseguridad. Desde hace más de 12 años trabajando y diseñando arquitecturas seguras en la nube. Durante más de 20 años he desarrollado tareas de gestión de riesgos y he ayudado a empresas y organismos, tanto nacionales como internacionales, a mejorar, probar y proteger sus entornos. Mi mente inquieta que lleva a estar siempre probando e investigando cosas nuevas continuamente, tanto a nivel técnico, como a nivel empresarial.",
+                                "image": "/img/people/2024/ogarciarama.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3028",
+                "title": "Python en el día día de un pentester",
+                "metadata": "Idioma: es",
+                "description": "Charla en la que se explican las principales integraciones de Python con herramientas de Hacking y pentesting. Será muy práctica y los asistentes podrán ver cómo crear rutinas sencillas y potentes para no «reinventar la rueda» y automatizar el uso de herramientas ya existentes.",
+                "people": [
+                        {
+                                "name": "Daniel Echeverri Montoya",
+                                "about": "Adastra es founder en TheHackerWay. Formador y pentester con cerca de 20 años de experiencia en el sector IT.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3029",
+                "title": "Respuesta ante incidentes, ayuno intermitente",
+                "metadata": "Idioma: es",
+                "description": "Aventuras y desventuras de los analistas de CSIRT en las que, a veces, las cenas se nos juntan con el desayuno...",
+                "people": [
+                        {
+                                "name": "Marta López Pardal",
+                                "about": "Analista de seguridad especializada en entornos defensivos y enamorada del Blue Team. A caballo entre el nivel 3 del SOC y el equipo de respuesta ante incidentes en Kyndryl España. Mentora de la Ciber Liga de la Guardia Civil y docente en sus ratos libres, ha colaborado en proyectos de diferentes sectores como banca, seguros, instituciones públicas etc.",
+                                "image": "/img/people/2024/mlopez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3030",
+                "title": "Robando 54 Millones de dolares. El caso Kyberswap",
+                "metadata": "Idioma: es",
+                "description": "Sin lugar el ataque más sofisticado en las redes blockchain hasta la fecha.El atacante se hace con un botín de aproximadamente 54 millones de dólares, todo ello gracias a encontrar una vulnerabilidad de precisión infinitesimal en uno de los protocolos más importantes de Blockchain como es el caso de KyberSwap Elastic. Analizaremos en detalle el hack y veremos cómo una vulnerabilidad aparentemente resuelta tras pagar más de 1 millón de dólares en un bug bounty a un whitehat y tras contar con una auditoría de seguridad posterior, de una de las firmas más reconocidas en seguridad blockchain, es finalmente hackeado.",
+                "people": [
+                        {
+                                "name": "RAUL RIESCO GRANADINO",
+                                "about": "PhD in Telecommunications Engineering by Polytechnic University of Madrid (UPM) 2019 and Telecommunication Engineer by Polytechnic University of Madrid (UPM) 2002. He is a cybersecurity expert with more than 24 years of professional experience at all levels working for both private and public sector. He has been appointed as expert in different European Commission groups related to Research and Development like PASAG (protection and security advisory group) due his personal capacity as well as represented Spain at ECSO (European Cybersecurity Organization) Board of Directors. Raúl had received several awards related to his contributions to the society (Infanta Cristina Accessibility Awards), and he has been the Technical Lead of the Spanish Cybersecurity CTF team of young talents which represented Spain at European Cybersecurity Challenge organized by ENISA and was the winner on 2016 and 2017 against all European countries. Since 2016 is an expert of Blockchain Cybersecurity. He co-founded and was the CISO of a DeFi startup named Babylon Finance which reached 30MM TVL, founded Mandalorian Security (rebranded under Blockchain Security Whitehackers) and since March 2023 is Lead Security Auditor at Polygon Labs, the 3rd Crypto Network by Fortune Crypto Top 40 ranking which a market value of 10 billion dollars. In 2023 he got the gold medal 1st place in the world wide CTF 0xMonaco The Battle of Titans of blockchain security. As Cybersecurity researcher he has published different scientific papers contributing to the state of the art. Raúl frequently takes part as a speaker in hacking and cybersecurity conferences and most of them are available through Youtube.",
+                                "image": "/img/people/2024/rriesco.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3031",
+                "title": "Seguridad en sistemas de videoconferencia",
+                "metadata": "Idioma: es",
+                "description": "En los últimos años, hemos sido testigos de una transformación sin precedentes en la comunicación empresarial. Antes, las interacciones cara a cara y los viajes frecuentes eran habituales en nuestras agendas. Sin embargo, la pandemia ha cambiado drásticamente este escenario, convirtiendo los servicios de audio y videoconferencia de una simple opción a una necesidad imperativa. Pero, ¿cómo funciona este tipo de sistemas?, ¿son seguros?",
+                "people": [
+                        {
+                                "name": "Jose Luis Verdeguer Navarro",
+                                "about": "Ingeniero Técnico de Sistemas Informáticos y Máster en Desarrollo de Aplicaciones y Servicios Web por la Universidad de Alicante. Con más de 25 años inmerso en el mundo de la seguridad informática, me dedico a administrar sistemas de VoIP, realizar auditorías de seguridad de diferentes sistemas, y doy clases en la Universidad de Alicante en materias relacionadas con la seguridad y el hacking ético.",
+                                "image": "/img/people/2024/jlverdeguer.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3033",
+                "title": "'The SOC''S Journey: From Basic Automation to Al in Cybersecurity - Understanding the Realities'",
+                "metadata": "Idioma: es",
+                "description": "'For some time now, AI has become a vital ally for cybersecurity solutions, which is why it is becoming a trend in the construction of new systems for large software companies. As it could not be otherwise, being the SOC a fundamental piece in the operation of security in an organisation, artificial intelligence invites us to create new opportunities for its use, seeking to partially or totally solve part of the processes or activities that fall under the competence of a SOC. Based on the conviction to efficiently improve the technical and tactical processes of a SOC, and thus achieve the desired evolution. In this talk, we will seek to debunk the myths behind artificial intelligence and the SOC''s evolution, and based on practical cases, we will share which scenarios are realistic to be conquered in the short term.'",
+                "people": [
+                        {
+                                "name": "Craig Simonson",
+                                "about": "Craig has over 20 years of experience and has been working as a consultant exclusively on cybersecurity-related projects for the past decade. Starting with a strong foundation in the Microsoft infrastructure stack and Microsoft 365 migrations, focus shifted toward the Defender solutions, culminating in his current expertise in multi-vendor SIEM/SOAR scenarios. Beyond the technical and automation aspects, his expertise lies in defining and implementing security team processes across organizations. At RootedCON, Craig will offer insights into the practical integration of AI within SOC processes.",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Lucas Ferrero",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3034",
+                "title": "Tipologías de los ciberincidentes vistos desde diferentes instituciones",
+                "metadata": "Idioma: es",
+                "description": "Tipologías de los ciberincidentes vistos desde diferentes instituciones",
+                "people": [
+                        {
+                                "name": "Maria Penilla",
+                                "about": "Ingeniera Superior de Telecomunicaciones con un MBA por la Universidad Politécnica de Madrid. Con más de 20 años de experiencia en el sector de las telecomunicaciones, implantando y liderando proyectos de comunicaciones en empresas. Durante los últimos 10 años ha centrado su actividad en la ciberseguridad, llevando a cabo proyectos de ciberseguridad en empresas de diferentes sectores. En la actualidad es Directora General de la Fundación ZIUR, puesto desde el que se encarga de gestionar la infraestructura y estrategia tecnológica de la Fundación, y de la definición y prestación de los diferentes servicios que, desde ZIUR, se pone a disposición de las empresas industriales guipuzcoanas",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Francisco Alonso Batuecas",
+                                "about": "Jefe de área de Infraestructura y Seguridad TIC, en el Centro Tecnológico de Seguridad (CETSE) de la Secretaría de Estado de Seguridad Ministerio del Interior.Desde hace más de 15 años, es responsable del departamento de Infraestructura y Seguridad TIC, en el CETSE (Centro Tecnológico de Seguridad). Master de Dirección TIC para la Defensa, por la Universidad de Vigo, Centro Universitario de la Defensa de la Escuela Naval Militar.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3035",
+                "title": "Tu robot ha perdido una tuerca",
+                "metadata": "Idioma: es",
+                "description": "Los entornos industriales integran cada vez más robots colaborativos para optimizar la producción, mejorar la eficiencia de los trabajadores o realizar tareas de supervisión. Mantener la seguridad de estas plataformas robóticas industriales abre numerosos retos ante las posibles consecuencias económicas, materiales y personales.En esta presentación se hará un breve repaso de las amenazas más extendidas en entornos robóticos presentando diferentes ataques a dos robots: nuestro cuadrúpedo \"Tuercas\" (Unitree A1) y a nuestro manipulador industrial \"Manco\" (Universal Robot - UR3). Esta presentación se encuentra enmarcada dentro del proyecto SEGRES (SEGuridad y RESiliencia) que busca innovar en ciberseguridad industrial, desarrollando tecnologías disruptivas inspiradas en el Sistema Inmunitario Humano.",
+                "people": [
+                        {
+                                "name": "Claudia Álvarez Aparicio",
+                                "about": "Doctora en Ingeniería Informática. Máster en Investigación en Ciberseguridad. Miembro del Grupo de Robótica de la Universidad de León. Actualmente Profesora Ayudante Doctor en la Universidad de León.",
+                                "image": "/img/people/2024/calvarez.png"
+                        },
+                        {
+                                "name": "Adrián Campazas Vega",
+                                "about": "Doctor en Ingeniería Informática. Máster en Investigación en Ciberseguridad. Miembro del Grupo de Robótica de la Universidad de León. Actualmente Profesor Ayudante Doctor en la Universidad de León.",
+                                "image": "/img/people/2024/acampazas.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3036",
+                "title": "Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem",
+                "metadata": "Idioma: es",
+                "description": "Short Message Service (SMS) is a popular channel for online service providers to verify accounts and authenticate users registered to a particular service. Specialized applications, called Public SMS Gateways (PSGs), offer free Disposable Phone Numbers (DPNs) that can be used to receive SMS messages. DPNs allow users to protect their privacy when creating online accounts. However, they can also be abused for fraudulent activities and to bypass security mechanisms like Two-Factor Authentication (2FA). In this paper, we perform a large-scale and longitudinal study of the DPN ecosystem by monitoring 17,141 unique DPNs in 29 PSGs over the course of 12 months. Using a dataset of over 70M messages, we provide an overview of the ecosystem and study the different services that offer DPNs and their relationships. Next, we build a framework that (i) identifies and classifies the purpose of an SMS; and (ii) accurately attributes every message to more than 200 popular Internet services that require SMS for creating registered accounts. Our results suggest that the DPN ecosystem is globally abused for fraudulent account creation and access, affecting all major Internet platforms and online services.",
+                "people": [
+                        {
+                                "name": "Juan Tapiador",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3037",
+                "title": "Applying Fault Injection to the Firmware Update Process of a DJI Drone",
+                "metadata": "Idioma: es",
+                "description": "Gabriel Gonzalez, IOActive Director of Hardware Security presents full technical detail of his research into drone security and side-channel/fault injection attacks in this whitepaper.The use of Unmanned Aerial Vehicles (UAVs), commonly referred to as drones, continues to grow. Drones implement varying levels of security, with more advanced modules being resistant to typical embedded device attacks. IOActive’s interest is in developing one or more viable Fault Injection attacks against hardened UAVs.This talk covers IOActive’s work in setting up a platform for launching side-channel and fault injection attacks using a commercially available UAV. We describe how we developed a threat model, selected a preliminary target, and prepared the components for attack, as well as discussing what we hoped to achieve and the final result of the project.",
+                "people": [
+                        {
+                                "name": "Gabriel Gonzalez Garcia",
+                                "about": "As the Director of Hardware Security for IOActive and a vulnerability researcher, Gabriel Gonzalez has completed hundreds of projects in the areas of reverse engineering, code review, and integrated hardware and software penetration testing. His primary focus is hardware and embedded system technologies, with specialized expertise in low-level attack vectors and fault-injection and side-channel analysis. Gabriel has engaged his research efforts in the fields of automotive, avionics, smart grid/utilities, SATCOM, banking devices, IOT, and many others.Gabriel is actively engaged with the security research community and has presented numerous original cybersecurity research projects at major conferences such as Black Hat Europe.",
+                                "image": "/img/people/2024/ggonzalez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3038",
+                "title": "ASM & IA, What’s next?",
+                "metadata": "Idioma: es",
+                "description": "Las tecnologías de monitorización de la superficie de exposición (ASM) son una de las áreas de mayor evolución actualmente. Estas tecnologías ayudan a las compañías a conocer que activos tienen en Internet en cada momento, saber cuales son las vulnerabilidades que les afectan y también permiten priorizar la resolución de las vulnerabilidades no solo en base al CVSS si no en función de la importancia para la organización de cada activo.Sin duda ninguna finales del 2022 asistimos al inicio de una revolución que esta modificando la sociedad y sus procesos productivos. La irrupción de los grandes modelos del lenguaje (LLM) y de la Inteligencia Artifial generativa ha dado mucho que hablar, pero sobre todo esta ayudando muchos profesionales a ser mas productivos en su día a día.Durante esta conferencia se presenta el trabajo que venimos haciendo en VAPASEC en el que combinamos ASM e IA para ayudar a los profesionales y organizaciones a reducir los riesgos a los que se exponen en Internet.",
+                "people": [
+                        {
+                                "name": "Pablo San Emeterio",
+                                "about": "Pablo San Emeterio es Ingeniero Informático y Máster en Auditoría y Seguridad de la Información por la UPM, posee distintas certificaciones como son CISA o CISM. Ha trabajado desde hace más de 20 años en distintos puestos relacionados con el desarrollo de software y la I+D+i. En el mundo de la seguridad informática lleva trabajando más de 15 años, en empresas como Optenet o Telefónica. Entre sus trabajos destacan sus investigaciones sobre la seguridad de las distintas aplicaciones de mensajería instantánea junto con trabajos sobre técnicas de hooking. Esto le ha permitido participar como ponente en los principales en eventos internacionales de renombre tales como Shmoocon (Washington) o BlackHat (Amsterdam, Sao Paulo y Las Vegas), así como ponencias en congresos nacionales de prestigio como Rootedcon, Jornadas STIC, NcN, Navajas Negras, etc.Actualmente es fundador y director de VAPASEC. VAPASEC es un proveedor global de ciberseguridad que ofrece servicios y soluciones para ayudar a las organizaciones a mejorar su protección digital.Además, es profesor del Máster en Ciberseguridad de la UCAM, del curso OSINT: Investigaciones en Internet mediante fuentes abiertas de aesYc y colabora con la fundación Goodjob. Toda esta labor la compagina todos los lunes en el programa de radio CiberAfterWork que de emite en Capital Radio, donde se tratan temas de actualidad del mundo de la ciberseguridad y se difunde la cultura de ciberseguridad en la sociedad.",
+                                "image": "/img/people/2024/psanemeterio.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3039",
+                "title": "Aumenta tus capacidades de ciberseguridad con servicios de AI",
+                "metadata": "Idioma: es",
+                "description": "Conoce las capacidades de Inteligencia Artificial disponibles en el Cloud de AWS. Durante la charla hablaremos de las capacidades de customización y tipos de LLM que ponemos a tu disposición y de métodos para identificar qué riesgos aplican a tus cargas GenAI y como mitigarlos con la implementación de guardarraíles de seguridad.",
+                "people": [
+                        {
+                                "name": "Tomas Clemente Sanchez",
+                                "about": "Tomás Clemente es un experto en seguridad y privacidad de la nube, que ha trabajado en el desarrollo y implementación de marcos de seguridad y protección de datos en el sector público y privado, español y europeo. Desde hace 7 años es arquitecto de seguridad en Amazon Web Services y trabaja en la creación y adopción de tecnologias de seguridad en la nube para el sector público.",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Jose Luis Prieto Priego",
+                                "about": "Ingeniero Informático, actualmente trabajando cómo arquitecto de soluciones en Amazon Web Services donde desde hace algo más de 6 años ayuda a cliente en el camino a la Cloud. Dentro de AWS trabaja con cliente del sector financiero y forma parte del equipo de especialistas global a seguridad y cumplimiento.",
+                                "image": "/img/people/2024/jlprieto.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3040",
+                "title": "Caos y orden: descubriendo fuentes de entropía",
+                "metadata": "Idioma: es",
+                "description": "En esta charla hablaremos de un componente que juega un papel crucial en la criptografía moderna. Normalmente subestimado y malentendido, las fuentes de entropía constituyen la piedra angula de los sistemas criptográficos seguros, siendo no solo usadas para la generación de claves criptográficas robustas, si no para garantizar la imprevisibilidad y la resistencia contra ataque.",
+                "people": [
+                        {
+                                "name": "Agustin Sanchez Bosque",
+                                "about": "Ingeniero Industrial Electrónico en el campo de la seguridad informática y con experiencia en auditoría y certificación de productos criptográficos.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3041",
+                "title": "Ciberasegúrame por favor!!!!!",
+                "metadata": "Idioma: es",
+                "description": "Los seguros van irremediablemente ligado al desarrollo comercial y económico de los países. En el mundo digital si bien no existen esas fronteras geográficas, le aplica la misma regla, según se ha ido desarrollando la economía digital se ha ido desarrollando en paralelo el mundo del seguro.Si bien el producto de ciberseguro existe desde hace algunas décadas, y su crecimiento ha sido constante, continuo y significativo, es un tipo de seguro que se encuentra en un momento crítico por varios factores.En la charla abordaremos las características que tienen estos productos, los principales desafíos intrínsecos a los que está sometido, las diferencias fundamentales que hacen este tipo de seguros diferentes a otros seguros y otra serie de factores que debe superar para que el ciberseguro se establezca como un producto estable.Si tienes curiosidad por profundizar en algo que probablemente te parezca sencillo, pero esconde una gran complejidad, esta charla te va a interesar.",
+                "people": [
+                        {
+                                "name": "Daniel Largacha Lamela",
+                                "about": "Ingeniero informática por la UPM, con más de 20 años de experiencia en el sector de la ciberseguridad. Ha trabajado en Telefónica, Deloitte y Azertia, hasta incorporarse en 2005 a MAPFRE como administrador de seguridad. Desde 2007 participó en la creación del área corporativa de seguridad ayudando a montar el área operativa, actualmente es Director del Centro de Operaciones de Seguridad en MAPFRE.Adicionalmente dispone de un Master en Gestión de Entidades Aseguradoras (ICEA y Universidad Pontificia de Salamanca), y dispone de las certificaciones CISA, CISSP, CHFI, 27001: Lead Implementer, CDPSE y Director de Seguridad por el Ministerio del Interior.También colabora con la asociación ISMS como Director del Capítulo de Ciberseguridad, y es profesor en varios cursos y Master de Ciberseguridad.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3042",
+                "title": "Cryptofails: auditando y explotando errores de implementación",
+                "metadata": "Idioma: es",
+                "description": "El desarrollo de productos criptográficos seguros es una tarea crucial que demanda atención detallada a aspectos técnicos y de seguridad. Errores comunes en la implementación, como el uso de mecanismos criptográficos obsoletos, una gestión inadecuada de las claves y las vulnerabilidades en la implementación de algoritmos, pueden dar lugar a problemas significativos, permitiendo a los atacantes comprometer la seguridad del producto.Con el objetivo de evitar la ocurrencia de estos errores comunes, CCN ha desarrollado, en colaboración con jtsec, una metodología para evaluar los mecanismos criptográficos, garantizando así una implementación correcta y robusta de los mismos.En esta charla, nos centraremos en explorar a fondo los errores más comunes que se cometen en la implementación de la criptografía, explicando en profundidad diversos tipos de ataques que podrían poner en peligro la seguridad de los mecanismos criptográficos. Además, proporcionaremos información detallada sobre cómo la metodología de evaluación contribuye a prevenir estos errores.        Juan Martinez Romero  Ingeniero en Tecnologías de Telecomunicación y Máster en Ciberseguridad por la Universidad de Granada. Además, dispone de la certificación CriptoCert Certified Crypto Analyst, que lo acredita como experto en el ámbito de la criptografía.Mánager del Departamento de Criptografía de jtsec, laboratorio de ciberseguridad acreditado por CCN, y Consultor Senior de Ciberseguridad. Además, es experto en múltiples metodologías de evaluación de productos criptográficos como FIPS 140-2/3 y PCI-PTS. y ha sido participe junto a CCN en el desarrollo de la Metodología Española de Evaluación Criptográfica.",
+                "people": [
+                        {
+                                "name": "Juan Martinez Romero",
+                                "about": "Ingeniero en Tecnologías de Telecomunicación y Máster en Ciberseguridad por la Universidad de Granada. Además, dispone de la certificación CriptoCert Certified Crypto Analyst, que lo acredita como experto en el ámbito de la criptografía.Mánager del Departamento de Criptografía de jtsec, laboratorio de ciberseguridad acreditado por CCN, y Consultor Senior de Ciberseguridad. Además, es experto en múltiples metodologías de evaluación de productos criptográficos como FIPS 140-2/3 y PCI-PTS. y ha sido participe junto a CCN en el desarrollo de la Metodología Española de Evaluación Criptográfica.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3043",
+                "title": "From Zero to Hero - An in-depth Threat Intelligence investigation",
+                "metadata": "Idioma: es",
+                "description": "En una de nuestras últimas investigaciones hemos analizado un servidor web comprometido y hemos visto que había sido afectado por un backdoor en PHP. Tras analizarlo, hemos visto que forma parte de una desconocida botnet de servidores web comprometidos.Comenzamos nuestra investigación partiendo del malware donde lo analizamos en profundidad para comprender su funcionalidad, así como su configuración, C2 y comandos implementados.La investigación se extendió al command and control donde, gracias a errores cometidos por su desarrollador, hemos conseguido obtener información interna del C2 y del propio malware. Finalmente, conseguimos crear relaciones entre el malware y grupos/actores concretos.",
+                "people": [
+                        {
+                                "name": "Albert Priego Bravo",
+                                "about": "Albert Priego trabaja actualmente como Investigador Senior en RSA Netwitness en el área de Threat Intelligence & IR y lidera parte del área técnica en Europa.Anteriormente trabajó en Group-IB donde realizó investigaciones internacionales que resultaron en la identificación y neutralización de APTs y botnets entre otras amenazas de alto perfil cooperando junto a diferentes fuerzas de seguridad.Durante su trayectoria, ha trabajado en la resolución de IRs de infraestructuras críticas y figuras públicas. A lo largo de sus +10 años de trayectoria profesional ha colaborado con diferentes equipos tanto nacionales como internacionales.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3044",
+                "title": "Hardware Implant Revolution: Unveiling ISM Bands on Hardware Implants for Red Team Operations",
+                "metadata": "Idioma: es",
+                "description": "Building a physical implant for Red Team engagements brings with it some unique challenges. For one, such an implant could be put just about anywhere: a bathroom without a power outlet, it could be dropped from a drone onto a roof or shack, the possibilities are endless. The potential for unlimited locations, then, requires a configuration unique to each. This presentation will dive into the analysis, design and implementation of physical implants using LoRa modulation as an alternative method of remote communication for Red Team operations.",
+                "people": [
+                        {
+                                "name": "Victor Fernandez Minguillon",
+                                "about": "Victor is a Senior Red Team Analyst at United Airlines with 6 years of experience in offensive security. After immigrating to the United States in 2017 from Spain, Victor started his stateside career at Underwriter Laboratories doing penetration testing on medical device technologies, including software and hardware-embedded devices, wireless devices, and web and mobile applications. In his current position, Victor performs and manages Red Team Engagements, Attack Surface Reduction assessments, Physical Engagements, and handles United Airlines’ Vulnerability Disclosure Program to help enhance United’s cybersecurity posture. In his free time, Victor spends time with his wife and three children (hackers are great at hide-and-seek).",
+                                "image": "/img/people/2024/vfernandez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3045",
+                "title": "HoneyTraps: Discovering macOS vulnerabilities like Winnie The Pooh",
+                "metadata": "Idioma: es",
+                "description": "Winnie The Pooh: Oh, hola amigos. Hoy me gustaría compartir algo emocionante. ¿Han oído hablar de las vulnerabilidades en los sistemas operativos macOS? Es como buscar miel, pero en el mundo de la tecnología.\"Piglet: \"¿Vulnerabilidades, Pooh? Eso suena un poco complicado. ¿Cómo podemos entenderlo?\"Winnie The Pooh: \"Bueno, Piglet, vamos a empezar con una introducción a algunos sistemas de protección de macOS. Así, todos podremos seguir la charla sin problemas. Es como asegurarnos de conocer bien el bosque antes de buscar miel.\"Tigger: \"¡Eso suena genial! ¿Y qué pasa después, Pooh?\"Winnie The Pooh: \"Después de eso, Tigger, nos adentraremos en un estudio detallado de informes sobre vulnerabilidades en el userland de macOS. Hemos notado que algunas vulnerabilidades se explotan de manera muy similar. Es como cuando encontramos las mismas huellas alrededor de diferentes árboles de miel.\"Piglet: \"¿Y cómo nos ayuda eso, Pooh?\"Winnie The Pooh: \"Ahí es donde entra en juego algo que llamé 'HoneyTokens'', Piglet. Son como señuelos o trampas digitales que ponemos para atrapar vulnerabilidades sin tener que buscarlas específicamente. Nos hacen más eficientes, como si la miel viniera a nosotros.\"Tigger: \"¡Eso suena divertido y también muy útil! ¿Será complicado?\"Winnie The Pooh: \"No te preocupes, Tigger. La charla será una mezcla de teoría y práctica, perfecta tanto para aquellos que son muy experimentados en seguridad como para los que recién comienzan. Será como una aventura en el Bosque de los Cien Acres, explorando, aprendiendo y, por supuesto, buscando miel... o en este caso, vulnerabilidades.\"Piglet: \"¡Qué emocionante, Pooh! Estoy seguro de que aprenderemos mucho.\"Winnie The Pooh: \"Así es, amigos. Y lo más importante, lo haremos juntos, descubriendo y aprendiendo en cada paso del camino.\"",
+                "people": [
+                        {
+                                "name": "CARLOS POLOP MARTIN",
+                                "about": "Carlos es Ingeniero de Telecomunicaciones con un Master en Ciberseguridad.Ha trabajado principalmente como Penetration Tester y Red Teamer para varias empresas, y cuenta con varias certificaciones relevantes en el campo de la ciberseguridad como OSCP, OSWE, OSMR, CRTP, eMAPT, eWPTXv2, HTB BlackSky, htARTE...Fue capitán del equipo español en la ECSC2021 y miembro del Team Europe para la ICSC2022.Ha sido ponente en varias conferencias internacionales como DEFCON2023, HackSpaceCon, RootedCON...Es cofundador de HackTricks Training.Desde que empezó a aprender ciberseguridad ha intentado compartir sus conocimientos con la comunidad de cyberseguridad publicando herramientas de código abierto como https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite y escribiendo un libro de hacking gratuito que cualquiera puede consultar en https://book.hacktricks.xyz",
+                                "image": "/img/people/2024/cpolop.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3046",
+                "title": "LLMs: La Nueva Frontera de la Inteligencia en DevSecOps",
+                "metadata": "Idioma: es",
+                "description": "En la presentación mostraremos varias pruebas de conceptos cómo integrar LLMs en entornos DevSecOps, que nos ayudarán con la automatización de tareas de seguridad. Creando modelos expertos basados en las politicas internas de la empresa, aplicaciones y despliegues de aplicaciones, así como la recomendación de mejoras en la arquitectura y generación de documentación para desarrolladores.Se explcará el proceso seguido en cada prueba de concepto explicando el uso de los componentes envueltos.",
+                "people": [
+                        {
+                                "name": "Rafael Troncoso Perez",
+                                "about": "En 1998 empecé mi andadura profesional trabajando para el Departamento de Defensa estadounidense. De ahí fui a la agencia HHS (FDA), luego a DHS (USCIS). Después de 20 años trabajando para diferentes agencias del gobierno estadounidense, pasé al sector privado trabajando por más de 4 años en SAP Concur como ingeniero de software senior y security champion inicialmente, y luego como AppSec engineer. Actualmente desempeño ese mismo role, AppSec engineer, en Tesla.Co-autor de los libros publicados por 0xWord: Microhistorias: anécdotas y curiosidades de la informática y Docker: SecDevOps y autor en solitario del libro Kubernetes para profesionales: Desde cero al despliegue de aplicaciones seguras y resilientes.",
+                                "image": "/img/people/2024/rtroncoso.png"
+                        },
+                        {
+                                "name": "Francisco José Ramírez Vicente",
+                                "about": "Fran Ramírez (@cybercaronte), Ingeniero en Informática de Sistemas, Técnico Superior en Electrónica Digital y Máster en Universitario en Ciberseguridad de las TIC, con más de 15 años de experiencia como administrador de sistemas en proyectos internacionales en EEUU y Canadá. Actualmente, investigador de seguridad informática y Machine Learning en el equipo de Ideas Locas CDO de Telefónica. Co-fundador y escritor del blog de temas geek www.cyberhades.com (nick: cybercaronte) donde hablamos de Seguridad Informática e Historia de la Informática. Co-autor de los libros: \"Microhistorias: Anécdotas y curiosidades de la Informática\", \"Docker: SecDevOps\" y \"Machine Learning aplicado a la Ciberseguridad\"",
+                                "image": "/img/people/2024/fjramirez.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3047",
+                "title": "MiTM en puntos de recarga de vehículos eléctricos",
+                "metadata": "Idioma: es",
+                "description": "Para la carga de los vehículos eléctricos, existe una comunicación bidireccional entre el vehículo y la estación de carga para indicar los diferentes estados y potencias de carga disponibles . En el caso de Europa, para los cargadores lentos en AC, se utiliza un cable, que en la mayoría de los casos es provisto por el usuario para realizar dicha carga. Por tanto, el objetivo es suplantar y modificar la comunicación entre dichos elementos de la recarga, utilizando para ello un cable malicioso. Este cable, como parte de un PoC, presenta la característica de que puede modificar los flujos de información entre la estación base y el vehículo eléctrico por la línea de control, realizando un ataque de demanda MiTM, modificando tanto el estado de recarga del vehículo eléctrico como la potencia “disponible” que indica la estación de carga. Además, y si es configurado correctamente y se desarrolla sobre este concepto, este cable puede obtener información adicional del vehículo, como su dirección MAC, que permite la suplantación de identidad del vehículo en otras estaciones de carga que utilicen la carga rápida en DC.",
+                "people": [
+                        {
+                                "name": "Javier Jarauta Gastelu",
+                                "about": "Estudiante de Doble Máster de Ingeniería de Telecomunicaciones y Ciberseguridad en Comillas ICAI. Colaborando en el proyecto de la Comisión Europea eFort, para la securización de las redes eléctricas europeas. Apasionado del reversing y el cacharreo. En la actualidad, estudiando en Chicago en Illinois Tech y como detalle adicional, violinista y salsero.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3048",
+                "title": "Project S4UR0N: A tool to beat them all",
+                "metadata": "Idioma: es",
+                "description": "La simulación de adversarios en entornos multicloud es aún un camino entre julio y septiembre, \"ANGOSTO\". En nuestro caso, decidimos poner las cosas más fáciles a nuestro Purple Team creando un orquestador de simulación de adversarios que permitiera la ejecución de pruebas en los diversos y heterogéneos entornos de Swiss Re.",
+                "people": [
+                        {
+                                "name": "Nicolás Moral de Aguilar",
+                                "about": "Senior Vulnerability Management Engineer en Swiss Re. Grado en Ingeniería Informática. Máster en Ciberseguridad y Privacidad. Staff de Hackén.",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Cristina Barbero Eugenio",
+                                "about": "Graduada en Ingeniería de Tecnologías de Telecomunicación por la Universidad Carlos III de Madrid. Actualmente trabajo como DevOps Engineer en Swiss Re, donde gracias a mi equipo (Continuous Security Assurance) me estoy adentrando en el apasionante mundo de la ciberseguridad para garantizar la seguridad, integración y mejora continua de las aplicaciones.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3049",
+                "title": "The Lord Of Domains",
+                "metadata": "Idioma: es",
+                "description": "Realizar un buen reconocimiento de activos no sirve de nada sin un correcto análisis de los resultados. Queremos profundizar en el análisis exhaustivo de subdominios, la correlación de los mismos y cómo detectar los famosos subdomains takeovers. Una meticulosa monitorización proporciona una ventaja estratégica en la identificación y mitigación de amenazas frente a los adversarios, que no te ganen la carrera.",
+                "people": [
+                        {
+                                "name": "Camilo Andrés",
+                                "about": "Camilo Andrés (@camiloab97) es ingeniero de telecomunicaciones por la Universidad Politécnica de Madrid. Certificado en BSCP. Actualmente, trabaja como analista senior de seguridad ofensiva dentro del Grupo Zerolynx. Cuenta con dos CVE publicados (CVE-2023-0506 y CVE-2023-28632). Recientemente, ganador con el equipo de España del mundial de Bug Bounty 2023.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        }
+]
