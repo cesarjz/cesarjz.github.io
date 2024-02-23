@@ -1,106 +1,107 @@
-{
-        "7 Marzo - ROOTEDCON": {
+[
+        {
+                "when": "7 Marzo - ROOTEDCON",
                 "rooms": [
                         {
                                 "track": "",
                                 "talks": [
                                         {
                                                 "title": "ROOTEDCON - KEYNOTE",
-                                                "timestart": "T10:00",
-                                                "timeend": "T10:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T10:00",
+                                                "timeend": "T10:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T10:30",
-                                                "timeend": "T11:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T10:30",
+                                                "timeend": "T11:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ROOTEDCON",
                                                 "timestart": "T11:30",
                                                 "timeend": "T12:00",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ROOTEDCON",
                                                 "timestart": "T12:00",
                                                 "timeend": "T13:00",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ROOTEDCON",
                                                 "timestart": "T15:00",
                                                 "timeend": "T15:30",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ROOTEDCON",
                                                 "timestart": "T15:30",
                                                 "timeend": "T16:30",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": []
                                         }
                                 ]
@@ -110,11 +111,11 @@
                                 "talks": [
                                         {
                                                 "title": "¡Innovación Nivel Épico! Desafiando el Hype de la IA en Ciberseguridad",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -124,11 +125,11 @@
                                         },
                                         {
                                                 "title": "Look at me, I'm the EDR now",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -147,11 +148,11 @@
                                 "talks": [
                                         {
                                                 "title": "Red Team en 2024: Investigación, técnicas y metodología",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -165,11 +166,11 @@
                                         },
                                         {
                                                 "title": "Dark territory: paralizando la red ferroviaria de un país entero",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -183,11 +184,11 @@
                                         },
                                         {
                                                 "title": "Cómo crear una herramienta OpenSource para analizar SmartContracts",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -197,11 +198,11 @@
                                         },
                                         {
                                                 "title": "My mobile is screwing me up!",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -215,11 +216,11 @@
                                         },
                                         {
                                                 "title": "Tu robot ha perdido una tuerca",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -238,11 +239,11 @@
                                 "talks": [
                                         {
                                                 "title": "Hardware hacking desde 0 para mete comillas / comandos - The Buzzpirat",
-                                                "timestart": "T14:00",
-                                                "timeend": "T15:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T14:00",
+                                                "timeend": "T15:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -256,11 +257,11 @@
                                         },
                                         {
                                                 "title": "The first rule of CLR is you do not simply inject the CLR",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -274,11 +275,11 @@
                                         },
                                         {
                                                 "title": "HackerOne AWC - Campeones del mundo 2023",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -326,81 +327,82 @@
                         }
                 ]
         },
-        "7 Marzo - ISACA MADRID": {
+        {
+                "when": "7 Marzo - ISACA MADRID",
                 "rooms": [
                         {
                                 "track": "",
                                 "talks": [
                                         {
                                                 "title": "ROOTEDCON - KEYNOTE",
-                                                "timestart": "T10:00",
-                                                "timeend": "T10:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T10:00",
+                                                "timeend": "T10:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T10:30",
-                                                "timeend": "T10:45",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T10:30",
+                                                "timeend": "T10:45",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T11:30",
-                                                "timeend": "T12:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T11:30",
+                                                "timeend": "T12:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ISACA MADRID",
                                                 "timestart": "T14:00",
                                                 "timeend": "T15:30",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ISACA MADRID",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ISACA MADRID",
                                                 "timestart": "T15:30",
                                                 "timeend": "T16:00",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ISACA MADRID",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T17:00",
-                                                "timeend": "T17:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T17:00",
+                                                "timeend": "T17:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": []
                                         }
                                 ]
@@ -410,11 +412,11 @@
                                 "talks": [
                                         {
                                                 "title": "Mesa Redonda: \"Ciberseguridad y board, ¿hablamos el mismo idioma?\"",
-                                                "timestart": "T10:45",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 17 ISACA MADRID",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T10:45",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -436,11 +438,11 @@
                                         },
                                         {
                                                 "title": "Mesa Redonda: \"Tipologías de los ciberincidentes vistos desde diferentes instituciones\"",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ISACA MADRID",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -462,11 +464,11 @@
                                         },
                                         {
                                                 "title": "Economics & Cybersecurity: More important than you thought",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ISACA MADRID",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -476,11 +478,11 @@
                                         },
                                         {
                                                 "title": "Mesa Redonda “La promesa y el peligro de la revolución de la IA”",
-                                                "timestart": "T16:00",
-                                                "timeend": "T17:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ISACA MADRID",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T16:00",
+                                                "timeend": "T17:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -498,11 +500,11 @@
                                         },
                                         {
                                                 "title": "El dia a dia de un CISO",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ISACA MADRID",
                                                 "when": "7 Marzo - ISACA MADRID",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -514,54 +516,55 @@
                         }
                 ]
         },
-        "7 Marzo - CRIPTORED": {
+        {
+                "when": "7 Marzo - CRIPTORED",
                 "rooms": [
                         {
                                 "track": "",
                                 "talks": [
                                         {
                                                 "title": "ROOTEDCON - KEYNOTE",
-                                                "timestart": "T10:00",
-                                                "timeend": "T10:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T10:00",
+                                                "timeend": "T10:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T11:30",
-                                                "timeend": "T12:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T11:30",
+                                                "timeend": "T12:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
-                                                "timestart": "T14:00",
-                                                "timeend": "T15:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T14:00",
+                                                "timeend": "T15:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "CRIPTORED - CLAUSURA",
-                                                "timestart": "T20:30",
-                                                "timeend": "T20:35",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T20:30",
+                                                "timeend": "T20:35",
                                                 "speakers": []
                                         }
                                 ]
@@ -571,20 +574,20 @@
                                 "talks": [
                                         {
                                                 "title": "CRIPTORED - KEYNOTE",
-                                                "timestart": "T10:30",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T10:30",
+                                                "timeend": "T11:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Robando 54 Millones de dolares. El caso Kyberswap",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -594,11 +597,11 @@
                                         },
                                         {
                                                 "title": "Applying Fault Injection to the Firmware Update Process of a DJI Drone",
-                                                "timestart": "T12:00",
-                                                "timeend": "T12:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T12:00",
+                                                "timeend": "T12:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -608,11 +611,11 @@
                                         },
                                         {
                                                 "title": "Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem",
-                                                "timestart": "T12:30",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T12:30",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -622,11 +625,11 @@
                                         },
                                         {
                                                 "title": "The Lord of the Keys: The Return of Post-Quantum Cryptography",
-                                                "timestart": "T13:00",
-                                                "timeend": "T13:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T13:00",
+                                                "timeend": "T13:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -640,11 +643,11 @@
                                         },
                                         {
                                                 "title": "Log: It’s Big, It’s Heavy, It’s Filled with Personal Data! Measuring the Logging of Sensitive Information in the Android Ecosystem",
-                                                "timestart": "T13:30",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T13:30",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -654,11 +657,11 @@
                                         },
                                         {
                                                 "title": "The SOC'S Journey: From Basic Automation to Al in Cybersecurity - Understanding the Realities",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -672,11 +675,11 @@
                                         },
                                         {
                                                 "title": "Cryptofails: auditando y explotando errores de implementación",
-                                                "timestart": "T16:00",
-                                                "timeend": "T16:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T16:00",
+                                                "timeend": "T16:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -686,11 +689,11 @@
                                         },
                                         {
                                                 "title": "Aumenta tus capacidades de ciberseguridad con servicios de AI",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -704,11 +707,11 @@
                                         },
                                         {
                                                 "title": "El año de Linux para el escritorio! Inteligencia de amenazas para el ecosistema Linux en 2023",
-                                                "timestart": "T18:00",
-                                                "timeend": "T18:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T18:00",
+                                                "timeend": "T18:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -718,11 +721,11 @@
                                         },
                                         {
                                                 "title": "Cómo prevenir trolleos para LLM",
-                                                "timestart": "T18:30",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T18:30",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -732,11 +735,11 @@
                                         },
                                         {
                                                 "title": "Caos y orden: descubriendo fuentes de entropía",
-                                                "timestart": "T19:00",
-                                                "timeend": "T19:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T19:00",
+                                                "timeend": "T19:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -746,11 +749,11 @@
                                         },
                                         {
                                                 "title": "Guía definitiva para vencer a Batman: Atacamos la red eléctrica de Gotham",
-                                                "timestart": "T19:30",
-                                                "timeend": "T20:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 CRIPTORED",
                                                 "when": "7 Marzo - CRIPTORED",
+                                                "timestart": "T19:30",
+                                                "timeend": "T20:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -766,18 +769,19 @@
                         }
                 ]
         },
-        "8 Marzo": {
+        {
+                "when": "8 Marzo",
                 "rooms": [
                         {
                                 "track": "Sala 25 ROOTEDCON",
                                 "talks": [
                                         {
                                                 "title": "BSAM: Seguridad en Bluetooth",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -791,11 +795,11 @@
                                         },
                                         {
                                                 "title": "La policia hace cosas",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -805,11 +809,11 @@
                                         },
                                         {
                                                 "title": "Estrategias de Ciberseguridad para Analistas de Calidad Software",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -819,11 +823,11 @@
                                         },
                                         {
                                                 "title": "METIS: La titánide (Abusando de la confianza de los documentos públicos)",
-                                                "timestart": "T14:00",
-                                                "timeend": "T14:30",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T14:00",
+                                                "timeend": "T14:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -833,11 +837,11 @@
                                         },
                                         {
                                                 "title": "MiTM en puntos de recarga de vehículos eléctricos",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -852,11 +856,11 @@
                                 "talks": [
                                         {
                                                 "title": "Ataques masivos a vehiculos - Los olvidados",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -870,11 +874,11 @@
                                         },
                                         {
                                                 "title": "IA POLICIAL Y JUDICIAL: INTERESES EN CONFLICTO",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -884,11 +888,11 @@
                                         },
                                         {
                                                 "title": "HoneyTraps: Discovering macOS vulnerabilities like Winnie The Pooh",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -898,11 +902,11 @@
                                         },
                                         {
                                                 "title": "Graphql for fun and bounties!",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -912,11 +916,11 @@
                                         },
                                         {
                                                 "title": "AWS, con sus lambdas y sus cositas",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -930,11 +934,11 @@
                                         },
                                         {
                                                 "title": "Seguridad en sistemas de videoconferencia",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -944,11 +948,11 @@
                                         },
                                         {
                                                 "title": "LLMs: La Nueva Frontera de la Inteligencia en DevSecOps",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -962,11 +966,11 @@
                                         },
                                         {
                                                 "title": "LLM steganography. Dirty PoCs and covert-channels",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -985,11 +989,11 @@
                                 "talks": [
                                         {
                                                 "title": "ASM & IA, What’s next?",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -999,11 +1003,11 @@
                                         },
                                         {
                                                 "title": "It's the end of the (SOC) world as we know it and I feel fine",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1013,11 +1017,11 @@
                                         },
                                         {
                                                 "title": "¿Quién vigila a los que nos vigilan?",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1027,11 +1031,11 @@
                                         },
                                         {
                                                 "title": "La Cartera Europea de Identidad Digital: ¿garantía de la identidad o herramienta de control estatal?",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1041,11 +1045,11 @@
                                         },
                                         {
                                                 "title": "Ciberasegúrame por favor!!!!!",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1055,11 +1059,11 @@
                                         },
                                         {
                                                 "title": "Ciberataque=Sanción AEPD + Daño Inmaterial",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 17 ROOTEDCON",
                                                 "when": "8 Marzo",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1078,92 +1082,93 @@
                                 "talks": [
                                         {
                                                 "title": "Break",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "8 Marzo",
                                                 "timestart": "T11:30",
                                                 "timeend": "T12:00",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "8 Marzo",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "8 Marzo",
                                                 "timestart": "T13:00",
                                                 "timeend": "T14:00",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "8 Marzo",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T14:30",
-                                                "timeend": "T15:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo",
+                                                "timestart": "T14:30",
+                                                "timeend": "T15:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "8 Marzo",
                                                 "timestart": "T15:00",
                                                 "timeend": "T15:30",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "8 Marzo",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "8 Marzo",
                                                 "timestart": "T15:30",
                                                 "timeend": "T16:30",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "8 Marzo",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": []
                                         }
                                 ]
                         }
                 ]
         },
-        "8 Marzo - Sala 18 SECURITERS": {
+        {
+                "when": "8 Marzo - Sala 18 SECURITERS",
                 "rooms": [
                         {
                                 "track": "Sala 18 SECURITERS",
                                 "talks": [
                                         {
                                                 "title": "Project S4UR0N: A tool to beat them all",
-                                                "timestart": "T10:00",
-                                                "timeend": "T10:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T10:00",
+                                                "timeend": "T10:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1177,11 +1182,11 @@
                                         },
                                         {
                                                 "title": "aDvengers: Love and Thunder | Choque de Titanes: Equipo Rojo Vs Equipo Azul",
-                                                "timestart": "T10:30",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T10:30",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1195,11 +1200,11 @@
                                         },
                                         {
                                                 "title": "Ciberinteligencia y Geopolítica: Claves para la Supervivencia y Éxito de las Marcas en el Tablero Global",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1209,11 +1214,11 @@
                                         },
                                         {
                                                 "title": "Kitsune: One C2 to control them all",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1223,11 +1228,11 @@
                                         },
                                         {
                                                 "title": "NightClubMare: Hackeando dispositivos de DJs",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1237,11 +1242,11 @@
                                         },
                                         {
                                                 "title": "7 motivos para predecir comportamientos en las redes sociales.",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1251,11 +1256,11 @@
                                         },
                                         {
                                                 "title": "Respuesta ante incidentes, ayuno intermitente",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1265,11 +1270,11 @@
                                         },
                                         {
                                                 "title": "The Lord Of Domains",
-                                                "timestart": "T19:00",
-                                                "timeend": "T19:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 SECURITERS",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T19:00",
+                                                "timeend": "T19:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1284,56 +1289,57 @@
                                 "talks": [
                                         {
                                                 "title": "Break",
-                                                "timestart": "T11:30",
-                                                "timeend": "T12:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T11:30",
+                                                "timeend": "T12:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
-                                                "timestart": "T14:00",
-                                                "timeend": "T15:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T14:00",
+                                                "timeend": "T15:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "SECURITERS - PREMIOS & SORTEOS",
-                                                "timestart": "T19:30",
-                                                "timeend": "T20:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 18 SECURITERS",
+                                                "timestart": "T19:30",
+                                                "timeend": "T20:00",
                                                 "speakers": []
                                         }
                                 ]
                         }
                 ]
         },
-        "8 Marzo - Sala 19 PROTAAPP": {
+        {
+                "when": "8 Marzo - Sala 19 PROTAAPP",
                 "rooms": [
                         {
                                 "track": "Sala 19 PROTAAPP",
                                 "talks": [
                                         {
                                                 "title": "Piñatas, palos y joputas - Cómo investigar incidentes de ciberseguridad",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1343,11 +1349,11 @@
                                         },
                                         {
                                                 "title": "Somos los agentes de la TIA",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1357,11 +1363,11 @@
                                         },
                                         {
                                                 "title": "Mesa redonda CISO Administraciones",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1375,11 +1381,11 @@
                                         },
                                         {
                                                 "title": "Por la cara: retos y oportunidades asociados al reconocimiento facial en ciberseguridad",
-                                                "timestart": "T13:00",
-                                                "timeend": "T13:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T13:00",
+                                                "timeend": "T13:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1389,11 +1395,11 @@
                                         },
                                         {
                                                 "title": "FlipperZero, del ataque al forense.",
-                                                "timestart": "T13:30",
-                                                "timeend": "T14:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T13:30",
+                                                "timeend": "T14:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1403,11 +1409,11 @@
                                         },
                                         {
                                                 "title": "Garfunkel: Tu co-piloto para auditar inteligencia artificial",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1421,11 +1427,11 @@
                                         },
                                         {
                                                 "title": "External Attack Surface Management: DIY for free!",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1439,11 +1445,11 @@
                                         },
                                         {
                                                 "title": "HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)",
-                                                "timestart": "T17:00",
-                                                "timeend": "T17:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T17:00",
+                                                "timeend": "T17:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1453,11 +1459,11 @@
                                         },
                                         {
                                                 "title": "Apificando, que es gerundio",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1471,11 +1477,11 @@
                                         },
                                         {
                                                 "title": "El secreto está en las Cookies",
-                                                "timestart": "T19:00",
-                                                "timeend": "T19:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T19:00",
+                                                "timeend": "T19:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1485,11 +1491,11 @@
                                         },
                                         {
                                                 "title": "Un estreno de ciencia",
-                                                "timestart": "T19:30",
-                                                "timeend": "T20:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 PROTAAPP",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T19:30",
+                                                "timeend": "T20:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1508,47 +1514,48 @@
                                 "talks": [
                                         {
                                                 "title": "Break",
-                                                "timestart": "T11:30",
-                                                "timeend": "T12:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T11:30",
+                                                "timeend": "T12:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Lunch Break",
-                                                "timestart": "T14:00",
-                                                "timeend": "T15:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T14:00",
+                                                "timeend": "T15:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "Break",
-                                                "timestart": "T17:30",
-                                                "timeend": "T18:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "8 Marzo - Sala 19 PROTAAPP",
+                                                "timestart": "T17:30",
+                                                "timeend": "T18:00",
                                                 "speakers": []
                                         }
                                 ]
                         }
                 ]
         },
-        "9 Marzo": {
+        {
+                "when": "9 Marzo",
                 "rooms": [
                         {
                                 "track": "Sala 25 ROOTEDCON",
                                 "talks": [
                                         {
                                                 "title": "Dr. Jekyll and Mr. Hyde - Las 2 caras de un incidente",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1562,11 +1569,11 @@
                                         },
                                         {
                                                 "title": "Hardware Implant Revolution: Unveiling ISM Bands on Hardware Implants for Red Team Operations",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1576,11 +1583,11 @@
                                         },
                                         {
                                                 "title": "Ciberguerra: Ciberataques a infraestructuras críticas en el conflicto de Medio Oriente",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1594,11 +1601,11 @@
                                         },
                                         {
                                                 "title": "Libros y Bits: cuando la IA se convierte en tu librero personal",
-                                                "timestart": "T13:00",
-                                                "timeend": "T13:30",
                                                 "language": "ES",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T13:00",
+                                                "timeend": "T13:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1617,11 +1624,11 @@
                                 "talks": [
                                         {
                                                 "title": "En las Raíces del Mal: Una Inmersión al Desarrollo de Bootkits UEFI",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1631,11 +1638,11 @@
                                         },
                                         {
                                                 "title": "No sólo de Terraform vive el hombre",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1645,11 +1652,11 @@
                                         },
                                         {
                                                 "title": "Arquitectura de seguridad para LLMs, lecciones desde el campo",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 18 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1659,11 +1666,11 @@
                                         },
                                         {
                                                 "title": "Ignora las instrucciones anteriores",
-                                                "timestart": "T13:00",
-                                                "timeend": "T13:30",
                                                 "language": "ES",
                                                 "track": "Sala 18 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T13:00",
+                                                "timeend": "T13:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1678,11 +1685,11 @@
                                 "talks": [
                                         {
                                                 "title": "From Zero to Hero - An in-depth Threat Intelligence investigation",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1692,11 +1699,11 @@
                                         },
                                         {
                                                 "title": "Neo_Net - The Kingpin of Spanish eCrime",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1706,11 +1713,11 @@
                                         },
                                         {
                                                 "title": "Python en el día día de un pentester",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
                                                 "language": "ES",
                                                 "track": "Sala 19 ROOTEDCON",
                                                 "when": "9 Marzo",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
                                                 "speakers": [
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
@@ -1725,42 +1732,42 @@
                                 "talks": [
                                         {
                                                 "title": "Break",
-                                                "timestart": "T11:30",
-                                                "timeend": "T12:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "9 Marzo",
+                                                "timestart": "T11:30",
+                                                "timeend": "T12:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "TBD/Por anunciar",
-                                                "timestart": "T13:00",
-                                                "timeend": "T13:30",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "9 Marzo",
+                                                "timestart": "T13:00",
+                                                "timeend": "T13:30",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "ROOTEDCON - CLAUSURA",
-                                                "timestart": "T13:30",
-                                                "timeend": "T14:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "9 Marzo",
+                                                "timestart": "T13:30",
+                                                "timeend": "T14:00",
                                                 "speakers": []
                                         },
                                         {
                                                 "title": "🍺🍻RootedBeers by TARLOGIC (ESPACIO LUMIERE)",
-                                                "timestart": "T14:00",
-                                                "timeend": "T16:00",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "9 Marzo",
+                                                "timestart": "T14:00",
+                                                "timeend": "T16:00",
                                                 "speakers": []
                                         }
                                 ]
                         }
                 ]
         }
-}
+]
