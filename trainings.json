@@ -48,22 +48,6 @@
                 "description": "Ransomware. Estafas al CEO. Robo de datos por empleados descontentos. Ciberespionaje (industrial o de otros estados nación). El mundo actual depende totalmente de la tecnología, y los cibercriminales lo saben muy bien. Ante el aumento de los incidentes, la necesidad de tener personal técnico preparado para responder de manera rápida y eficiente es cada vez más importante.El objetivo de la formación es dotar a los asistentes de procedimientos, estrategias y herramientas para que sean capaces de responder ante un incidente de seguridad de forma solvente.Con un carácter eminentemente práctico, se plantearán las fases de la respuesta ante incidentes, indicando en cada caso las mejores herramientas disponibles y la mejor forma de sacarles el máximo partido, así como los quick wins que permiten encontrar la actividad maliciosa lo antes posible.El curso tendrá una componente forense fuerte, pero con la orientación propia de la respuesta ante incidentes, ofreciendo una simulación de incidente, 15 ejercicios prácticos y dos CTF (uno de Windows y otro de O365)"
         },
         {
-                "id": "training-R24BCMAD04",
-                "title": "[R24BCMAD04] Advanced Threat Hunting",
-                "people": "Roberto Amado & Jose Miguel Holguín",
-                "date": "4, 5 y 6 Marzo",
-                "labels": [
-                        "1250€",
-                        "es"
-                ],
-                "links": [
-                        "/docs/trainings/rooted2024-r24bcmad04-advthreathunting.pdf",
-                        "https://reg.rootedcon.com/payment/activity/167"
-                ],
-                "hours": "Horas del Bootcamp cada jornada: 09:00h - 20:00h",
-                "description": "Este Bootcamp pretende enseñar a los asistentes como \"cazar\" tanto malware genérico, como especímenes pertenecientes a grupos APT mediante una correcta instrumentación de diversas herramientas y la generación de una serie de “Hunts” capaces de identificar los más sofisticados ataques. La orientación totalmente práctica permitirá aprender no solo técnicas de intrusión sino los “Hunts” que permiten identificarlas. Estos se agruparán según la matriz de Mitre ATT&CK™ en : movimiento lateral, reconocimiento, persistencia, explotación, entre otros.El proceso de caza de malware se abordará desde dos perspectivas: por una parte el análisis del comportamiento de los procesos del sistema desde una perspectiva temporal (apoyándonos en la herramienta Sysmon) y por otra desde el punto de vista de la memoria RAM de los equipos, es decir se realizará un hunting de artefactos maliciosos basándonos en anomalías residentes en memoria.Complementando lo anterior se abordarán tanto nociones de análisis de malware básicas como de Threat Modeling, que permitirán a los asistentes afrontar de forma completa un proceso de Threat Hunting orientado al endpoint y a entornos servidor de tecnologías Microsoft Windows.Por último los alumnos afrontarán el reto de poder detectar actividades maliciosas de actores avanzados que hagan uso de ciberarmas como Cobalt Strike inmersos en un juego de RED vs BLUE team."
-        },
-        {
                 "id": "training-R24BCMAD05",
                 "title": "[R24BCMAD05] Cloud Pentesting (AWS, GCP, Azure)",
                 "people": "Carlos Polop & Pau Borda",
@@ -174,21 +158,5 @@
                 ],
                 "hours": "Horas del RootedLab: 09:00h - 20:00h",
                 "description": "Hoy en día es necesario de un entrenamiento constante de los equipos de Red Team, Hacking Ético y/o Pentesting. Este entrenamiento se lleva a cabo a través del uso de escenarios preparados que permiten al pentester reciclarse en sus conocimientos. ¿Qué son los escenarios? Son un conjunto de máquinas virtuales y contenedores que muestran casos reales a los que un pentester se enfrenta. Este lab proporciona un aprendizaje de técnicas del día a día del pentester a través del uso de diferentes escenarios reales y clasificados por las diferentes técnicas y por nivel."
-        },
-        {
-                "id": "training-R24RLMAD06",
-                "title": "[R24RLMAD06] Pentesting a Smartcontracts & Web3",
-                "people": "Pablo González",
-                "date": "6 Marzo",
-                "labels": [
-                        "250€",
-                        "es"
-                ],
-                "links": [
-                        "/docs/trainings/rooted2024-r24rlmad06-web3.pdf",
-                        "https://reg.rootedcon.com/payment/activity/175"
-                ],
-                "hours": "Horas del RootedLab: 09:00h - 20:00h",
-                "description": "Aprender metodología para hacer un pentesting práctico y resolver problemasEntender el contexto de la web3 y de los SmartContractsConocer metodología para realizar pruebas de intrusión y análisis de seguridad en un proyecto web3Conocer vulnerabilidades que pueden afectar a un proyecto Web3 (en sus distintos ámbitos)Practicar sobre entornos de SmartContracts y detectar vulnerabilidadesAprender cómo llevar a cabo proyectos con SmartContracts mejorando su seguridad"
         }
 ]
