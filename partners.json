@@ -1,0 +1,149 @@
+[
+        {
+                "type": "Patrocinador DIAMANTE",
+                "companies": [
+                        {
+                                "name": "Tarlogic",
+                                "image": "/img/sponsors/tarlogic.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador PLATINO",
+                "companies": [
+                        {
+                                "name": "CCN-Cert",
+                                "image": "/img/sponsors/ccn-cert.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador ORO+",
+                "companies": [
+                        {
+                                "name": "VMRAY",
+                                "image": "/img/sponsors/vmray.png"
+                        },
+                        {
+                                "name": "Airbus",
+                                "image": "/img/sponsors/airbus.png"
+                        },
+                        {
+                                "name": "DxC",
+                                "image": "/img/sponsors/dxc.png"
+                        },
+                        {
+                                "name": "Accenture",
+                                "image": "/img/sponsors/accenture.png"
+                        },
+                        {
+                                "name": "Crowdstrike",
+                                "image": "/img/sponsors/crowdstrike.png"
+                        },
+                        {
+                                "name": "NTT Data",
+                                "image": "/img/sponsors/nttdata.png"
+                        },
+                        {
+                                "name": "Entelgy Innotec",
+                                "image": "/img/sponsors/entelgy-innotecsec.png"
+                        },
+                        {
+                                "name": "Telefonica Tech",
+                                "image": "/img/sponsors/telefonicatech.png"
+                        },
+                        {
+                                "name": "Palo Alto",
+                                "image": "/img/sponsors/paloalto.png"
+                        },
+                        {
+                                "name": "Cipher Prosegur",
+                                "image": "/img/sponsors/cipher.png"
+                        },
+                        {
+                                "name": "SIA",
+                                "image": "/img/sponsors/sia.png"
+                        },
+                        {
+                                "name": "Capgemini",
+                                "image": "/img/sponsors/capgemini.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador ORO",
+                "companies": [
+                        {
+                                "name": "Snyk",
+                                "image": "/img/sponsors/snyk.png"
+                        },
+                        {
+                                "name": "HPE",
+                                "image": "/img/sponsors/hpe.png"
+                        },
+                        {
+                                "name": "KPMG",
+                                "image": "/img/sponsors/kpmg.png"
+                        },
+                        {
+                                "name": "S21Sec",
+                                "image": "/img/sponsors/s21sec.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador PLATA+",
+                "companies": [
+                        {
+                                "name": "Be Disruptive",
+                                "image": "/img/sponsors/bedisruptive.png"
+                        },
+                        {
+                                "name": "Alpine",
+                                "image": "/img/sponsors/alpine.png"
+                        },
+                        {
+                                "name": "S2 Grupo",
+                                "image": "/img/sponsors/s2grupo.png"
+                        },
+                        {
+                                "name": "Wise Security",
+                                "image": "/img/sponsors/wise.png"
+                        },
+                        {
+                                "name": "CipherBit",
+                                "image": "/img/sponsors/cipherbit.png"
+                        },
+                        {
+                                "name": "Incide",
+                                "image": "/img/sponsors/incide.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador PLATA",
+                "companies": [
+                        {
+                                "name": "Gradiant",
+                                "image": "/img/sponsors/gradiant.png"
+                        },
+                        {
+                                "name": "Sofistic",
+                                "image": "/img/sponsors/sofistic.png"
+                        }
+                ]
+        },
+        {
+                "type": "Patrocinador BRONCE",
+                "companies": [
+                        {
+                                "name": "Edan Ventures",
+                                "image": "/img/sponsors/edanventures.png"
+                        },
+                        {
+                                "name": "Onum",
+                                "image": "/img/sponsors/onum.png"
+                        }
+                ]
+        }
+]
