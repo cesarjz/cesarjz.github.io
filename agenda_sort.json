@@ -42,15 +42,6 @@
                                                 "speakers": []
                                         },
                                         {
-                                                "title": "TBD/Por anunciar",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
-                                                "speakers": []
-                                        },
-                                        {
                                                 "title": "Lunch Break",
                                                 "language": "",
                                                 "track": "",
@@ -60,21 +51,21 @@
                                                 "speakers": []
                                         },
                                         {
+                                                "title": "TBD/Por anunciar",
+                                                "language": "",
+                                                "track": "",
+                                                "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": []
+                                        },
+                                        {
                                                 "title": "Break",
                                                 "language": "",
                                                 "track": "",
                                                 "when": "7 Marzo - ROOTEDCON",
                                                 "timestart": "T17:30",
                                                 "timeend": "T18:00",
-                                                "speakers": []
-                                        },
-                                        {
-                                                "title": "TBD/Por anunciar",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "7 Marzo - ROOTEDCON",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
                                                 "speakers": []
                                         }
                                 ]
@@ -93,6 +84,24 @@
                                                         {
                                                                 "image": "/img/people/2024/cbarakat.png",
                                                                 "name": "Chaaban Barakat"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "La leyenda de las 5 OTs",
+                                                "language": "",
+                                                "track": "Sala 19 ROOTEDCON",
+                                                "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "David Conde"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Guillermo Almagro Alonso"
                                                         }
                                                 ]
                                         },
@@ -238,6 +247,10 @@
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
                                                                 "name": "Juan Manuel Lopez Santamaria"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/edimonte.png",
+                                                                "name": "Eduardo Di Monte"
                                                         }
                                                 ]
                                         },
@@ -260,11 +273,29 @@
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
                                                                 "name": "Juan Manuel Lopez Santamaria"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/edimonte.png",
+                                                                "name": "Eduardo Di Monte"
                                                         }
                                                 ]
                                         },
                                         {
-                                                "title": "Trayectoria de la Asociación de Internautas",
+                                                "title": "Unveiling the Unseen: Exploring Rare and Elusive Bugs in Bug Bounty Hunting",
+                                                "language": "",
+                                                "track": "Sala 20 ROOTEDCON",
+                                                "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Ayman Borji"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Desde 1998 en Internet: remember, rethink & AI revival",
                                                 "language": "",
                                                 "track": "Sala 20 ROOTEDCON",
                                                 "when": "7 Marzo - ROOTEDCON",
@@ -283,6 +314,20 @@
                                 "track": "Sala 25 ROOTEDCON",
                                 "talks": [
                                         {
+                                                "title": "Aegis. Una aproximación a la ciberseguridad dirigida por los datos y el Machine Learning",
+                                                "language": "",
+                                                "track": "Sala 25 ROOTEDCON",
+                                                "when": "7 Marzo - ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Iván Fernández Mora"
+                                                        }
+                                                ]
+                                        },
+                                        {
                                                 "title": "Hardware hacking desde 0 para mete comillas / comandos - The Buzzpirat",
                                                 "language": "",
                                                 "track": "Sala 25 ROOTEDCON",
@@ -297,24 +342,6 @@
                                                         {
                                                                 "image": "/img/people/2024/jmmartinez.png",
                                                                 "name": "Juan M Martinez Casais"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Ciberguerra: Ciberataques a infraestructuras críticas en el conflicto de Medio Oriente",
-                                                "language": "",
-                                                "track": "Sala 25 ROOTEDCON",
-                                                "when": "7 Marzo - ROOTEDCON",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "ANDRES SORIANO GUILLAMON"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Javier Rodriguez"
                                                         }
                                                 ]
                                         },
@@ -345,7 +372,7 @@
                                                 "timeend": "T19:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/alejandrodelosrios.png",
                                                                 "name": "Alejandro de los Rios"
                                                         },
                                                         {
@@ -353,7 +380,7 @@
                                                                 "name": "Antoni Lorenzana"
                                                         },
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/maramfernandez.png",
                                                                 "name": "Mara M. Fernández"
                                                         }
                                                 ]
@@ -542,10 +569,6 @@
                                                         },
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Eduvigis Ortiz Moronta"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
                                                                 "name": "Ana De La Torre Lopez"
                                                         },
                                                         {
@@ -555,6 +578,10 @@
                                                         {
                                                                 "image": "/img/people/2024/.png",
                                                                 "name": "Elena García Díez"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/davidsandoval.png",
+                                                                "name": "David Sandoval Rodríguez-Bermejo"
                                                         }
                                                 ]
                                         },
@@ -932,6 +959,20 @@
                                                 ]
                                         },
                                         {
+                                                "title": "Guardianes digitales: maximizando defensas en IoT con IA",
+                                                "language": "",
+                                                "track": "Sala 25 ROOTEDCON",
+                                                "when": "8 Marzo",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/jesusmunoz.png",
+                                                                "name": "Jesús Muñoz Martínez"
+                                                        }
+                                                ]
+                                        },
+                                        {
                                                 "title": "MiTM en puntos de recarga de vehículos eléctricos",
                                                 "language": "",
                                                 "track": "Sala 25 ROOTEDCON",
@@ -1140,6 +1181,24 @@
                                                 ]
                                         },
                                         {
+                                                "title": "Accesibilidad Digital como clave en la ciberseguridad: Programa IMPACT#aliada",
+                                                "language": "",
+                                                "track": "Sala 17 ROOTEDCON",
+                                                "when": "8 Marzo",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Roman Ramirez"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/cesarlopz.png",
+                                                                "name": "César López García"
+                                                        }
+                                                ]
+                                        },
+                                        {
                                                 "title": "Ciberasegúrame por favor!!!!!",
                                                 "language": "",
                                                 "track": "Sala 17 ROOTEDCON",
@@ -1201,15 +1260,6 @@
                                                 "when": "8 Marzo",
                                                 "timestart": "T15:00",
                                                 "timeend": "T15:30",
-                                                "speakers": []
-                                        },
-                                        {
-                                                "title": "TBD/Por anunciar",
-                                                "language": "",
-                                                "track": "",
-                                                "when": "8 Marzo",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
                                                 "speakers": []
                                         },
                                         {
@@ -1429,7 +1479,7 @@
                                                 "timeend": "T11:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/antoniosanz.png",
                                                                 "name": "Antonio Sanz"
                                                         }
                                                 ]
@@ -1443,8 +1493,8 @@
                                                 "timeend": "T11:30",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "EMILIO RICO RUIZ"
+                                                                "image": "/img/people/2024/emiliorico.png",
+                                                                "name": "Emilio Rico Ruiz"
                                                         }
                                                 ]
                                         },
@@ -1467,6 +1517,10 @@
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
                                                                 "name": "Javier Fernández-Sanguino"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/troy.png",
+                                                                "name": "Tomàs Roy Catala"
                                                         }
                                                 ]
                                         },
@@ -1479,7 +1533,7 @@
                                                 "timeend": "T13:30",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/mariabeltran.png",
                                                                 "name": "Marta Beltrán Pardo"
                                                         }
                                                 ]
@@ -1493,7 +1547,7 @@
                                                 "timeend": "T14:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/manuelguerra.png",
                                                                 "name": "Manuel Guerra"
                                                         }
                                                 ]
@@ -1525,11 +1579,11 @@
                                                 "timeend": "T17:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/migueldelacal.png",
                                                                 "name": "Miguel de la Cal Bravo"
                                                         },
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/felixpaniagua.png",
                                                                 "name": "Félix Paniagua Mérida"
                                                         }
                                                 ]
@@ -1561,7 +1615,7 @@
                                                                 "name": "Daniel García (cr0hn)"
                                                         },
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/jesuscuadrado.png",
                                                                 "name": "Jesus Cuadrado Garcia de la Calera"
                                                         }
                                                 ]
@@ -1575,7 +1629,7 @@
                                                 "timeend": "T19:30",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/nuriaprieto.png",
                                                                 "name": "Nuria Prieto Pinedo"
                                                         }
                                                 ]
@@ -1589,15 +1643,15 @@
                                                 "timeend": "T20:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "ANGEL DEL PESO MARTIN"
+                                                                "image": "/img/people/2024/angeldelpeso.png",
+                                                                "name": "Angel del Peso Martin"
                                                         },
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
                                                                 "name": "María Oliva Rubio"
                                                         },
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/olgamata.png",
                                                                 "name": "Olga Mata Gómez"
                                                         }
                                                 ]
@@ -1645,7 +1699,7 @@
                                 "track": "Sala 25 ROOTEDCON",
                                 "talks": [
                                         {
-                                                "title": "Dr. Jekyll and Mr. Hyde - Las 2 caras de un incidente",
+                                                "title": "Ciberguerra: Ciberataques a infraestructuras críticas en el conflicto de Medio Oriente",
                                                 "language": "",
                                                 "track": "Sala 25 ROOTEDCON",
                                                 "when": "9 Marzo",
@@ -1653,12 +1707,12 @@
                                                 "timeend": "T11:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/mrivero.png",
-                                                                "name": "Marc Rivero Lopez"
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "ANDRES SORIANO GUILLAMON"
                                                         },
                                                         {
                                                                 "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Sandra Bardon Moral"
+                                                                "name": "Javier Rodriguez"
                                                         }
                                                 ]
                                         },
@@ -1750,7 +1804,7 @@
                                                 "timeend": "T13:00",
                                                 "speakers": [
                                                         {
-                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "image": "/img/people/2024/fernandorubio.png",
                                                                 "name": "Fernando Rubio Román"
                                                         },
                                                         {

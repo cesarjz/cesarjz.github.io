@@ -434,11 +434,6 @@
                                 "image": "/img/people/2024/rmoya.png"
                         },
                         {
-                                "name": "Eduvigis Ortiz Moronta",
-                                "about": "Eduvigis Ortiz lidera las Alianzas Estratégicas en SAS y es Presidenta y Fundadora de Women4Cyber Spain. Cuenta con más de 30 años de experiencia profesional en el área de consultoría de negocios y sistemas de información. Edu ha recibido el premio Power Women in Tech 2023 otorgado por Microsoft. Su experiencia es en el área de la ciberseguridad integrada con analítica de datos, inteligencia artificial, arquitectura en la nube y transformación del negocio apoyado en tecnología. Edu es ingeniera industrial y Master of Science en Ingeniería (Arizona State University-Fulbright). Para apoyar su misión de promover la mujer en la tecnología y la ciberseguridad, también lidera el MeetUp de Madrid de Women in Machine Learning & Data Science. Produce y presenta el programa de Radio Cruzando Puentes con Mildred Laya en Capital Radio para acercar y explorar oportunidades de inversión, negocio, tecnología e innovación de la comunidad iberoamericana a ambos lados del Atlántico.",
-                                "image": "/img/people/2024/no-photo.png"
-                        },
-                        {
                                 "name": "Ana De La Torre Lopez",
                                 "about": "Ana De La Torre actualmente trabaja como Lead Data Scientist en una gran multinacional alemana y es estudiante del máster de Ciberseguridad y Privacidad de la UOC. Además, es Licenciada en Derecho y Administración y Dirección de Empresas por la UDC aunque en 2019 redirigió su carrera hacia el mundo de la tecnología, focalizándose en el área de Machine Learning e Inteligencia Artificial, campo en el tiene un máster en Data Science y Big Data por Afi Escuela.   Ana cuenta con 5 años de experiencia como científica de datos y experta en IA en diversas empresas internacionales de diferentes sectores como marketing, movilidad y banca.",
                                 "image": "/img/people/2024/no-photo.png"
@@ -452,6 +447,11 @@
                                 "name": "Elena García Díez",
                                 "about": "Actualmente Directora de Seguridad de la Información (CISO) en Indra y, como tal, responsable de la definición, desarrollo y seguimiento de la estrategia, servicios y controles de seguridad de la compañía a nivel global. Previamente a Indra, trabajó en diferentes niveles y áreas de actividad en el Instituto Nacional de Ciberseguridad (INCIBE) y en diferentes empresas de servicios y consultoría de telecomunicaciones. Ingeniera de Telecomunicaciones por la Universidad de Cantabria, cuenta con certificaciones específicas de gestión de proyectos (PMP) y seguridad. Colaboradora habitual de grupos de trabajo, asociaciones, foros especializados y acciones formativas en el sector de la Ciberseguidad (Founder Member de Women4Cyber de ECSO (European Organisation for Cybersecurity), Vocal en Women4Cyber-Spain, Miembro del Consejo Asesor de Ciberlideria, ISMSForum, etc.).",
                                 "image": "/img/people/2024/.png"
+                        },
+                        {
+                                "name": "David Sandoval Rodríguez-Bermejo",
+                                "about": "Ingeniero de Telecomunicaciones, MBA, máster en ciberseguridad. 7 años de trayectoria profesional en el sector de la IA y la ciberseguridad. Trabajo actualmente en la Universidad Francisco de Vitoria y en NTT.",
+                                "image": "/img/people/2024/davidsandoval.png"
                         }
                 ]
         },
@@ -875,7 +875,7 @@
                         {
                                 "name": "Jesus Cuadrado Garcia de la Calera",
                                 "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/jesuscuadrado.png"
                         }
                 ]
         },
@@ -892,7 +892,7 @@
                         },
                         {
                                 "name": "David Meléndez Cano",
-                                "about": "David Meléndez es ingeniero de I+D y formador en diversos másteres y cursos. Autor del libro \"Hacking con Drones\", ha presentado sus trabajos sobre hardware hacking, drones y seguridad, a nivel nacional en congresos como RootedCon, NavajaNegra, etc e internacional como DEFCON USA, BlackHat, HongKong OpenSource, etc.",
+                                "about": "David Meléndez es ingeniero de I+D, formador en diversos másteres y cursos, y miembro del equipo de Red Team de Innotec Security. Autor del libro \"Hacking con Drones\", ha presentado sus trabajos sobre hardware hacking, drones y seguridad, a nivel nacional en congresos como RootedCon, NavajaNegra, etc e internacional como DEFCON USA, BlackHat, HongKong OpenSource, etc.",
                                 "image": "/img/people/2024/no-photo.png"
                         }
                 ]
@@ -906,7 +906,7 @@
                         {
                                 "name": "Nuria Prieto Pinedo",
                                 "about": "https://nuria-pp.medium.com/",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/nuriaprieto.png"
                         }
                 ]
         },
@@ -919,7 +919,7 @@
                         {
                                 "name": "Manuel Guerra",
                                 "about": "Manuel Guerra; Analista Forense Informático y experto en Cibercrimen. Redactor en www.GLIDER.es sobre Forense, Hacking y Ciberseguridad | Speaker & Profesor. @CiberPoliES",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/manuelguerra.png"
                         }
                 ]
         },
@@ -984,6 +984,11 @@
                                 "name": "Javier Fernández-Sanguino",
                                 "about": "Responsable de la Unidad de Ciberseguridad del Banco de España. Es Ingeniero Superior de Telecomunicación por la Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSI) de la Universidad Politécnica de Madrid (UPM). Con más de 20 años de experiencia en el sector de la ciberseguridad, donde ha trabajado en empresas de consultoría y organismos públicos. También participa, cuando las responsabilidades se lo permiten, en proyectos de software libre, como Debian.",
                                 "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Tomàs Roy Catala",
+                                "about": "Es el director de la Agència de Ciberseguretat de Catalunya. Anteriormente, había sido el director del Centro de Innovación y Competencia en Ciberseguridad (CIC4Cyber) de la Agencia de Ciberseguridad de Catalunya. Ha desarrollado su carrera profesional en el sector privado, en Fiat GM Powertrain, y en el sector público, primero en el Centro de Telecomunicaciones y Tecnologías de la Información y en el Centro de Seguridad de la Información de Cataluña, después, llevando a cabo tareas de dirección en áreas de Seguridad, Data Privacy, Calidad, Relación con Proveedores y Estrategia",
+                                "image": "/img/people/2024/troy.png"
                         }
                 ]
         },
@@ -996,7 +1001,7 @@
                         {
                                 "name": "Antonio Sanz",
                                 "about": "Ingeniero Superior de Telecomunicaciones por la Universidad de Zaragoza, con más 20 años de experiencia en el sector de la seguridad de la información. Actualmente es jefe de proyecto senior de S2 Grupo, desarrollando proyectos de respuesta ante incidentes, análisis forense y arquitecturas de ciberseguridad",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/antoniosanz.png"
                         }
                 ]
         },
@@ -1009,7 +1014,7 @@
                         {
                                 "name": "Marta Beltrán Pardo",
                                 "about": "Profesora de universidad en excedencia, actualmente soy la Jefa del Área Científica de la Agencia Española de Protección de Datos y miembro del Advisory Group de ENISA.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/mariabeltran.png"
                         }
                 ]
         },
@@ -1020,9 +1025,9 @@
                 "description": "Las estrategias de defensa actuales no están funcionando. Los programas de ciberseguridad de muchas organizaciones, están centrados en implementar los ‘mejores’ controles de seguridad y se ven impulsados por normas y estándares, para marcar un ‘check’ en el cumplimiento de los requisitos. Pero esta estrategia no termina de funcionar porque no están teniendo en consideración quiénes son ellos mismos y que amenazas enfrentan. Una dosis de inteligencia de amenazas es la pieza que falta y que permite anticiparse a los adversarios, responder más rápidamente a los ataques y tomar mejores decisiones para reducir el riesgo.",
                 "people": [
                         {
-                                "name": "EMILIO RICO RUIZ",
+                                "name": "Emilio Rico Ruiz",
                                 "about": "Emilio Rico Ruiz es Coronel de Caballería [R]. Es diplomado de Informática Militar, Master en Dirección de Sistemas de Información y Telecomunicaciones y certificado CISM. Apasionado por la tecnología y la ciberseguridad. Actualmente es Security Advisor en el Grupo TRC.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/emiliorico.png"
                         }
                 ]
         },
@@ -1033,9 +1038,9 @@
                 "description": "COMO FUE EL PRIMER CIBER INCIDENTE IMPORTANTE EN UN MINISTERIO (Y UNA INFRAESTRUCTURA) DE NUEVA CREACION",
                 "people": [
                         {
-                                "name": "ANGEL DEL PESO MARTIN",
+                                "name": "Angel del Peso Martin",
                                 "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/angeldelpeso.png"
                         },
                         {
                                 "name": "María Oliva Rubio",
@@ -1045,7 +1050,7 @@
                         {
                                 "name": "Olga Mata Gómez",
                                 "about": "Ingeniero en Informática (UCM) y Máster en Seguridad (UOC). Llevo casi toda mi vida profesional trabajando para la Administración Pública (Comunidad de Madrid, Ayuntamientos, y actualmente trabajo para el Ministerio de Ciencia, Innovación y Universidades). Mis tareas habituales: desde llevar un equipo de sistemas y redes, hasta hacer frente a un incidente o dar de alta un usuario. Lo que viene siendo el \"informático pa to\".",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/olgamata.png"
                         }
                 ]
         },
@@ -1159,7 +1164,7 @@
                         {
                                 "name": "Fernando Rubio Román",
                                 "about": "Fernando Rubio es responsable del equipo de especialistas de tecnología de Azure. Anteriormente ha dirigido el área de seguridad liderando el equipo de arquitectos de seguridad. Fernando tiene más de 20 años de experiencia en el área de la seguridad, como arquitecto diseñando infraestructuras en grandes organizaciones así como en respuesta a incidentes. Fernando es presentador habitual del sector de la seguridad.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/fernandorubio.png"
                         },
                         {
                                 "name": "Rafael Álvarez",
@@ -1301,12 +1306,12 @@
                         {
                                 "name": "Miguel de la Cal Bravo",
                                 "about": "Graduado en Ingeniería Informática. Máster en Ciberseguridad y Seguridad de la Información.Apasionado de la ciberseguridad, actualmente formo parte del Servicio de Ciberseguridad de la Junta de Comunidades de Castilla-La Mancha.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/migueldelacal.png"
                         },
                         {
                                 "name": "Félix Paniagua Mérida",
                                 "about": "Entusiasta y profesional del ámbito de la ciberseguridad, graduado en Ingeniería Informática con postgrado en Análisis y Visualización de Datos Masivos. Soy miembro del Departamento de Ciberseguridad de la Junta de Comunidades de Castilla la Mancha y bug bounty hunter en mis ratos libres.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/felixpaniagua.png"
                         }
                 ]
         },
@@ -1361,6 +1366,11 @@
                                 "name": "Juan Manuel Lopez Santamaria",
                                 "about": "",
                                 "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Eduardo Di Monte",
+                                "about": "Eduardo is a Telecommunications Engineer, MBA at the EuroMBA Consortium and Harvard Alumni. Additionally he is an expert in Industrial Cybersecurity (IoT), Digital Transformation and Business Continuity. With over 19 years of experience the last ten (10) he has focused in the Cybersecurity aspects related to automation systems and industrial controls systems, specifically Critical Infrastructures. Moreover, Eduardo has implemented resilience models and business continuity for critical process in the industry sector.",
+                                "image": "/img/people/2024/edimonte.png"
                         }
                 ]
         },
@@ -1404,7 +1414,7 @@
                         {
                                 "name": "Alejandro de los Rios",
                                 "about": "Ingeniero informático por la Universitat Politècnica de València con máster de especialización en ciberseguridad por dicha universidad en colaboración con Deloitte. Certificado en DevSecOps y con amplia experiencia en implantación de la seguridad en el desarrollo de aplicativos. Actualmente, Alejandro lidera la línea de servicio de Application Security para Iberia (España y Portugal) en DXC Technology. Anteriormente ha formado parte del equipo de AppSec en el CyberSOC de Deloitte dando servicio a EMEA en lo que respecta a la protección de las aplicaciones y mejoras de la seguridad en todas las fases del desarrollo y también como parte del equipo de la Dirección de Seguridad Corporativa del Grupo Santalucia como especialista DevSecOps. Dispone de experiencia previa en administración de sistemas y desarrollo, llegando a formar parte de un equipo de investigación en la Ciudad Politécnica de la Innovación en Valencia. Por otro lado, Alejandro es docente en distintos cursos de concienciación, diplomas de especialización y asignaturas de máster relacionadas con el desarrollo seguro y la implantación e integración de un SDLC con seguridad en cada una de sus fases. Entre las que destaca la Universidad de Nebrija, Universidad Católica de Ávila, IMF Business School o Ilumno entre otras y organismos como Colegio de Abogacía de Madrid entre otros.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/alejandrodelosrios.png"
                         },
                         {
                                 "name": "Antoni Lorenzana",
@@ -1414,7 +1424,7 @@
                         {
                                 "name": "Mara M. Fernández",
                                 "about": "Licenciada en Ingeniería Informática por la Universidad de Oviedo. Comienza a trabajar en Thales en 2002 haciendo labores de administrador de sistemas. En 2004 inicia su actividad laboral en el por aquel entonces Cajastur, y después Liberbank, extendiendo la duración de las actividades en la entidad bancaria durante 17 años. A lo largo de esos años colabora en diversos proyectos y funciones relacionadas con auditoría en Seguridad de la información y cumplimiento normativo, así como de forma más técnica y específica con la ciberseguridad, vinculados con análisis de riesgos tecnológicos, despliegue de soluciones de seguridad, service manager y realización de hacking ético entre otros. En mayo de 2021 inicia su actividad profesional dentro de Seresco como responsable de los servicios de ciberseguridad y manager tanto del SOC (Centros de Operaciones de Ciberseguridad), como el equipo de respuesta a incidentes (S-CIRT) abordando importantes proyectos tales como la adhesión a la RNS (Red nacional de Soc), ingreso en el foro internacional de respuesta a incidentes FIRST y el foro CSIRT. Desde junio de 2023, pasa a desempeñar su actividad en la empresa DXC Technology como profesional senior de seguridad de la información. Adicionalmente colabora en el ISM fórum como docente y en equipos de trabajo, y es Liaison Member del FIRST.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/maramfernandez.png"
                         }
                 ]
         },
@@ -1451,14 +1461,89 @@
         },
         {
                 "id": "sessionDetail-3088",
-                "title": "Trayectoria de la Asociación de Internautas",
+                "title": "Desde 1998 en Internet: remember, rethink & AI revival",
                 "metadata": "Idioma: es",
-                "description": "",
+                "description": "La Asociación de Internautas lleva 25 años en Internet, estamos ante una nueva revolución de la tecnología con la IA, y toca repensar el activismo en la Red. Renovamos la Junta Directiva para afrontar estos nuevos retos que son... proponemos y aceptamos sugerencias!",
                 "people": [
                         {
                                 "name": "Ofelia Tejerina",
                                 "about": "Abogada. Dra. Derecho Constitucional. Presidenta Asociación de Internautas.",
                                 "image": "/img/people/2024/otejerina.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3089",
+                "title": "La leyenda de las 5 OTs",
+                "metadata": "Idioma: es",
+                "description": "Un repaso al estado del arte en los entornos OT, desde leyendas urbanas hasta ataques reales.",
+                "people": [
+                        {
+                                "name": "David Conde",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "Guillermo Almagro Alonso",
+                                "about": "Guillermo es graduado en Ingeniería de Computadores por la Universidad de Alcalá. Actualmente forma parte del departamento de Threat Hunting y es miembro activo del equipo de DFIR en S21sec. Es un apasionado del rugby y es fácil encontrarle trasteando con su Flipper Zero.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3090",
+                "title": "Aegis. Una aproximación a la ciberseguridad dirigida por los datos y el Machine Learning",
+                "metadata": "Idioma: es",
+                "description": "En la charla abordaremos la criticidad del sector aeronáutico. Hablaremos bastante sobre la problemática con la calidad de los logs de seguridad y explicaremos la metodología y la herramienta que Airbus ha desarrollado para, con el uso de Machine Learning, buscar Insiders en la organización.",
+                "people": [
+                        {
+                                "name": "Iván Fernández Mora",
+                                "about": "Soy Físico Teórico con master en Tecnología Nuclear que ha trabajado en análisis de riesgos durante los últimos 20 años en sectores como la banca, la energía nuclear, el fraude fiscal y la ciberseguridad. Abordando siempre los problemas con la ayuda de las tecnologías de la información y los datos.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3091",
+                "title": "Guardianes digitales: maximizando defensas en IoT con IA",
+                "metadata": "Idioma: es",
+                "description": "Describiremos y desarrollaremos soluciones de seguridad basadas en Inteligencia Artificial para entornos del Internet de las Cosas, donde los ataques basados en \"Botnet\" entre otros no paran de aumentar. La hetereogenidad de los dispositivos IoT junto a su baja capacidad computacional complicaran este cometido",
+                "people": [
+                        {
+                                "name": "Jesús Muñoz Martínez",
+                                "about": "Jesús has a solid background in various branches of Engineering such as Electronics, Telecommunications and Industrial, being a graduate in Industrial Electronic Engineering and a Master in Electronic Systems in Intelligent Environments, both degrees with the best record of his promotion, among other studies. He has been developing his knowledge for years in Cybersecurity, initially on network and automotive devices where secure design and reverse engineering was applied in his daily work. Later he continued in certification laboratories in product certifications such as Common Criteria, IoT (Amazon AVS, CTIA, ioXt, ETSI 303645 …), pentesting on automotive, industrial, medical devices, and developing the R&D area in addition to being a Project Manager. He is currently Manager and Responsible of the Capgemini Cybersecurity Center in Malaga and Global SME for automotive in Intelligent Industry. He develops and promotes new areas and services within the company, offering his clients together with his colleagues the best cybersecurity solutions. Given his high knowledge in the field of Cybersecurity applied to Hardware, he is also a member of several working groups in entities such as ETSI, GSMA, 5GAA, O-RAN, CCI, IoXt among others, and participates in Cybersecurity or ICT-related conferences such as RootedCon, CCI, Transfiere. He has also provided training to students and professionals and collaborates with Universidad de Málaga and other centers",
+                                "image": "/img/people/2024/jesusmunoz.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3092",
+                "title": "Accesibilidad Digital como clave en la ciberseguridad: Programa IMPACT#aliada",
+                "metadata": "Idioma: es",
+                "description": "Expertos en accesibilidad digital debatirán sobre la importancia que puede tener en el ámbito de la ciberseguridad y hablaremos del Programa de empleabilidad IMPACT#aliada, de la Fundación GoodJob, para personas con discapacidad.",
+                "people": [
+                        {
+                                "name": "Roman Ramirez",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
+                        },
+                        {
+                                "name": "César López García",
+                                "about": "César López cuenta con una extensa experiencia laboral en empresas ordinarias y de economía social. Ha ocupado puestos de Dirección en las áreas de Comercial, Marketing y Logística, en compañías como Seur Integración Logística, así como del sector Gran Consumo. Desde finales de 2007, inició s etapa profesional en la economía social, ejerciendo como Director General en diferentes organizaciones, siempre desarrollando proyectos relacionados con diversidad/discapacidad, para posteriormente en 2015, incorporarse a la Fundación GoodJob, en su posición actual de Director General.",
+                                "image": "/img/people/2024/cesarlopz.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3093",
+                "title": "Unveiling the Unseen: Exploring Rare and Elusive Bugs in Bug Bounty Hunting",
+                "metadata": "Idioma: es",
+                "description": "Unveiling the Unseen Exploring Rare and Elusive Bugs in Bug Bounty Hunting takes a closer look at elusive vulnerabilities, sharing how they\"re found and why they matter. Join us to learn about these special bugs and what they mean for cybersecurity.",
+                "people": [
+                        {
+                                "name": "Ayman Borji",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
                         }
                 ]
         }
