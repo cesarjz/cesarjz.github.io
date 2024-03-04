@@ -32,9 +32,9 @@
         "location_en": "Panama Convention Center\nCalle Gral. Juan D. Peron, Panamá, Panama\n09:00 - 20:30",
         "team_en":"About us\nOne of the first premises was to maintain rigidly the principle of neutrality that has characterized each of its editions. In Rooted CON, the members of the security community, students, professionals, companies, amateurs, state forces, hackers and, why not, artists and academics can and will be able to speak and present their ideas.",
 
-        "locationDetail": "",
+        "locationDetail": "Panama Convention Center, Calle General Juan D. Perón, Amador, Panamá",
         "aboutPhoto": "assets/congress.jpg",
-        "locationPhoto": "assets/map.png",
+        "locationPhoto": "assets/panamaMap.png",
         "teamPhoto": "assets/images/team.png"
     },
     {
@@ -53,7 +53,7 @@
 
         "locationDetail": "",
         "aboutPhoto": "assets/congress.jpg",
-        "locationPhoto": "assets/map.png",
+        "locationPhoto": "assets/rootedConName.png",
         "teamPhoto": "assets/images/team.png"
     }
 ]
