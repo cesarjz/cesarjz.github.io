@@ -1,0 +1,59 @@
+[
+    {
+        "where":" Madrid ",
+        "baseUrl": "madrid2024/",
+
+        "when": " 7-9 Marzo 2024 ",
+        "about":"Congreso\nLa conferencia de seguridad informática Rooted CON nació con el propósito de promover el intercambio de conocimientos entre los miembros de la comunidad de seguridad.\n\nRootedLabs\nConjunto de actividades formativas de un día de duración que se realizan durante los tres días previos a RootedCON.\n\nBootcamps\nCursos avanzados de más de un día de duración con especialidad concreta en una temática.",
+        "location": "Kinépolis Madrid Ciudad de la Imagen\nC. Edgar Neville, s/n, 28223\nCiudad de la Imagen, Madrid,\n\n40°23'37\"N 3°47'46\"W.\n\ninfo@rootedcon.com\n10:00 - 20:30\n\n\nLocation Trainings\nHotel NH Madrid Príncipe de Vergara\nC. del Príncipe de Vergara, 92, 28006\nMadrid, Spain",
+        "team":"Sobre nosotros\nUna de las primeras premisas fue mantener de forma rígida el principio de neutralidad que ha caracterizado cada una de sus ediciones. En Rooted CON pudieron, pueden y podrán hablar y presentar sus ideas los miembros de la comunidad de seguridad, estudiantes, profesionales, empresas, aficionados, fuerzas del estado, hackers y, por qué no, artistas y académicos.",
+
+        "when_en": " March 7-9, 2024 ",
+        "about_en":"Conference\nThe computer security conference Rooted CON born with the purpose of promoting the exchange of knowledge between members of the security community.\n\nRootedLabs\nOne-day training activities that takes place during the three days prior to RootedCON.\n\nBootcamps\nAdvanced courses of more than one day duration with a specific specialty in a subject.",
+        "location_en": "Kinépolis Madrid Ciudad de la Imagen\nC. Edgar Neville, s/n, 28223\nCiudad de la Imagen, Madrid,\n\n40°23'37\"N 3°47'46\"W.\n\ninfo@rootedcon.com\n10:00 - 20:30\n\n\nLocation Trainings\nHotel NH Madrid Príncipe de Vergara\nC. del Príncipe de Vergara, 92, 28006\nMadrid, Spain",
+        "team_en":"About us\nOne of the first premises was to maintain rigidly the principle of neutrality that has characterized each of its editions. In Rooted CON, the members of the security community, students, professionals, companies, amateurs, state forces, hackers and, why not, artists and academics can and will be able to speak and present their ideas.",
+
+        "locationDetail": "Kinépolis Madrid Edgar Neville, s/n, 28223 Ciudad de la Imagen, Madrid, España",
+        "aboutPhoto": "assets/congress.jpg",
+        "locationPhoto": "assets/map.png",
+        "teamPhoto": "assets/images/team.png"
+    },
+    {
+        "where":" Panama ",
+        "baseUrl": "panama2024/",
+
+        "when": " 10-12 Abril 2024 ",
+        "about":"Congreso\nLa conferencia de seguridad informática Rooted CON nació con el propósito de promover el intercambio de conocimientos entre los miembros de la comunidad de seguridad.\n\nRootedLabs\nConjunto de actividades formativas de un día de duración que se realizan durante los tres días previos a RootedCON.\n\nBootcamps\nCursos avanzados de más de un día de duración con especialidad concreta en una temática.",
+        "location": "Panama Convention Center\nCalle Gral. Juan D. Peron, Panamá, Panama\n09:00 - 20:30",
+        "team":"Sobre nosotros\nUna de las primeras premisas fue mantener de forma rígida el principio de neutralidad que ha caracterizado cada una de sus ediciones. En Rooted CON pudieron, pueden y podrán hablar y presentar sus ideas los miembros de la comunidad de seguridad, estudiantes, profesionales, empresas, aficionados, fuerzas del estado, hackers y, por qué no, artistas y académicos.",
+
+        "when_en": " April 10-12, 2024 ",
+        "about_en":"Conference\nThe computer security conference Rooted CON born with the purpose of promoting the exchange of knowledge between members of the security community.\n\nRootedLabs\nOne-day training activities that takes place during the three days prior to RootedCON.\n\nBootcamps\nAdvanced courses of more than one day duration with a specific specialty in a subject.",
+        "location_en": "Panama Convention Center\nCalle Gral. Juan D. Peron, Panamá, Panama\n09:00 - 20:30",
+        "team_en":"About us\nOne of the first premises was to maintain rigidly the principle of neutrality that has characterized each of its editions. In Rooted CON, the members of the security community, students, professionals, companies, amateurs, state forces, hackers and, why not, artists and academics can and will be able to speak and present their ideas.",
+
+        "locationDetail": "",
+        "aboutPhoto": "assets/congress.jpg",
+        "locationPhoto": "assets/map.png",
+        "teamPhoto": "assets/images/team.png"
+    },
+    {
+        "where":" Portugal ",
+        "baseUrl": "portugal2024/",
+
+        "when": " 24-25 Mayo 2024 ",
+        "about":"Congreso\nLa conferencia de seguridad informática Rooted CON nació con el propósito de promover el intercambio de conocimientos entre los miembros de la comunidad de seguridad.\n\nRootedLabs\nConjunto de actividades formativas de un día de duración que se realizan durante los tres días previos a RootedCON.\n\nBootcamps\nCursos avanzados de más de un día de duración con especialidad concreta en una temática.",
+        "location": "A determinar.",
+        "team":"Sobre nosotros\nUna de las primeras premisas fue mantener de forma rígida el principio de neutralidad que ha caracterizado cada una de sus ediciones. En Rooted CON pudieron, pueden y podrán hablar y presentar sus ideas los miembros de la comunidad de seguridad, estudiantes, profesionales, empresas, aficionados, fuerzas del estado, hackers y, por qué no, artistas y académicos.",
+
+        "when_en": " May 24-25 2024 ",
+        "about_en":"Conference\nThe computer security conference Rooted CON born with the purpose of promoting the exchange of knowledge between members of the security community.\n\nRootedLabs\nOne-day training activities that takes place during the three days prior to RootedCON.\n\nBootcamps\nAdvanced courses of more than one day duration with a specific specialty in a subject.",
+        "location_en": "To determinate.",
+        "team_en":"About us\nOne of the first premises was to maintain rigidly the principle of neutrality that has characterized each of its editions. In Rooted CON, the members of the security community, students, professionals, companies, amateurs, state forces, hackers and, why not, artists and academics can and will be able to speak and present their ideas.",
+
+        "locationDetail": "",
+        "aboutPhoto": "assets/congress.jpg",
+        "locationPhoto": "assets/map.png",
+        "teamPhoto": "assets/images/team.png"
+    }
+]
