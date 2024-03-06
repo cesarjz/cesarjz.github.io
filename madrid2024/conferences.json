@@ -73,20 +73,55 @@
                 "id": "sessionDetail-1011",
                 "title": "Introducción ISACA Madrid",
                 "metadata": "Idioma: es",
-                "description": "",
+                "description": "Durante esta charla de bienvenida se mostrará una visión global de ISACA Madrid, haciendo referencia a los principales objetivos de la Asociación y a las actividades de difusión, formación y concienciación que se realizan anualmente, mediante la organización de Congresos, Conferencias y publicación de material especializado. Adicionalmente, se presentarán las principales certificaciones ofrecidas por ISACA y se realizará un repaso de los recursos que ISACA Madrid pone a disposición de sus asociados para permitirles una continua actualización de conocimientos en materia de Gobierno, Gestión de Riesgos, Cumplimiento, Seguridad, Control y Auditoría de las Tecnologías de la Información y Comunicaciones. \"",
                 "people": [
                         {
-                                "name": "Daniel González",
-                                "about": "Daniel Gonzáles es Ingeniero Técnico en Informática, graduado en Sistemas de la Información y con un Máster en Seguridad de la información y las Comunicaciones. Cuenta con certificaciones en CISM, CDPSE, CSX, CEH y Director de Seguridad Física. Co-fundador y COO de la destacada empresa de Ciberseguridad de Zerolynx. Además, desempeña labores como profesor y ponente en distintos conferencias y cursos, incluyendo eventos de reconocido prestigio como RootedCON, Sh3IICON y Mundo Hacker. Colabora activamente con ISACA Madrid Chapter, donde forma parte de la junta directiva y coordina las formaciones de ITCA. Además de su dedicación profesional, en el ámbito personal, es una persona que valora profundamente el tiempo junto a su familia y disfruta al máximo con sus hijos. Apasionado por descubrir nuevos lugares, le encanta viajar siempre que puede. Su pasión por la seguridad IT va de la mano con su espíritu aventurero y su deseo de proteger lo que más valora en la vida.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "name": "Vanesa Gil Laredo",
+                                "about": "Vanesa Gil Laredo, Presidenta de ISACA Madrid Chapter, es una profesional con más de veinte años de experiencia en el sector de la gestión de seguridad de la información. Durante su trayectoria profesional ha liderado, gestionado y participado en numerosos proyectos relacionados con la gestión de la seguridad de la información, IT Governance, Gestión de Riesgos Tecnológicos y Compliance. Entre estos proyectos se podrían destacar los siguientes: Implantación de Sistemas de Gestión de Seguridad de la Información, desarrollo de Planes Directores de Seguridad, realización de proyectos de adecuación al estándar PCI DSS, Evaluaciones de Seguridad de los Sistemas de Información, Análisis de Riesgos y Planes de Gestión de Riesgos Tecnológicos, desarrollo de Planes de Continuidad de Negocio, consultoría para el cumplimiento de la legislación vigente en materia de protección de datos de carácter personal y desarrollo de normativas y procedimientos de seguridad. Dispone, entre otras, de las siguientes certificaciones de seguridad: Certified Information Systems Auditor (CISA), Certified Information Security Manager (CISM), Certified in the Governance of Enterprise IT (CGEIT), Certified in Risk and Information Systems Control (CRISC), Certified Data Privacy Solutions Engineer (CDPSE), Lead Auditor y Certified Data Privacy Professional (CDPP).",
+                                "image": "/img/people/2024/vanesagil.png"
                         }
                 ]
         },
         {
                 "id": "sessionDetail-9003",
                 "title": "🍺🍻RootedBeers by TARLOGIC (ESPACIO LUMIERE)",
-                "metadata": "",
+                "metadata": "Idioma: es",
                 "description": "RootedBeers by TARLOGIC",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-9010",
+                "title": "🎧🥳 Sesión de Live Coding con Laura Zapata (música) y b1tdreamer (visuales) (ESPACIO LUMIERE)",
+                "metadata": "Idioma: es",
+                "description": "El live coding es una técnica de creación audiovisual que usa como herramienta de creación el código informático. Una combinación de música e imágenes utilizando herramientas de software libre, experimentando con diferentes lenguajes y plataformas creadas específicamente para la programación de sonido e imagen digital. Todas las herramientas que utilizan están publicadas bajo alguna de las licencias públicas existentes: SuperCollider, Tidal, Extempore, Overtone, PureData, Sonic Pi, etc.",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-9011",
+                "title": "🎧🥳 “Rooted Exploit: Privilege Escalation Run” con HUMNEEB (música) & OFFDISARTIST (visuales) (ESPACIO LUMIERE)",
+                "metadata": "Idioma: es",
+                "description": "Un set de música electrónica que fusiona diversos paisajes sonoros, atmósferas envolventes y ritmos vibrantes, llevando a los oyentes desde la calma reflexiva, a través de pequeños diálogos de películas de temática sci-fi e inteligencia artificial, escalando hasta la intensidad de los ataques informáticos",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-9012",
+                "title": "🎧🥳 Sesión de Live Coding con r_phlux_d (música) y rub3n4zo (visuales) (ESPACIO LUMIERE)",
+                "metadata": "Idioma: es",
+                "description": "El live coding es una técnica de creación audiovisual que usa como herramienta de creación el código informático. Una combinación de música e imágenes utilizando herramientas de software libre, experimentando con diferentes lenguajes y plataformas creadas específicamente para la programación de sonido e imagen digital. Todas las herramientas que utilizan están publicadas bajo alguna de las licencias públicas existentes: SuperCollider, Tidal, Extempore, Overtone, PureData, Sonic Pi, etc.",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-9013",
+                "title": "🎧🥳 “Power Saving Mode Live” con XTASIK (música) & SASENART (visuales) (ESPACIO LUMIERE)",
+                "metadata": "Idioma: es",
+                "description": "En \"Power Saving Mode Live\", Xtasik disecciona y vuelve a montar su álbum Power Saving Mode en vivo, con el apoyo visual de Sasenart. Durante aproximadamente una hora, el dúo de artistas madrileños debutará su show en RootedCON y se embarcará en un viaje de música electrónica con energía, sentimiento y atmósfera, explorando y redescubriendo el álbum de una forma totalmente nueva.",
+                "people": []
+        },
+        {
+                "id": "sessionDetail-9014",
+                "title": "🎧🥳 División Sonora Dj´s (ESPACIO LUMIERE)",
+                "metadata": "Idioma: es",
+                "description": "División Sonora es un colectivo de Djʼs radicado en Madrid. Somos los residentes de una sala emblemática de la capital: Honky Tonk Bar. Además, hemos pinchado con regularidad en clubes tan populares como Costello Club, Independance o Wild Thing Bar, y hemos realizado sesiones en las cabinas de Tupper Ware, Siroco, Silikona, Ocho y Medio o La Vía Láctea. La amenización de todo tipo de eventos ‒privados, corporativos, institucionales‒ es una de nuestras especialidades.",
                 "people": []
         },
         {
@@ -103,7 +138,7 @@
                         {
                                 "name": "Marc Manzano",
                                 "about": "Marc Manzano leads the quantum security group at SandboxAQ, focusing on creating technology for modern cryptography management. His current research interests include post-quantum cryptography and fully-homomorphic encryption. With over 25 articles at international conferences, he has published more than ten journal papers, and collaborated on scientific books on cryptography and computer networks security. In the past decade, Dr. Manzano pioneered the development of secure cryptographic libraries and protocols. Formerly a Senior Staff Software Engineer at Google, he was also the Vice President of the Cryptography Research Centre at the Technology Innovation Institute in the UAE. He also played key roles in implementing cryptographic components for secure communication products, including an electronic voting platform. Dr. Manzano holds a PhD in Computers Network Security, from the University of Girona (Spain) and Kansas State University (United States), an MSc in Computer Science from the University of Girona, and initiated his research career during his BSc in Computer Engineering at Strathclyde University (UK).",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/marcmanzano.png"
                         }
                 ]
         },
@@ -129,7 +164,7 @@
                         {
                                 "name": "Ramiro Pareja Veredas",
                                 "about": "Ramiro Pareja is Principal Security Consultant at IOActive. He has a large experience on hardware security and he specializes on Embedded Systems and SoC security. In the last years, Ramiro has developed his interest and expertise in the automotive industry, where he applied successfully attacks like fault injection and side channel attacks – very common in other markets like smartcards or content protection – to the automotive electronic systems. If it has chips, he can break it ;)",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/ramiropareja.png"
                         },
                         {
                                 "name": "Yashin Mehaboobe",
@@ -196,22 +231,22 @@
                         {
                                 "name": "Susana Quintás Veloso",
                                 "about": "Susana Quintás es Consejera Independiente en Sofinco, filial de consumo del grupo Credit Agricole, de Reale Seguros Generales y Reale Immobili España (RIE). Presidenta de la Comisión de Nombramientos y Retribuciones y Vocal de la Comisión de Auditoría y Riesgos en Sofinco. Presidenta de la Oficina de Vigilancia de RIE. Anteriormente ha pertenecido a los consejos de administración de 4B, Aliseda SGI (además vocal en la Comisión de Auditoría), Euroautomatich Cash y Universalpay. Desde enero 2023 es Directora de Sostenibilidad de la Comisión de Sostenibilidad de IFMA España (International Facility Management Association). Ha codirigido el “Playbook de la Oficina Sostenible”.Quintás está certificada en sostenibilidad por IASE International Association for Sustainable Economy, London UK como ISB® e ISF® II Specialist. Ha sido varios años Country Manager de Metrikus -entre las 10 primeras PropTech más innovadoras en 2021 en Reino Unido y Top20 de Europa según PWC- en España y Latinoamérica, ganando varios premios en 2023 y desarrollando importantes alianzas estratégicas de crecimiento de negocio. Ha sido finalista en SoutSummit 2023 y reconocida como PropTech Influencer por the Fringe Labs. Más de 20 años de experiencia en finanzas como directora general de Banco Pastor y subdirectora general de Banco Popular y amplia experiencia en el mundo inmobiliario (representando a Banco Santander en Quasar), estrategia, transformación digital y operaciones corporativas. Economista y auditora registrada en ROAC, y PDD del IESE. Ha completado el Programa para consejeros de ESADE, está certificada en Buen Gobierno por el IC-A y ha cursado el DIBEX (Digital Business Executive Programme) en ISDI. Es mentora en el Club de Consejeros de ESADE y en Wires (Women in Real Estate). Ha publicado diferentes tribunas en medios como Expansión o Cinco Días e impartido cursos de postgrado en varias universidades españolas. Co autora de “Piensa como un consejero” y de “Cómo innovar desde el Consejo”.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/susanaquintas.png"
                         },
                         {
                                 "name": "Jose Gregorio Parrado Restrepo",
                                 "about": "Especializado en ciberseguridad y prevención del fraude, con amplia experiencia en proyectos de integración bancaria a nivel internacional. Mi trayectoria se destaca en áreas clave como préstamos, pagos, fraude y ciberseguridad. He liderado equipos en el desarrollo e implementación de soluciones avanzadas para entornos financieros. Mi enfoque y la adopción de nuevas tecnologías me llevaron a asumir nuevos retos, incluida la dirección informática y de seguridad en la creación de FrauDfense partiendo desde cero para establecer sólidos cimientos para la prevención y detección de fraude, así como en la implementación de protocolos de seguridad robustos, cruciales para garantizar la integridad y confianza en este innovador sistema.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/josegregorioparrado.png"
                         },
                         {
                                 "name": "Myriam Alcaide Menéndez",
-                                "about": "Myriam Alcaide es Senior Advisor y Consejera.   Con más de 20 años de experiencia en Banca de Inversión, Myriam es una autoridad en gestión de riesgos que desde la comisión de auditoría puede guiar fiablemente el viaje desde los KPIs financieros hacia una supervisión de los KPIs no financieros ESG.  Cuenta con una extensa trayectoria internacional habiendo disfrutado de diferentes posiciones en JPMorgan en Madrid y Londres, liderando como Senior Vice President operaciones de “Corporate Finance” y proyectos internacionales en equipos multiculturales.   Durante su paso por JPMorgan, ha consolidado un profundo conocimiento de los sectores de construcción, energía e infraestructuras y de los grandes grupos españoles y portugueses que operan en dichos sectores.   Apasionada de los criterios ESG, en 2020 ha fundado MAM advisory para asesorar a empresas en sus estrategias de Diversidad e Inclusión.  Es fundadora y vicepresidenta del Consejo de Innovación y Buen Gobierno, cuyo propósito es promover el buen gobierno corporativo en las organizaciones. En el seno de esta asociación ha escrito, junto a otros socios, “Piensa como un Consejero” y de “Cómo innovar desde el Consejo”.   Desde 2022 es miembro de la Junta Directiva de EJE&CON donde también participa activamente en el Foro de Sostenibilidad y en el Foro Financiero.   También participa en el consejo asesor de Samai Distillery asesorando en su estrategia para levantar capital para escalar el negocio.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Myriam Alcaide es Senior Advisor y Consejera.  Con más de 20 años de experiencia en Banca de Inversión, Myriam es una autoridad en gestión de riesgos que desde la comisión de auditoría puede guiar fiablemente el viaje desde los KPIs financieros hacia una supervisión de los KPIs no financieros ESG. Cuenta con una extensa trayectoria internacional habiendo disfrutado de diferentes posiciones en JPMorgan en Madrid y Londres, liderando como Senior Vice President operaciones de “Corporate Finance” y proyectos internacionales en equipos multiculturales.  Durante su paso por JPMorgan, ha consolidado un profundo conocimiento de los sectores de construcción, energía e infraestructuras y de los grandes grupos españoles y portugueses que operan en dichos sectores.  Apasionada de los criterios ESG, en 2020 ha fundado MAM advisory para asesorar a empresas en sus estrategias de Diversidad e Inclusión. Es fundadora y vicepresidenta del Consejo de Innovación y Buen Gobierno, cuyo propósito es promover el buen gobierno corporativo en las organizaciones. En el seno de esta asociación ha escrito, junto a otros socios, “Piensa como un Consejero” y de “Cómo innovar desde el Consejo”.  Desde 2022 es miembro de la Junta Directiva de EJE&CON donde también participa activamente en el Foro de Sostenibilidad y en el Foro Financiero.  También participa en el consejo asesor de Samai Distillery asesorando en su estrategia para levantar capital para escalar el negocio.",
+                                "image": "/img/people/2024/myriamalcaide.png"
                         },
                         {
                                 "name": "Juan Diego Torres Serrano",
-                                "about": "Juan Diego Torres – Cabot Financial Country Manager for Iberia (Encore Capital Group)   Financial Services Executive Director con 25 años de experiencia en Consumer banking.  Área de experiencia en Gestión de créditos e Inversiones de deuda.   Licenciado en Administración y Dirección de Empresas por la Universidad Autónoma de Madrid. Especializado con estudios de postgrado en Finanzas y Marketing.   Ha desarrollado distintas posiciones en Bancos y Fondos en Europa (Citibank, Barclays, WiZink Bank entre otros) gestionando negocio en España, Portugal e Italia. Borad member en las compañías Cabot en estos 3 países.   Ponente en diversos congresos sectoriales y de compliance (ASCOM). Representado en ANGECO (Asociación Nacional de empresas de Gestión de Créditos).   Cuenta con reconocimientos en el sector financiero por la gestión de proyectos de M&A, Transformación y grandes Migraciones.  Ha alcanzado para Cabot Financial la Certificación Best Place to Work en 2022/2023 y 2023/2024",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Juan Diego Torres – Cabot Financial Country Manager for Iberia (Encore Capital Group) Financial Services Executive Director con 25 años de experiencia en Consumer banking.  Área de experiencia en Gestión de créditos e Inversiones de deuda.  Licenciado en Administración y Dirección de Empresas por la Universidad Autónoma de Madrid. Especializado con estudios de postgrado en Finanzas y Marketing.  Ha desarrollado distintas posiciones en Bancos y Fondos en Europa (Citibank, Barclays, WiZink Bank entre otros) gestionando negocio en España, Portugal e Italia. Borad member en las compañías Cabot en estos 3 países. Ponente en diversos congresos sectoriales y de compliance (ASCOM). Representado en ANGECO (Asociación Nacional de empresas de Gestión de Créditos).  Cuenta con reconocimientos en el sector financiero por la gestión de proyectos de M&A, Transformación y grandes Migraciones. Ha alcanzado para Cabot Financial la Certificación Best Place to Work en 2022/2023 y 2023/2024",
+                                "image": "/img/people/2024/juandiegotorres.png"
                         }
                 ]
         },
@@ -312,7 +347,7 @@
                         {
                                 "name": "Sergio Valle Trillo",
                                 "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/sergiovalle.png"
                         }
                 ]
         },
@@ -436,7 +471,7 @@
                         {
                                 "name": "Ana De La Torre Lopez",
                                 "about": "Ana De La Torre actualmente trabaja como Lead Data Scientist en una gran multinacional alemana y es estudiante del máster de Ciberseguridad y Privacidad de la UOC. Además, es Licenciada en Derecho y Administración y Dirección de Empresas por la UDC aunque en 2019 redirigió su carrera hacia el mundo de la tecnología, focalizándose en el área de Machine Learning e Inteligencia Artificial, campo en el tiene un máster en Data Science y Big Data por Afi Escuela.   Ana cuenta con 5 años de experiencia como científica de datos y experta en IA en diversas empresas internacionales de diferentes sectores como marketing, movilidad y banca.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/anadelatorre.png"
                         },
                         {
                                 "name": "José Miguel Cardona Pastor",
@@ -446,7 +481,7 @@
                         {
                                 "name": "Elena García Díez",
                                 "about": "Actualmente Directora de Seguridad de la Información (CISO) en Indra y, como tal, responsable de la definición, desarrollo y seguimiento de la estrategia, servicios y controles de seguridad de la compañía a nivel global. Previamente a Indra, trabajó en diferentes niveles y áreas de actividad en el Instituto Nacional de Ciberseguridad (INCIBE) y en diferentes empresas de servicios y consultoría de telecomunicaciones. Ingeniera de Telecomunicaciones por la Universidad de Cantabria, cuenta con certificaciones específicas de gestión de proyectos (PMP) y seguridad. Colaboradora habitual de grupos de trabajo, asociaciones, foros especializados y acciones formativas en el sector de la Ciberseguidad (Founder Member de Women4Cyber de ECSO (European Organisation for Cybersecurity), Vocal en Women4Cyber-Spain, Miembro del Consejo Asesor de Ciberlideria, ISMSForum, etc.).",
-                                "image": "/img/people/2024/.png"
+                                "image": "/img/people/2024/elenagarcia.png"
                         },
                         {
                                 "name": "David Sandoval Rodríguez-Bermejo",
@@ -483,6 +518,11 @@
                                 "name": "Pablo Fernández Burgueño",
                                 "about": "Jurista y docente especializado en Legaltech y derecho del entretenimiento, marketing, ciberseguridad y protección de datos. Participa en el diseño de soluciones legales desde 2007. Forma parte de los espacios de protección de datos y criptoactivos del Centro Europeo de Ciberdelincuencia, de Europol. Es socio en INMERSIVA XR y ASEDA, miembro de DENAE y profesor asociado universitario.",
                                 "image": "/img/people/2024/pfernandez.png"
+                        },
+                        {
+                                "name": "Luis Diago de Aguilar",
+                                "about": "Profesional senior con una formación avalada por másteres en ciberseguridad y análisis de terrorismo yihadista. Más de 60 artículos publicados (Más Allá del Firewall, Derecho de la Red, Rincón de la Tecnología), director del podcast Más Allá del Firewall, varias intervenciones en congresos y 13 herramientas de código abierto disponibles todas ellas para su uso gratuito. De la comunidad para la comunidad.",
+                                "image": "/img/people/2024/luisdiago.png"
                         }
                 ]
         },
@@ -534,7 +574,7 @@
                         {
                                 "name": "Daniel Echeverri Montoya",
                                 "about": "Adastra es founder en TheHackerWay. Formador y pentester con cerca de 20 años de experiencia en el sector IT.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/danielecheverri.png"
                         }
                 ]
         },
@@ -586,12 +626,12 @@
                         {
                                 "name": "Craig Simonson",
                                 "about": "Craig has over 20 years of experience and has been working as a consultant exclusively on cybersecurity-related projects for the past decade. Starting with a strong foundation in the Microsoft infrastructure stack and Microsoft 365 migrations, focus shifted toward the Defender solutions, culminating in his current expertise in multi-vendor SIEM/SOAR scenarios. Beyond the technical and automation aspects, his expertise lies in defining and implementing security team processes across organizations. At RootedCON, Craig will offer insights into the practical integration of AI within SOC processes.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/craigsimonson.png"
                         },
                         {
                                 "name": "Lucas Ferrero",
                                 "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/lucasferrero.png"
                         }
                 ]
         },
@@ -604,27 +644,27 @@
                         {
                                 "name": "Maria Penilla",
                                 "about": "Ingeniera Superior de Telecomunicaciones con un MBA por la Universidad Politécnica de Madrid. Con más de 20 años de experiencia en el sector de las telecomunicaciones, implantando y liderando proyectos de comunicaciones en empresas. Durante los últimos 10 años ha centrado su actividad en la ciberseguridad, llevando a cabo proyectos de ciberseguridad en empresas de diferentes sectores. En la actualidad es Directora General de la Fundación ZIUR, puesto desde el que se encarga de gestionar la infraestructura y estrategia tecnológica de la Fundación, y de la definición y prestación de los diferentes servicios que, desde ZIUR, se pone a disposición de las empresas industriales guipuzcoanas",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/mariapenilla.png"
                         },
                         {
                                 "name": "Francisco Alonso Batuecas",
                                 "about": "Jefe de área de Infraestructura y Seguridad TIC, en el Centro Tecnológico de Seguridad (CETSE) de la Secretaría de Estado de Seguridad Ministerio del Interior.. Desde hace más de 15 años, es responsable del departamento de Infraestructura y Seguridad TIC, en el CETSE (Centro Tecnológico de Seguridad). Master de Dirección TIC para la Defensa, por la Universidad de Vigo, Centro Universitario de la Defensa de la Escuela Naval Militar. Algunos hitos relevantes: • Director de los proyectos AlertCops, Lince y Halcón (investigación en fuentes abiertas), Avizor (visión artificial para la investigación en delitos de abusos sexuales con menores).  • Director del proyecto de implantación del nuevo Centro de Proceso de Datos TIER III+, para el Ministerio del Interior. • Director del proyecto de transformación y digitalización del puesto de trabajo de nueva generación del Ministerio del Interior. • Creador de la Red Policial, red para el intercambio de información entre las FFCCS del Estado y Autonómicas en España. • Representante de España en el Security Officer Network (SON) de la Agencia Europea Eulisa.  • Representante de España en la European Cooperation Network on Elections. • Responsable de Seguridad de la Información en Procesos Electorales • Coordinador del grupo Público-Privado de Privacidad y Seguridad de Menores en la Red, de la Agenda Digital de España.  • Colaborador y formador en distintas organizaciones: Centro Criptológico Nacional, AECID, Incibe Summer Boot Camp, Profesor del Master en Tecnología e Innovación Digital en Ingeniería, por la Universidad Nacional Española a Distancia y el Colegio de Ingenieros de Caminos",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/franciscoalonsobatuecas.png"
                         },
                         {
                                 "name": "Alexandre Rodriguez",
                                 "about": "Enthusiastic about technology and cybersecurity, I have experience on  - Translate regulatory and company risks into cyber security programs aligned with business objectives.  - Advise and rapid evaluation on aligning business objectives with IT services. - Evaluate the actual security of an organization through the execution of an offensive security program.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/alexandrerodriguez.png"
                         },
                         {
                                 "name": "Daniel González",
                                 "about": "Daniel Gonzáles es Ingeniero Técnico en Informática, graduado en Sistemas de la Información y con un Máster en Seguridad de la información y las Comunicaciones. Cuenta con certificaciones en CISM, CDPSE, CSX, CEH y Director de Seguridad Física. Co-fundador y COO de la destacada empresa de Ciberseguridad de Zerolynx. Además, desempeña labores como profesor y ponente en distintos conferencias y cursos, incluyendo eventos de reconocido prestigio como RootedCON, Sh3IICON y Mundo Hacker. Colabora activamente con ISACA Madrid Chapter, donde forma parte de la junta directiva y coordina las formaciones de ITCA. Además de su dedicación profesional, en el ámbito personal, es una persona que valora profundamente el tiempo junto a su familia y disfruta al máximo con sus hijos. Apasionado por descubrir nuevos lugares, le encanta viajar siempre que puede. Su pasión por la seguridad IT va de la mano con su espíritu aventurero y su deseo de proteger lo que más valora en la vida.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/danielgonzalez.png"
                         },
                         {
                                 "name": "MARCOS GÓMEZ HIDALGO",
                                 "about": "Marcos Gómez Hidalgo. Licenciado en Ciencias Matemáticas por la Universidad Complutense de Madrid. Subdirector de INCIBE-CERT y CISO de INCIBE, Instituto Nacional de Ciberseguridad, del Ministerio para la Transformación Digital y de la Función Pública. INCIBE-CERT es el CERT/CSIRT de referencia para todo el sector privado y ciudadanía, según el Real Decreto Ley 12/2018 de Seguridad de las Redes y los Sistemas de Información, legislación española transpuesta de la Directiva Europea NIS (Network Information Security). Es experto en equipos de respuesta a ciberincidentes, auditoría de seguridad de la información, gestión de seguridad de la información, gestión y análisis de riesgos, SGSI, gestión de continuidad de negocio y recuperación ante desastres, cumplimento normativo en ciberseguridad, y esquema nacional de seguridad, entre otras áreas de conocimiento. Dispone de las acreditaciones CISA, CISM y CRISC por ISACA. Ha sido asesor experto en ciberseguridad de la Agencia Europea de Seguridad de las Redes y la Información, ENISA, de la Comisión Europea, a través del Permanent StakeHolders Group, grupo de asesores permanente de la Agencia. Ha desempeñado diversos puestos de responsabilidad en INCIBE/INTECO. Trabajó en la entidad pública empresarial Red.es como Responsable del Centro de Alerta Temprana sobre Virus y Seguridad Informática, como Responsable de Sistemas de Información y como Responsable de Sistemas de Gestión de Bases de Datos. Ha desempeñado también diferentes puestos de responsabilidad en el sector privado en empresas como SemaGroup y ATOS. Ha sido profesor asociado en Ingeniería Informática en la UCJC, de la institución educativa SEK. Es profesor en diferentes másteres y postgrados de ciberseguridad.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/marcosgomezhidalgo.png"
                         }
                 ]
         },
@@ -655,7 +695,7 @@
                         {
                                 "name": "Juan Tapiador",
                                 "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/juantapiador.png"
                         }
                 ]
         },
@@ -680,7 +720,7 @@
                 "people": [
                         {
                                 "name": "Pablo San Emeterio",
-                                "about": "Pablo San Emeterio es Ingeniero Informático y Máster en Auditoría y Seguridad de la Información por la UPM, posee distintas certificaciones como son CISA o CISM.   Ha trabajado desde hace más de 20 años en distintos puestos relacionados con el desarrollo de software y la I+D+i. En el mundo de la seguridad informática lleva trabajando más de 15 años, en empresas como Optenet o Telefónica.   Entre sus trabajos destacan sus investigaciones sobre la seguridad de las distintas aplicaciones de mensajería instantánea junto con trabajos sobre técnicas de hooking. Esto le ha permitido participar como ponente en los principales en eventos internacionales de renombre tales como Shmoocon (Washington) o BlackHat (Amsterdam, Sao Paulo y Las Vegas), así como ponencias en congresos nacionales de prestigio como Rootedcon, Jornadas STIC, NcN, Navajas Negras, etc.  Actualmente es fundador y director de VAPASEC. VAPASEC es un proveedor global de ciberseguridad que ofrece servicios y soluciones para ayudar a las organizaciones a mejorar su protección digital.  Además, es profesor del Máster en Ciberseguridad de la UCAM, del curso OSINT: Investigaciones en Internet mediante fuentes abiertas de aesYc y colabora con la fundación Goodjob. Toda esta labor la compagina todos los lunes en el programa de radio CiberAfterWork que de emite en Capital Radio, donde se tratan temas de actualidad del mundo de la ciberseguridad y se difunde la cultura de ciberseguridad en la sociedad.",
+                                "about": "Pablo San Emeterio es Ingeniero Informático y Máster en Auditoría y Seguridad de la Información por la UPM, posee distintas certificaciones como son CISA o CISM.  Ha trabajado desde hace más de 20 años en distintos puestos relacionados con el desarrollo de software y la I+D+i. En el mundo de la seguridad informática lleva trabajando más de 15 años, en empresas como Optenet o Telefónica.  Entre sus trabajos destacan sus investigaciones sobre la seguridad de las distintas aplicaciones de mensajería instantánea junto con trabajos sobre técnicas de hooking. Esto le ha permitido participar como ponente en los principales en eventos internacionales de renombre tales como Shmoocon (Washington) o BlackHat (Amsterdam, Sao Paulo y Las Vegas), así como ponencias en congresos nacionales de prestigio como Rootedcon, Jornadas STIC, NcN, Navajas Negras, etc. Actualmente es fundador y director de VAPASEC. VAPASEC es un proveedor global de ciberseguridad que ofrece servicios y soluciones para ayudar a las organizaciones a mejorar su protección digital. Además, es profesor del Máster en Ciberseguridad de la UCAM, del curso OSINT: Investigaciones en Internet mediante fuentes abiertas de aesYc y colabora con la fundación Goodjob. Toda esta labor la compagina todos los lunes en el programa de radio CiberAfterWork que de emite en Capital Radio, donde se tratan temas de actualidad del mundo de la ciberseguridad y se difunde la cultura de ciberseguridad en la sociedad.",
                                 "image": "/img/people/2024/psanemeterio.png"
                         }
                 ]
@@ -694,7 +734,7 @@
                         {
                                 "name": "Tomas Clemente Sanchez",
                                 "about": "Tomás Clemente es un experto en seguridad y privacidad de la nube, que ha trabajado en el desarrollo y implementación de marcos de seguridad y protección de datos en el sector público y privado, español y europeo. Desde hace 7 años es arquitecto de seguridad en Amazon Web Services y trabaja en la creación y adopción de tecnologias de seguridad en la nube para el sector público.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/tomasclemente.png"
                         },
                         {
                                 "name": "Jose Luis Prieto Priego",
@@ -724,8 +764,8 @@
                 "people": [
                         {
                                 "name": "Daniel Largacha Lamela",
-                                "about": "Ingeniero informática por la UPM, con más de 20 años de experiencia en el sector de la ciberseguridad. Ha trabajado en Telefónica, Deloitte y Azertia, hasta incorporarse en 2005 a MAPFRE como administrador de seguridad. Desde 2007 participó en la creación del área corporativa de seguridad ayudando a montar el área operativa, actualmente es Director del Centro de Operaciones de Seguridad en MAPFRE.  Adicionalmente dispone de un Master en Gestión de Entidades Aseguradoras (ICEA y Universidad Pontificia de Salamanca), y dispone de las certificaciones CISA, CISSP, CHFI, 27001: Lead Implementer, CDPSE y Director de Seguridad por el Ministerio del Interior.  También colabora con la asociación ISMS como Director del Capítulo de Ciberseguridad, y es profesor en varios cursos y Master de Ciberseguridad.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Ingeniero informática por la UPM, con más de 20 años de experiencia en el sector de la ciberseguridad. Ha trabajado en Telefónica, Deloitte y Azertia, hasta incorporarse en 2005 a MAPFRE como administrador de seguridad. Desde 2007 participó en la creación del área corporativa de seguridad ayudando a montar el área operativa, actualmente es Director del Centro de Operaciones de Seguridad en MAPFRE. Adicionalmente dispone de un Master en Gestión de Entidades Aseguradoras (ICEA y Universidad Pontificia de Salamanca), y dispone de las certificaciones CISA, CISSP, CHFI, 27001: Lead Implementer, CDPSE y Director de Seguridad por el Ministerio del Interior. También colabora con la asociación ISMS como Director del Capítulo de Ciberseguridad, y es profesor en varios cursos y Master de Ciberseguridad.",
+                                "image": "/img/people/2024/daniellargacha.png"
                         }
                 ]
         },
@@ -737,8 +777,8 @@
                 "people": [
                         {
                                 "name": "Juan Martinez Romero",
-                                "about": "Ingeniero en Tecnologías de Telecomunicación y Máster en Ciberseguridad por la Universidad de Granada. Además, dispone de la certificación CriptoCert Certified Crypto Analyst, que lo acredita como experto en el ámbito de la criptografía.  Mánager del Departamento de Criptografía de jtsec, laboratorio de ciberseguridad acreditado por CCN, y Consultor Senior de Ciberseguridad. Además, es experto en múltiples metodologías de evaluación de productos criptográficos como FIPS 140-2/3 y PCI-PTS. y ha sido participe junto a CCN en el desarrollo de la Metodología Española de Evaluación Criptográfica.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Ingeniero en Tecnologías de Telecomunicación y Máster en Ciberseguridad por la Universidad de Granada. Además, dispone de la certificación CriptoCert Certified Crypto Analyst, que lo acredita como experto en el ámbito de la criptografía. Mánager del Departamento de Criptografía de jtsec, laboratorio de ciberseguridad acreditado por CCN, y Consultor Senior de Ciberseguridad. Además, es experto en múltiples metodologías de evaluación de productos criptográficos como FIPS 140-2/3 y PCI-PTS. y ha sido participe junto a CCN en el desarrollo de la Metodología Española de Evaluación Criptográfica.",
+                                "image": "/img/people/2024/juanmartinezromero.png"
                         }
                 ]
         },
@@ -750,7 +790,7 @@
                 "people": [
                         {
                                 "name": "Albert Priego Bravo",
-                                "about": "Albert Priego trabaja actualmente como Investigador Senior en RSA Netwitness en el área de Threat Intelligence & IR y lidera parte del área técnica en Europa.  Anteriormente trabajó en Group-IB donde realizó investigaciones internacionales que resultaron en la identificación y neutralización de APTs y botnets entre otras amenazas de alto perfil cooperando junto a diferentes fuerzas de seguridad.  Durante su trayectoria, ha trabajado en la resolución de IRs de infraestructuras críticas y figuras públicas. A lo largo de sus +10 años de trayectoria profesional ha colaborado con diferentes equipos tanto nacionales como internacionales.",
+                                "about": "Albert Priego trabaja actualmente como Investigador Senior en RSA Netwitness en el área de Threat Intelligence & IR y lidera parte del área técnica en Europa. Anteriormente trabajó en Group-IB donde realizó investigaciones internacionales que resultaron en la identificación y neutralización de APTs y botnets entre otras amenazas de alto perfil cooperando junto a diferentes fuerzas de seguridad. Durante su trayectoria, ha trabajado en la resolución de IRs de infraestructuras críticas y figuras públicas. A lo largo de sus +10 años de trayectoria profesional ha colaborado con diferentes equipos tanto nacionales como internacionales.",
                                 "image": "/img/people/2024/apriego.png"
                         }
                 ]
@@ -808,7 +848,7 @@
                         {
                                 "name": "Javier Jarauta Gastelu",
                                 "about": "Estudiante de Doble Máster de Ingeniería de Telecomunicaciones y Ciberseguridad en Comillas ICAI. Colaborando en el proyecto de la Comisión Europea eFort, para la securización de las redes eléctricas europeas. Apasionado del reversing y el cacharreo. En la actualidad, estudiando en Chicago en Illinois Tech y como detalle adicional, violinista y salsero.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/javierjarauta.png"
                         }
                 ]
         },
@@ -826,7 +866,7 @@
                         {
                                 "name": "Cristina Barbero Eugenio",
                                 "about": "Graduada en Ingeniería de Tecnologías de Telecomunicación por la Universidad Carlos III de Madrid. Actualmente trabajo como DevOps Engineer en Swiss Re, donde gracias a mi equipo (Continuous Security Assurance) me estoy adentrando en el apasionante mundo de la ciberseguridad para garantizar la seguridad, integración y mejora continua de las aplicaciones.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/cristinabarbero.png"
                         }
                 ]
         },
@@ -839,7 +879,7 @@
                         {
                                 "name": "Camilo Andrés",
                                 "about": "Camilo Andrés (@camiloab97) es ingeniero de telecomunicaciones por la Universidad Politécnica de Madrid. Certificado en BSCP. Actualmente, trabaja como analista senior de seguridad ofensiva dentro del Grupo Zerolynx. Cuenta con dos CVE publicados (CVE-2023-0506 y CVE-2023-28632). Recientemente, ganador con el equipo de España del mundial de Bug Bounty 2023.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/camiloandres.png"
                         }
                 ]
         },
@@ -857,7 +897,7 @@
                         {
                                 "name": "David Marques Diaz",
                                 "about": "Ingeniero Superior Informático. Cuento con más de 33 años de experiencia en IT, comencé en Ciberseguridad en el 1997. He ocupado diferentes puestos en compañías como Consultor, CIO, CTO y CISO. Los últimos 12 años he estado dedicado al sector Servicio de la Ciberseguridad, trabajando en varias empresas del sector en diferentes roles. Desde noviembre me encuentro dirigiendo las operaciones en aDvens Iberia.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/davidmarques.png"
                         }
                 ]
         },
@@ -888,12 +928,12 @@
                         {
                                 "name": "Gabriela García",
                                 "about": "Trabaja como profesora universitaria formadora en programas de máster e instructora presencial y online de ciberseguridad y programación. Paralelamente, se desempeña como desarrolladora de software, enfocándose en el desarrollo de plataformas basadas en la seguridad. Además de impartir clases y desarrollar, participa en la organización de comunidades de hackers, no solo en España, sino a nivel internacional. Como profesional independiente, colabora con diferentes clientes, tanto locales como del extranjero, ofreciéndoles soluciones centradas en el compromiso de contribuir a un mundo digital más seguro y accesible para todos.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/ggarcia.png"
                         },
                         {
                                 "name": "David Meléndez Cano",
                                 "about": "David Meléndez es ingeniero de I+D, formador en diversos másteres y cursos, y miembro del equipo de Red Team de Innotec Security. Autor del libro \"Hacking con Drones\", ha presentado sus trabajos sobre hardware hacking, drones y seguridad, a nivel nacional en congresos como RootedCon, NavajaNegra, etc e internacional como DEFCON USA, BlackHat, HongKong OpenSource, etc.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/dmelendez.png"
                         }
                 ]
         },
@@ -973,7 +1013,7 @@
                         {
                                 "name": "Eloy Rafael Sanz Tapia",
                                 "about": "Jefe del Servicio de Ciberseguridad en la Agencia Digital de Andalucía. SOC Junta de Andalucía, GRC, formación y concienciación, coordinación de actividades ciberseguridad...",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/eloysanz.png"
                         },
                         {
                                 "name": "Carmen Serrano Durbá",
@@ -983,7 +1023,7 @@
                         {
                                 "name": "Javier Fernández-Sanguino",
                                 "about": "Responsable de la Unidad de Ciberseguridad del Banco de España. Es Ingeniero Superior de Telecomunicación por la Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSI) de la Universidad Politécnica de Madrid (UPM). Con más de 20 años de experiencia en el sector de la ciberseguridad, donde ha trabajado en empresas de consultoría y organismos públicos. También participa, cuando las responsabilidades se lo permiten, en proyectos de software libre, como Debian.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/javierfernandezsanguino.png"
                         },
                         {
                                 "name": "Tomàs Roy Catala",
@@ -1063,7 +1103,7 @@
                         {
                                 "name": "Pablo Estevan Fernández",
                                 "about": "Pablo Estevan es el Manager de Ingeniería del Sector Público para España en Palo Alto Networks.Con una amplia experiencia en la industria de la seguridad informática, ha trabajado en empresas como Secuware, Innovae, Zitralia y RSA, acumulando un sólido bagaje en el campo. Estudió ingeniería informática en la UPM y posee la certificación CISSP.   Apasionado seguidor y ponente de la RootedCON desde hace muchos años, ha compartido su experiencia en eventos como CCNCert, Navaja Negra y RSA Conference, entre otros. Está completamente alineado con la misión de proteger el estilo de vida digital y abordar los mayores desafíos de seguridad del mundo a través de la innovación continua, aprovechando los últimos avances en inteligencia artificial, análisis, automatización y orquestación.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/pabloestevan.png"
                         }
                 ]
         },
@@ -1075,8 +1115,8 @@
                 "people": [
                         {
                                 "name": "Ignacio Alamillo Domingo",
-                                "about": "Ignacio Alamillo es Doctor en Derecho por la Universidad de Murcia. Licenciado en Derecho por la UNED. Auditor de Sistemas de Información certificado, CISA. Director de Seguridad de la Información certificado, CISM. Ingeniero Certificado en Soluciones de Protección de Datos, CDPSE, por ISACA. SMP Máster Candidate, por SMI.  En la actualidad, es Abogado del Ilustre Colegio de Reus, Asesor de Logalty y Director General de Astrea La Infopista Jurídica SL. Asimismo, colabora con el Grupo de Investigación iDerTec de la Universidad de Murcia.  También es miembro del grupo de Infraestructura de Seguridad de Firma Electrónica del Instituto Europeo de Normas de Telecomunicaciones, que normaliza los servicios de confianza, miembro de UNE CTN71/SC307, de CEN-CLC/JTC 19 y de ISO TC 307, relativos a Blockchain.   Dispone de más de 100 publicaciones y ha impartido más de 400 ponencias en identidad digital, servicios de confianza y materias relacionadas.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Ignacio Alamillo es Doctor en Derecho por la Universidad de Murcia. Licenciado en Derecho por la UNED. Auditor de Sistemas de Información certificado, CISA. Director de Seguridad de la Información certificado, CISM. Ingeniero Certificado en Soluciones de Protección de Datos, CDPSE, por ISACA. SMP Máster Candidate, por SMI. En la actualidad, es Abogado del Ilustre Colegio de Reus, Asesor de Logalty y Director General de Astrea La Infopista Jurídica SL. Asimismo, colabora con el Grupo de Investigación iDerTec de la Universidad de Murcia. También es miembro del grupo de Infraestructura de Seguridad de Firma Electrónica del Instituto Europeo de Normas de Telecomunicaciones, que normaliza los servicios de confianza, miembro de UNE CTN71/SC307, de CEN-CLC/JTC 19 y de ISO TC 307, relativos a Blockchain.  Dispone de más de 100 publicaciones y ha impartido más de 400 ponencias en identidad digital, servicios de confianza y materias relacionadas.",
+                                "image": "/img/people/2024/ignacioalamillo.png"
                         }
                 ]
         },
@@ -1088,8 +1128,8 @@
                 "people": [
                         {
                                 "name": "YOLANDA CORRAL",
-                                "about": "Licenciada en Ciencias de la Información, Periodismo. Máster en Community Management y gestión de las redes sociales en la empresa. Periodista y formadora especializada en ciberseguridad y competencias digitales. Plenamente implicada como divulgadora en labores de concienciación en seguridad y bienestar digital de menores, familias, profesorado, empleados y ciudadanía en general.   Dinamizadora de Hack&Beers en Valencia. Cibercooperante de INCIBE. Mentora de la National Cyber League de la Guardia Civil.  Autora del libro ‘Ciberseguridad de tú a tú. Lo que tienes que conocer para sentirte más seguro’, editorial 0xWord. Fundadora del canal divulgativo en ciberseguridad ‘Palabra de hacker’.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Licenciada en Ciencias de la Información, Periodismo. Máster en Community Management y gestión de las redes sociales en la empresa. Periodista y formadora especializada en ciberseguridad y competencias digitales. Plenamente implicada como divulgadora en labores de concienciación en seguridad y bienestar digital de menores, familias, profesorado, empleados y ciudadanía en general.  Dinamizadora de Hack&Beers en Valencia. Cibercooperante de INCIBE. Mentora de la National Cyber League de la Guardia Civil. Autora del libro ‘Ciberseguridad de tú a tú. Lo que tienes que conocer para sentirte más seguro’, editorial 0xWord. Fundadora del canal divulgativo en ciberseguridad ‘Palabra de hacker’.",
+                                "image": "/img/people/2024/yolandacorral.png"
                         }
                 ]
         },
@@ -1102,12 +1142,12 @@
                         {
                                 "name": "Irene Cotillas Torres",
                                 "about": "CEO & Founder Zyberia Cybersecurity Perito informático y analista DFIR. Docente de Informática Forense (UC3M) en Colegio de Oficiales de Guardia Civil (Aranjuez). Docente Máster en Ciberseguridad en CIFP Cuenca. Colaboradora grupo EDITE Guardia Civil Ponente en congresos de ciberseguridad como RootedCon 2023 (track Securiters), Navaja Negra 2023, ViconGal (2023), AsturConTech (2023).",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/irenecotillas.png"
                         },
                         {
                                 "name": "Juan Carlos Fernández Martínez",
-                                "about": "EO despacho TECNOGADOS. Abogado, especialista en derecho tecnológico, protección de datos y ciberseguridad. Legal Partner en la startup Visualeo (2021-2023). Profesor: - Máster de Ciberseguridad de la UCLM. - Máster Excutive en Derecho Digital de Garrigues (2021/2022). - Curso de Peritaje Colegio de Ingenieros de Madrid. - Escuelas de negocio EOI, IEBS, EDEM, EES, AIN e INESE. Ponente: - Universidades y Congresos de Seguridad Informática a nivel nacional: RootedCon (2020 y 2023), Navaja Negra (2018 y 2023), MoretureloCon, ... - XIII Jornadas STIC CCN-CERT del Centro Nacional Criptológico (Madrid) - Ilustres Colegios de Abogados de Madrid (2020 y 2022), Burgos (2022) y Cáceres (2023). CSE (Chief Security Envoy) de ElevenPaths, experto en ciberseguridad. (2020 - 2021 por finalización del programa). Speaker en charlas TEDx.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "CEO despacho TECNOGADOS. Abogado, especialista en derecho tecnológico, protección de datos y ciberseguridad. Legal Partner en la startup Visualeo (2021-2023). Profesor: - Máster de Ciberseguridad de la UCLM. - Máster Excutive en Derecho Digital de Garrigues (2021/2022). - Curso de Peritaje Colegio de Ingenieros de Madrid. - Escuelas de negocio EOI, IEBS, EDEM, EES, AIN e INESE. Ponente: - Universidades y Congresos de Seguridad Informática a nivel nacional: RootedCon (2020 y 2023), Navaja Negra (2018 y 2023), MoretureloCon, ... - XIII Jornadas STIC CCN-CERT del Centro Nacional Criptológico (Madrid) - Ilustres Colegios de Abogados de Madrid (2020 y 2022), Burgos (2022) y Cáceres (2023). CSE (Chief Security Envoy) de ElevenPaths, experto en ciberseguridad. (2020 - 2021 por finalización del programa). Speaker en charlas TEDx.",
+                                "image": "/img/people/2024/juancarlosfernandezmartinez.png"
                         }
                 ]
         },
@@ -1137,8 +1177,8 @@
                 "people": [
                         {
                                 "name": "Alejandro Vázquez Vázquez",
-                                "about": "Alejandro Vázquez Vázquez es Graduado en Ingeniería Informática por la Universidad de Santiago de Compostela. Actualmente, trabaja como Red Teamer en proyectos de Telefónica, realizando operaciones ofensivas sobre infraestructuras del sector público.  Su pasión y especialización radican en el desarrollo, análisis y comprensión de malware, con un enfoque particular en bootkits y rootkits, área en la que Alejandro comparte su conocimiento como docente en instituciones de prestigio, incluyendo el Campus Internacional de Ciberseguridad, ENIIT y la UCAM, donde imparte el Máster de Reversing, Análisis de Malware y Bug Hunting y el Máster de DevSecOps.  A lo largo de su desarrollo profesional, Alejandro ha realizado aportaciones en diversos proyectos, colaborando en el diseño y despliegue de metahoneypots, aplicando su amplio conocimiento sobre protocolos industriales y desarrollando spyware y señuelos para recopilar información de adversarios a gran escala.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Alejandro Vázquez Vázquez es Graduado en Ingeniería Informática por la Universidad de Santiago de Compostela. Actualmente, trabaja como Red Teamer en proyectos de Telefónica, realizando operaciones ofensivas sobre infraestructuras del sector público. Su pasión y especialización radican en el desarrollo, análisis y comprensión de malware, con un enfoque particular en bootkits y rootkits, área en la que Alejandro comparte su conocimiento como docente en instituciones de prestigio, incluyendo el Campus Internacional de Ciberseguridad, ENIIT y la UCAM, donde imparte el Máster de Reversing, Análisis de Malware y Bug Hunting y el Máster de DevSecOps. A lo largo de su desarrollo profesional, Alejandro ha realizado aportaciones en diversos proyectos, colaborando en el diseño y despliegue de metahoneypots, aplicando su amplio conocimiento sobre protocolos industriales y desarrollando spyware y señuelos para recopilar información de adversarios a gran escala.",
+                                "image": "/img/people/2024/alejandrovazquezvazquez.png"
                         }
                 ]
         },
@@ -1151,7 +1191,7 @@
                         {
                                 "name": "Borja Adsuara Varela",
                                 "about": "Abogado Experto en Derecho Digital",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/borjaadsuara.png"
                         }
                 ]
         },
@@ -1213,7 +1253,7 @@
                         {
                                 "name": "Pablo Fulgencio Guillén Lorenzo",
                                 "about": "Trabajando actualmente como programador. Titulado en Desarrollo de Aplicaciones Multiplataforma. Apasionado del desarrollo software y de todo lo relacionado con algoritmos y programación. Fanático del anime y estudio Ghibli.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/pablofulgencioguillen.png"
                         }
                 ]
         },
@@ -1231,7 +1271,7 @@
                         {
                                 "name": "Antonio Perez Sanchez",
                                 "about": "Apasionado de la tecnología en el sector de la Ciberseguridad, actualmente en el equipo de Red Team de NTT DATA. Profesor del máster de Ciberseguridad en la Universidad Pontificia de Comillas y estudiante de doctorado. Actualmente posee las titulaciones de CEH, Comptia Sec+, OSCP, OSCE, CRTO. Disfruta resolviendo nuevos retos, aprendiendo y enseñando nuevos conocimientos con compañeros y colegas del sector.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/antonioperezsanchez.png"
                         }
                 ]
         },
@@ -1257,7 +1297,7 @@
                         {
                                 "name": "Antonio Ramos",
                                 "about": "Antonio Ramos es Licenciado en Ciencias Económicas y Empresariales por la Universidad Complutense de Madrid y Máster en Auditoría de Cuentas por la Universidad Pontificia de Salamanca, Certified Information Systems Auditor (CISA), Certified Information Security Manager (CISM), Certified in Risk and Information System Control (CRISC) y Certified Data Privacy Solutions Engineer (CDPSE) por ISACA, Certificate of Cloud Security Knowledege (CCSK) por CSA - Cloud Security Alliance, Certified Data Privacy Professional (CDPP) por el DPI – Data Privacy Institute, ITIL Service Manager, COBIT 5 Foundation / Implementation / Assessor / Trainer por APMG Internacional. En la actualidad es Socio Director de n+1 Intelligence and Research y Executive Director de leet security, además de Vocal de la Junta de ISACA Madrid, donde ya actuó como Tesorero entre 2004 y 2006 y como Presidente y Vicepresidente entre 2010 y 2020, miembro del Stakeholder Cybersecurity Certification Group (SCCG) de la Comisión Europea.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/antonioramos.png"
                         }
                 ]
         },
@@ -1288,7 +1328,7 @@
                         {
                                 "name": "Sebastien Kanj Bongard",
                                 "about": "Sebastien Kanj es ingeniero de Telecomunicaciones por la Universitat Politècnica de Catalunya (UPC) y desde hace cinco años trabaja como Principal Incident Handler en INCIDE Digital Data S.L., gestionando incidentes de todo tipo. Además, está realizando un doctorado industrial entre la UPC e INCIDE centrado en la respuesta a incidentes con la aplicación de Cyber Threat Intelligence y el análisis de malware. También es profesor asociado en el Máster de Ciberseguridad de la UPC y autor de recursos del Institut Obert de Catalunya (IOC).",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/sebastienkang.png"
                         },
                         {
                                 "name": "Abraham Pasamar Navarro",
@@ -1335,13 +1375,13 @@
         },
         {
                 "id": "sessionDetail-3081",
-                "title": "Por anunciar",
+                "title": "Crazy {Web|GenAI|Net} Cybersec Ideas",
                 "metadata": "Idioma: es",
-                "description": "",
+                "description": "En Telefónica, desde hace años, en el equipo de Ideas Locas probamos conceptos, propuestas nuevas, y para ello hacemos PoCs y experimentos que acaban en patentes, productos, o sólo ideas que usaremos en el futuro para otra cosa más. En esta sesión veremos algunas que tiene que ver con la Web, GenAI y la red, para hacer cosas de Ciberseguridad, que es lo que sucede cuando metes a un equipo de hackers a innovar en una empresa de telecomunicaciones.",
                 "people": [
                         {
                                 "name": "Chema Alonso",
-                                "about": "",
+                                "about": "Es el actual Chief Digital Officer de Telefónica. Es uno de los ponentes más populares en las conferencias de hacking y ciberseguridad de todo el mundo durante casi dos décadas, donde ha presentado y presenta sus trabajos de investigación e invocación tecnológica, así como sus charlas divulgativas. Fue Most Valuable Professional de Microsoft durante 12 años en el área de ciberseguridad. En su formación académica, Chema Alonso es Doctor por la Universidad Rey Juan Carlos en Seguridad Informática, donde además sacó su título de Ingeniero Informático. También es Ingeniero Técnico en Informática de Sistemas por la Universidad Politécnica de Madrid, que le nombró Embajador Honorífico de la Escuela Universitaria de Informática. Ha recibido la Cruz del Mérito de la Guardia Civil con distintivo blanco y en 2020 fue nombrado Doctor Honoris Causa por la URJC. Puedes contactar con él en mypublicinbox.com/ChemaAlonso",
                                 "image": "/img/people/2024/calonso.png"
                         }
                 ]
@@ -1359,7 +1399,7 @@
                         },
                         {
                                 "name": "Santiago Moral Rubio",
-                                "about": "\"Empecé a trabajar en Sistemas Unix en el 1987 y dedicado sólo a ciberseguridad en 1996... estaba naciendo el primer firewall....Desde hace 5 años, mi vida cotidiana está ligada a mi nuevo papel de emprendedor en Xauen.io. Aunque en realidad no es algo nuevo. Fundé mi primera empresa Open Systems Administration Group cuando tenía 19 años. Como volver a empezar... Entre medias he pasado casi dos décadas trabajando de CISO del Grupo BBVA.Desde Xauen.io hemos lanzado el producto Laguun. Sistema de asistencia a los CISOs para el diseño de sus Programas de Proyectos (su Planes Directores de Ciberseguridad).La vida a veces te da gratas sorpresas y desde hace tres años estoy en República Dominicana en el apasionante lanzamiento de MIO, fintech regional focalizada en inclusión financiera. Todo un reto!!!\"",
+                                "about": "Empecé a trabajar en Sistemas Unix en el 1987 y dedicado sólo a ciberseguridad en 1996... estaba naciendo el primer firewall....Desde hace 5 años, mi vida cotidiana está ligada a mi nuevo papel de emprendedor en Xauen.io. Aunque en realidad no es algo nuevo. Fundé mi primera empresa Open Systems Administration Group cuando tenía 19 años. Como volver a empezar... Entre medias he pasado casi dos décadas trabajando de CISO del Grupo BBVA.Desde Xauen.io hemos lanzado el producto Laguun. Sistema de asistencia a los CISOs para el diseño de sus Programas de Proyectos (su Planes Directores de Ciberseguridad).La vida a veces te da gratas sorpresas y desde hace tres años estoy en República Dominicana en el apasionante lanzamiento de MIO, fintech regional focalizada en inclusión financiera. Todo un reto!!!",
                                 "image": "/img/people/2024/no-photo.png"
                         },
                         {
@@ -1371,6 +1411,11 @@
                                 "name": "Eduardo Di Monte",
                                 "about": "Eduardo is a Telecommunications Engineer, MBA at the EuroMBA Consortium and Harvard Alumni. Additionally he is an expert in Industrial Cybersecurity (IoT), Digital Transformation and Business Continuity. With over 19 years of experience the last ten (10) he has focused in the Cybersecurity aspects related to automation systems and industrial controls systems, specifically Critical Infrastructures. Moreover, Eduardo has implemented resilience models and business continuity for critical process in the industry sector.",
                                 "image": "/img/people/2024/edimonte.png"
+                        },
+                        {
+                                "name": "Pedro Castillo Muros",
+                                "about": "",
+                                "image": "/img/people/2024/no-photo.png"
                         }
                 ]
         },
@@ -1383,7 +1428,7 @@
                         {
                                 "name": "Antonio Fernandes",
                                 "about": "Llevo más de dos décadas en el mundo de la Ciberseguridad, abarcando desde el apartado mas técnológico y evolucionando hacía las áreas de gestión estratégica y riesgos.He descubierto fallos de seguridad en empresas como Google, Facebook, Twitter o el Departamento de Defensa de los Estados Unidos.He evaluado proyectos de innovación y ciberseguridad para la Comisión Europea en la European Innovation Council o la European Defense Agency, y soy miembro del subgrupo de expertos “ARTIFICIAL INTELLIGENCE (AI), CONNECTED PRODUCTS AND OTHER NEW CHALLENGES IN PRODUCT SAFETY”. Participo activamente en asociaciones como ISMS Forum, la European Union External Cyber Capacity Building Network o la European Cyber Security Organisation, en la cual ostento el puesto de \"\"chairman\"\" dentro de la red europea de Responsables de Ciberseguridad.Soy docente y asesor en entidades de formación como Universidad Intercontinental de la Empresa, Galicia Business School, Escuela Internacional de Posgrados, Escuela Gallega de Administración Pública o el Centro de Estudio Garrigues .He participado como ponente en múltiples eventos como RootedCon, NoCOnName, Jump2Digital, CiberTodos de ISACA, Cybersecurity Day de CSO, Mundo Hacker, las Jornadas de Automatización Indutrial JAI, LibreCon, Ubucon...Actualmente ejerzo de Responsable de Ciberseguridad (CISO) en una Industria Multinacional y colaboro con diversas organizaciones del ecosistema de Seguridad de la Información.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/antoniofernandes.png"
                         },
                         {
                                 "name": "Daniel Fernández Martínez",
@@ -1486,7 +1531,7 @@
                         {
                                 "name": "Guillermo Almagro Alonso",
                                 "about": "Guillermo es graduado en Ingeniería de Computadores por la Universidad de Alcalá. Actualmente forma parte del departamento de Threat Hunting y es miembro activo del equipo de DFIR en S21sec. Es un apasionado del rugby y es fácil encontrarle trasteando con su Flipper Zero.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/guillermoalmagro.png"
                         }
                 ]
         },
@@ -1499,7 +1544,7 @@
                         {
                                 "name": "Iván Fernández Mora",
                                 "about": "Soy Físico Teórico con master en Tecnología Nuclear que ha trabajado en análisis de riesgos durante los últimos 20 años en sectores como la banca, la energía nuclear, el fraude fiscal y la ciberseguridad. Abordando siempre los problemas con la ayuda de las tecnologías de la información y los datos.",
-                                "image": "/img/people/2024/no-photo.png"
+                                "image": "/img/people/2024/ivanfernandez.png"
                         }
                 ]
         },
@@ -1524,13 +1569,23 @@
                 "people": [
                         {
                                 "name": "Roman Ramirez",
-                                "about": "",
-                                "image": "/img/people/2024/no-photo.png"
+                                "about": "Soy experto en resolver problemas complejos, sean humanos o sean tecnológicos.",
+                                "image": "/img/people/2024/romanramirez.png"
                         },
                         {
                                 "name": "César López García",
                                 "about": "César López cuenta con una extensa experiencia laboral en empresas ordinarias y de economía social. Ha ocupado puestos de Dirección en las áreas de Comercial, Marketing y Logística, en compañías como Seur Integración Logística, así como del sector Gran Consumo. Desde finales de 2007, inició s etapa profesional en la economía social, ejerciendo como Director General en diferentes organizaciones, siempre desarrollando proyectos relacionados con diversidad/discapacidad, para posteriormente en 2015, incorporarse a la Fundación GoodJob, en su posición actual de Director General.",
                                 "image": "/img/people/2024/cesarlopz.png"
+                        },
+                        {
+                                "name": "Marcos Manchado Martín",
+                                "about": "",
+                                "image": "/img/people/2024/marcosmanchado.png"
+                        },
+                        {
+                                "name": "Ricardo García Bahamonde",
+                                "about": "",
+                                "image": "/img/people/2024/ricardogarciabahamonde.png"
                         }
                 ]
         },
@@ -1544,6 +1599,81 @@
                                 "name": "Ayman Borji",
                                 "about": "",
                                 "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3094",
+                "title": "Respuesta a incidentes en el Gobierno de la Rioja NI EL VINO RESPETAN YA…",
+                "metadata": "Idioma: es",
+                "description": "En esta charla, exploraremos los detalles relacionados con la respuesta a dos incidentes sucedidos en el Gobierno de La Rioja. A través de dos casos sucedidos recientemente, abordaremos cómo se enfrentaron ambas situaciones con las particularidades de un entorno gubernamental. Podremos entender como los problemas de “siempre” y los “nuevos” retos a los que se enfrentan las organizaciones, pusieron contra las cuerdas a esta comunidad. La superficie de exposición de elementos desconocidos (shadowIT), los ataques a la identidad, las vulnerabilidades no parcheadas, las APIs e incluso los propios problemas de operación, siguen siendo hoy día al igual que en el pasado una tormenta perfecta cuando los atacantes consiguen tomar ventaja de ellos.",
+                "people": [
+                        {
+                                "name": "Miguel Angel de Castro",
+                                "about": "Especialista en Seguridad de la Información con +15 años de experiencia en Hacking Ético, Ciberseguridad e Inteligencia de Amenazas. Amplio conocimiento y experiencia en reversing de Malware, Respuesta a Incidentes y Threat Hunting. Formador y ponente en múltiples congresos internacionales de ciberseguridad. “Creo que la Ciberseguridad no es un trabajo, es una forma de vivir”",
+                                "image": "/img/people/2024/madecastro.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3096",
+                "title": "ZTNA vs ZTNA",
+                "metadata": "Idioma: es",
+                "description": "Por mucho esfuerzo que dediquen las organizaciones a concienciar al usuario final para mitigar o reducir los riesgos de las ciberamenazas, la experiencia nos ha demostrado que es un objetivo difícil de alcanzar. El reto de las organizaciones sigue siendo el encontrar mecanismos que limiten de manera transparente la responsabilidad de nuestros usuarios. Descargar de responsabilidades a los usuarios gracias a la estrategia ZTNA incrementa la seguridad de las compañías, reduciendo el principal vector de ataque, adjudicando a los profesionales y a la tecnología es labor.",
+                "people": [
+                        {
+                                "name": "Cristina Crespo Suárez",
+                                "about": "Associate Manager en el area de Ciberseguridad en Infraestructuras híbridas y Multi-Cloud de Accenture, Cristina ha participado recientemente en la estrategia de migración y despliegue de aplicaciones en entornos Multi-Cloud para un relevante banco nacional y en un proyecto de seguridad en Big Data Analytics y migración de todos los datos históricos de un importante banco al Cloud de AWS. Máster en Ingeniería de Montes especialización Industrial, participa activamente en la Fundación Accenture y otras entidades no lucrativas con orientación al crecimiento de talento joven.",
+                                "image": "/img/people/2024/cristinacrespo.png"
+                        },
+                        {
+                                "name": "Sonia Cancha",
+                                "about": "Sonia Cancha Ingeniera Informática, experta en Gestión integral de la seguridad, sistemas y redes informáticas con más de veinte añ de experiencia. En la actualidad es manager de Infrastructure Security en Innotec Security, part f Accenture.",
+                                "image": "/img/people/2024/soniacancha.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3097",
+                "title": "De los bits a la junta directiva: un viaje de transformación y liderazgo",
+                "metadata": "Idioma: es",
+                "description": "Explorando el viaje de una ingeniera informática hacia el liderazgo en ciberseguridad, esta charla sumerge en la evolución desde roles técnicos a estratégicos, destacando la importancia del empoderamiento, mentoría y la comunicación efectiva. Descubre cómo combinar la pasión por la tecnología con el desarrollo de equipos y la implementación de estrategias de seguridad globales, todo desde la perspectiva de una profesional comprometida con el fomento del talento en ciberseguridad.",
+                "people": [
+                        {
+                                "name": "Sandra Cuevas López",
+                                "about": "Sandra Cuevas es graduada en Ingeniería Informática y posee la certificación profesional CISM. Cuenta con más de 8 años de experiencia en el ámbito de la ciberseguridad, especializándose en gobierno, estrategia y diseño de servicios. Con un liderazgo destacado, ha implementado modelos de seguridad global, ajustándolos a las necesidades empresariales en entornos multinacionales y complejos. Su pasión por el empoderamiento en el mundo de la ciberseguridad se extiende a su participación activa como coach y mentora, donde fomenta el desarrollo y la inclusión en este campo.",
+                                "image": "/img/people/2024/no-photo.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3098",
+                "title": "Triangulación proactiva de adversarios",
+                "metadata": "Idioma: es",
+                "description": "En nuestra charla, descubrirás cómo, desde nuestra área de Threat Hunting, realizamos una orquestación de la cobertura de detección ante diferentes adversarios. Esto lo haremos mediante la herramienta Attack Flow de Mitre, y veremos cómo plantear el trabajo colaborativo con varios departamentos: ofensivo, defensivo y IT. Así, podremos conocer cómo mejorar esa cobertura de detección, realizando pruebas ofensivas y midiendo la efectividad de detección y respuesta. Y podrás comprobarlo in situ con dos ejemplos de amenazas de actores relevantes, mostrando cómo las afrontamos. Una de ellas muy específica, que trataremos a nivel teórico (Turla), y otra más general enfocada a grupos de Ransomware (Lockbit, Alphv, Cl0p...), que abordaremos a nivel práctico.",
+                "people": [
+                        {
+                                "name": "Lórien Domenech Ruiz",
+                                "about": "Ingeniero informático con más de 10 años de experiencia enfocado en la seguridad informática. Manager de Threat Hunting y amplio conocimiento en DFIR. Instructor en varias entidades educativas, ponente habitual en congresos de ciberseguridad y emprendedor.",
+                                "image": "/img/people/2024/lorindomenechruiz.png"
+                        },
+                        {
+                                "name": "Javier García Guillén",
+                                "about": "Analista forense especializado en respuesta ante incidentes, Threat Hunting y ciberinteligencia con más de 7 años de experiencia. Apasionado del análisis de malware, la caza de infraestructuras y el bug bounty. Miembro del RedLine Team.",
+                                "image": "/img/people/2024/javiergarciaguillen.png"
+                        }
+                ]
+        },
+        {
+                "id": "sessionDetail-3099",
+                "title": "How to evolve your current architecture towards SASE without dying in the attempt... Best practices and benefits for security architects",
+                "metadata": "Idioma: es",
+                "description": "We will explore the history of Secure Access Service Edge (SASE) and its significance in today's ever-evolving world of cybersecurity. We will delve into the best practices that security architects should consider when implementing SASE, as well as the myriad benefits it brings to organizations.",
+                "people": [
+                        {
+                                "name": "Carlos Piñera Sánchez",
+                                "about": "Carlos Piñera es Ingeniero de Telecomunicaciones por la Universidad Politécnica de Cartagena con más de 16 años de experiencia en el sector tecnológico. Actualmente desempeña la posición de SASE Business Development Manager Southern Europe en HPE Aruba.",
+                                "image": "/img/people/2024/carlospinera.png"
                         }
                 ]
         }
