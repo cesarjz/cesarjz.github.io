@@ -29,7 +29,7 @@
         {
                 "title": "Live Hack: Explotación del código generado por IA",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:30",
                 "timeend": "T11:30",
@@ -43,7 +43,7 @@
         {
                 "title": "How to evolve your current architecture towards SASE without dying in the attempt... Best practices and benefits for security architects",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:30",
                 "timeend": "T11:30",
@@ -80,7 +80,7 @@
         {
                 "title": "La leyenda de las 5 OTs",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -98,7 +98,7 @@
         {
                 "title": "¡Innovación Nivel Épico! Desafiando el Hype de la IA en Ciberseguridad",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -126,7 +126,7 @@
         {
                 "title": "Red Team en 2024: Investigación, técnicas y metodología",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T14:00",
@@ -144,7 +144,7 @@
         {
                 "title": "Look at me, I'm the EDR now",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T14:00",
@@ -205,9 +205,27 @@
                 ]
         },
         {
+                "title": "Dark territory: paralizando la red ferroviaria de un país entero",
+                "language": "",
+                "track": "Sala 19",
+                "when": "7 Marzo - TRACK: ROOTEDCON",
+                "timestart": "T15:30",
+                "timeend": "T16:30",
+                "speakers": [
+                        {
+                                "image": "/img/people/2024/ggarcia.png",
+                                "name": "Gabriela García"
+                        },
+                        {
+                                "image": "/img/people/2024/dmelendez.png",
+                                "name": "David Meléndez Cano"
+                        }
+                ]
+        },
+        {
                 "title": "RootedPanel: \"Emprendimiento\"",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T15:30",
                 "timeend": "T16:30",
@@ -255,7 +273,7 @@
         {
                 "title": "Cómo crear una herramienta OpenSource para analizar SmartContracts",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T16:30",
                 "timeend": "T17:30",
@@ -269,7 +287,7 @@
         {
                 "title": "RootedPanel: \"Emprendimiento\"",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T16:30",
                 "timeend": "T17:30",
@@ -330,7 +348,7 @@
         {
                 "title": "My mobile is screwing me up!",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T18:00",
                 "timeend": "T19:00",
@@ -352,7 +370,7 @@
         {
                 "title": "Unveiling the Unseen: Exploring Rare and Elusive Bugs in Bug Bounty Hunting",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T18:00",
                 "timeend": "T19:00",
@@ -392,7 +410,7 @@
         {
                 "title": "Tu robot ha perdido una tuerca",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T19:00",
                 "timeend": "T20:00",
@@ -410,7 +428,7 @@
         {
                 "title": "Desde 1998 en Internet: remember, rethink & AI revival",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "7 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T19:00",
                 "timeend": "T20:00",
@@ -903,7 +921,7 @@
         {
                 "title": "Ataques masivos a vehiculos - Los olvidados",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:00",
                 "timeend": "T11:00",
@@ -921,7 +939,7 @@
         {
                 "title": "ASM & IA, What’s next?",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:00",
                 "timeend": "T11:00",
@@ -949,7 +967,7 @@
         {
                 "title": "IA POLICIAL Y JUDICIAL: INTERESES EN CONFLICTO",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T11:00",
                 "timeend": "T11:30",
@@ -963,7 +981,7 @@
         {
                 "title": "It's the end of the (SOC) world as we know it and I feel fine",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T11:00",
                 "timeend": "T11:30",
@@ -1000,7 +1018,7 @@
         {
                 "title": "HoneyTraps: Discovering macOS vulnerabilities like Winnie The Pooh",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -1014,7 +1032,7 @@
         {
                 "title": "¿Quién vigila a los que nos vigilan?",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -1046,7 +1064,7 @@
         {
                 "title": "Graphql for fun and bounties!",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T14:00",
@@ -1060,7 +1078,7 @@
         {
                 "title": "La Cartera Europea de Identidad Digital: ¿garantía de la identidad o herramienta de control estatal?",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T14:00",
@@ -1129,7 +1147,7 @@
         {
                 "title": "AWS, con sus lambdas y sus cositas",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T15:30",
                 "timeend": "T16:30",
@@ -1147,7 +1165,7 @@
         {
                 "title": "Accesibilidad Digital como clave en la ciberseguridad: Programa IMPACT#aliada",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T15:30",
                 "timeend": "T16:30",
@@ -1191,7 +1209,7 @@
         {
                 "title": "Seguridad en sistemas de videoconferencia",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T16:30",
                 "timeend": "T17:30",
@@ -1205,7 +1223,7 @@
         {
                 "title": "Ciberataque=Sanción AEPD + Daño Inmaterial",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T16:30",
                 "timeend": "T17:30",
@@ -1250,7 +1268,7 @@
         {
                 "title": "LLMs: La Nueva Frontera de la Inteligencia en DevSecOps",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T18:00",
                 "timeend": "T19:00",
@@ -1268,7 +1286,7 @@
         {
                 "title": "Ciberasegúrame por favor!!!!!",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T18:00",
                 "timeend": "T19:00",
@@ -1296,7 +1314,25 @@
         {
                 "title": "LLM steganography. Dirty PoCs and covert-channels",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 20",
+                "when": "8 Marzo - TRACK: ROOTEDCON",
+                "timestart": "T19:00",
+                "timeend": "T20:00",
+                "speakers": [
+                        {
+                                "image": "/img/people/2024/amunoz.png",
+                                "name": "Alfonso Muñoz Muñoz"
+                        },
+                        {
+                                "image": "/img/people/2024/jdominguez.png",
+                                "name": "Javier Domínguez Gómez"
+                        }
+                ]
+        },
+        {
+                "title": "LLM steganography. Dirty PoCs and covert-channels",
+                "language": "",
+                "track": "Sala 17",
                 "when": "8 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T19:00",
                 "timeend": "T20:00",
@@ -1728,7 +1764,7 @@
         {
                 "title": "En las Raíces del Mal: Una Inmersión al Desarrollo de Bootkits UEFI",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 18",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:00",
                 "timeend": "T11:00",
@@ -1742,7 +1778,7 @@
         {
                 "title": "From Zero to Hero - An in-depth Threat Intelligence investigation",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T10:00",
                 "timeend": "T11:00",
@@ -1770,7 +1806,7 @@
         {
                 "title": "No sólo de Terraform vive el hombre",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 18",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T11:00",
                 "timeend": "T11:30",
@@ -1784,7 +1820,7 @@
         {
                 "title": "Neo_Net - The Kingpin of Spanish eCrime",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T11:00",
                 "timeend": "T11:30",
@@ -1821,7 +1857,7 @@
         {
                 "title": "Arquitectura de seguridad para LLMs, lecciones desde el campo",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 18",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -1839,7 +1875,7 @@
         {
                 "title": "Python en el día día de un pentester",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T12:00",
                 "timeend": "T13:00",
@@ -1871,7 +1907,7 @@
         {
                 "title": "Ignora las instrucciones anteriores",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 18",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T13:30",
@@ -1885,7 +1921,7 @@
         {
                 "title": "Take the Red Pill: “Que la realidad no te estropee un buen cibertitular”",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 19",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T13:00",
                 "timeend": "T13:30",
@@ -1917,7 +1953,7 @@
         {
                 "title": "🍺🍻RootedBeers by TARLOGIC (ESPACIO LUMIERE)",
                 "language": "",
-                "track": "Sala 25",
+                "track": "Sala 18",
                 "when": "9 Marzo - TRACK: ROOTEDCON",
                 "timestart": "T14:00",
                 "timeend": "T16:00",

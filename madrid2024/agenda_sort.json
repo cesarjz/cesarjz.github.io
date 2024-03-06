@@ -65,34 +65,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "Live Hack: Explotación del código generado por IA",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:30",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/cbarakat.png",
-                                                                "name": "Chaaban Barakat"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "How to evolve your current architecture towards SASE without dying in the attempt... Best practices and benefits for security architects",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:30",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/carlospinera.png",
-                                                                "name": "Carlos Piñera Sánchez"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "Respuesta a incidentes en el Gobierno de la Rioja NI EL VINO RESPETAN YA…",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -107,38 +79,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "La leyenda de las 5 OTs",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "David Conde"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/guillermoalmagro.png",
-                                                                "name": "Guillermo Almagro Alonso"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "¡Innovación Nivel Épico! Desafiando el Hype de la IA en Ciberseguridad",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/pabloestevan.png",
-                                                                "name": "Pablo Estevan Fernández"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "Aegis. Una aproximación a la ciberseguridad dirigida por los datos y el Machine Learning",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -149,42 +89,6 @@
                                                         {
                                                                 "image": "/img/people/2024/ivanfernandez.png",
                                                                 "name": "Iván Fernández Mora"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Red Team en 2024: Investigación, técnicas y metodología",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Marc Barrantes Capellán"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Jesus Anton"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Look at me, I'm the EDR now",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/aortigueira.png",
-                                                                "name": "Antón Ortigueira Vázquez"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/mdiaz.png",
-                                                                "name": "Marcos Díaz Castiñeiras"
                                                         }
                                                 ]
                                         },
@@ -225,36 +129,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "RootedPanel: \"Emprendimiento\"",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Daniel Solís Agea"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Santiago Moral Rubio"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Juan Manuel Lopez Santamaria"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/edimonte.png",
-                                                                "name": "Eduardo Di Monte"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Pedro Castillo Muros"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "The first rule of CLR is you do not simply inject the CLR",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -269,50 +143,6 @@
                                                         {
                                                                 "image": "/img/people/2024/antonioperezsanchez.png",
                                                                 "name": "Antonio Perez Sanchez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Cómo crear una herramienta OpenSource para analizar SmartContracts",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/pgonzalez.png",
-                                                                "name": "Pablo González"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "RootedPanel: \"Emprendimiento\"",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Daniel Solís Agea"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Santiago Moral Rubio"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Juan Manuel Lopez Santamaria"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/edimonte.png",
-                                                                "name": "Eduardo Di Monte"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Pedro Castillo Muros"
                                                         }
                                                 ]
                                         },
@@ -335,42 +165,6 @@
                                                         {
                                                                 "image": "/img/people/2024/maramfernandez.png",
                                                                 "name": "Mara M. Fernández"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "My mobile is screwing me up!",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/otejerina.png",
-                                                                "name": "Ofelia Tejerina"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/pfernandez.png",
-                                                                "name": "Pablo Fernández Burgueño"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/luisdiago.png",
-                                                                "name": "Luis Diago de Aguilar"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Unveiling the Unseen: Exploring Rare and Elusive Bugs in Bug Bounty Hunting",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Ayman Borji"
                                                         }
                                                 ]
                                         },
@@ -401,38 +195,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "Tu robot ha perdido una tuerca",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/calvarez.png",
-                                                                "name": "Claudia Álvarez Aparicio"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/acampazas.png",
-                                                                "name": "Adrián Campazas Vega"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Desde 1998 en Internet: remember, rethink & AI revival",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "7 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/otejerina.png",
-                                                                "name": "Ofelia Tejerina"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "🎧🥳 Sesión de Live Coding con Laura Zapata (música) y b1tdreamer (visuales) (ESPACIO LUMIERE)",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -458,6 +220,272 @@
                                                 "timestart": "T22:00",
                                                 "timeend": "T23:00",
                                                 "speakers": []
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 19",
+                                "talks": [
+                                        {
+                                                "title": "Live Hack: Explotación del código generado por IA",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:30",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/cbarakat.png",
+                                                                "name": "Chaaban Barakat"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "La leyenda de las 5 OTs",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "David Conde"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/guillermoalmagro.png",
+                                                                "name": "Guillermo Almagro Alonso"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Red Team en 2024: Investigación, técnicas y metodología",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Marc Barrantes Capellán"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Jesus Anton"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Dark territory: paralizando la red ferroviaria de un país entero",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/ggarcia.png",
+                                                                "name": "Gabriela García"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/dmelendez.png",
+                                                                "name": "David Meléndez Cano"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Cómo crear una herramienta OpenSource para analizar SmartContracts",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/pgonzalez.png",
+                                                                "name": "Pablo González"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "My mobile is screwing me up!",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/otejerina.png",
+                                                                "name": "Ofelia Tejerina"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/pfernandez.png",
+                                                                "name": "Pablo Fernández Burgueño"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/luisdiago.png",
+                                                                "name": "Luis Diago de Aguilar"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Tu robot ha perdido una tuerca",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/calvarez.png",
+                                                                "name": "Claudia Álvarez Aparicio"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/acampazas.png",
+                                                                "name": "Adrián Campazas Vega"
+                                                        }
+                                                ]
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 20",
+                                "talks": [
+                                        {
+                                                "title": "How to evolve your current architecture towards SASE without dying in the attempt... Best practices and benefits for security architects",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:30",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/carlospinera.png",
+                                                                "name": "Carlos Piñera Sánchez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "¡Innovación Nivel Épico! Desafiando el Hype de la IA en Ciberseguridad",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/pabloestevan.png",
+                                                                "name": "Pablo Estevan Fernández"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Look at me, I'm the EDR now",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/aortigueira.png",
+                                                                "name": "Antón Ortigueira Vázquez"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/mdiaz.png",
+                                                                "name": "Marcos Díaz Castiñeiras"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "RootedPanel: \"Emprendimiento\"",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Daniel Solís Agea"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Santiago Moral Rubio"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Juan Manuel Lopez Santamaria"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/edimonte.png",
+                                                                "name": "Eduardo Di Monte"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Pedro Castillo Muros"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "RootedPanel: \"Emprendimiento\"",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Daniel Solís Agea"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Santiago Moral Rubio"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Juan Manuel Lopez Santamaria"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/edimonte.png",
+                                                                "name": "Eduardo Di Monte"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Pedro Castillo Muros"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Unveiling the Unseen: Exploring Rare and Elusive Bugs in Bug Bounty Hunting",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Ayman Borji"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Desde 1998 en Internet: remember, rethink & AI revival",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "7 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/otejerina.png",
+                                                                "name": "Ofelia Tejerina"
+                                                        }
+                                                ]
                                         }
                                 ]
                         }
@@ -952,38 +980,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "Ataques masivos a vehiculos - Los olvidados",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/ramiropareja.png",
-                                                                "name": "Ramiro Pareja Veredas"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/ymmhaboobe.png",
-                                                                "name": "Yashin Mehaboobe"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "ASM & IA, What’s next?",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/psanemeterio.png",
-                                                                "name": "Pablo San Emeterio"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "La policia hace cosas",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -994,34 +990,6 @@
                                                         {
                                                                 "image": "/img/people/2024/jmfernandez.png",
                                                                 "name": "Manu Fernández"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "IA POLICIAL Y JUDICIAL: INTERESES EN CONFLICTO",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/rsala.png",
-                                                                "name": "Ruth Sala Ordóñez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "It's the end of the (SOC) world as we know it and I feel fine",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Mario Guerra Soto"
                                                         }
                                                 ]
                                         },
@@ -1040,34 +1008,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "HoneyTraps: Discovering macOS vulnerabilities like Winnie The Pooh",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/cpolop.png",
-                                                                "name": "Carlos Polop Martin"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "¿Quién vigila a los que nos vigilan?",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/borjaadsuara.png",
-                                                                "name": "Borja Adsuara Varela"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "AIDR (Artificial Intelligence Detection and Response)",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -1082,34 +1022,6 @@
                                                         {
                                                                 "image": "/img/people/2024/jllopis.png",
                                                                 "name": "Jose Llopis"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Graphql for fun and bounties!",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/jfbolivar.png",
-                                                                "name": "Juan Francisco Bolivar Hernandez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "La Cartera Europea de Identidad Digital: ¿garantía de la identidad o herramienta de control estatal?",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T13:00",
-                                                "timeend": "T14:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/ignacioalamillo.png",
-                                                                "name": "Ignacio Alamillo Domingo"
                                                         }
                                                 ]
                                         },
@@ -1160,50 +1072,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "AWS, con sus lambdas y sus cositas",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/dgarcia.png",
-                                                                "name": "Daniel García (cr0hn)"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/cgallego.png",
-                                                                "name": "César Gallego Rodríguez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Accesibilidad Digital como clave en la ciberseguridad: Programa IMPACT#aliada",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T15:30",
-                                                "timeend": "T16:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/romanramirez.png",
-                                                                "name": "Roman Ramirez"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/cesarlopz.png",
-                                                                "name": "César López García"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/marcosmanchado.png",
-                                                                "name": "Marcos Manchado Martín"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/ricardogarciabahamonde.png",
-                                                                "name": "Ricardo García Bahamonde"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "Triangulación proactiva de adversarios",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -1218,38 +1086,6 @@
                                                         {
                                                                 "image": "/img/people/2024/javiergarciaguillen.png",
                                                                 "name": "Javier García Guillén"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Seguridad en sistemas de videoconferencia",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/jlverdeguer.png",
-                                                                "name": "Jose Luis Verdeguer Navarro"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Ciberataque=Sanción AEPD + Daño Inmaterial",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T16:30",
-                                                "timeend": "T17:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/irenecotillas.png",
-                                                                "name": "Irene Cotillas Torres"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/juancarlosfernandezmartinez.png",
-                                                                "name": "Juan Carlos Fernández Martínez"
                                                         }
                                                 ]
                                         },
@@ -1272,38 +1108,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "LLMs: La Nueva Frontera de la Inteligencia en DevSecOps",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/rtroncoso.png",
-                                                                "name": "Rafael Troncoso Perez"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/fjramirez.png",
-                                                                "name": "Francisco José Ramírez Vicente"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Ciberasegúrame por favor!!!!!",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T18:00",
-                                                "timeend": "T19:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/daniellargacha.png",
-                                                                "name": "Daniel Largacha Lamela"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "MiTM en puntos de recarga de vehículos eléctricos",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -1314,24 +1118,6 @@
                                                         {
                                                                 "image": "/img/people/2024/javierjarauta.png",
                                                                 "name": "Javier Jarauta Gastelu"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "LLM steganography. Dirty PoCs and covert-channels",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "8 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T19:00",
-                                                "timeend": "T20:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/amunoz.png",
-                                                                "name": "Alfonso Muñoz Muñoz"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/jdominguez.png",
-                                                                "name": "Javier Domínguez Gómez"
                                                         }
                                                 ]
                                         },
@@ -1361,6 +1147,276 @@
                                                 "timestart": "T22:00",
                                                 "timeend": "T23:00",
                                                 "speakers": []
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 20",
+                                "talks": [
+                                        {
+                                                "title": "Ataques masivos a vehiculos - Los olvidados",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/ramiropareja.png",
+                                                                "name": "Ramiro Pareja Veredas"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/ymmhaboobe.png",
+                                                                "name": "Yashin Mehaboobe"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "IA POLICIAL Y JUDICIAL: INTERESES EN CONFLICTO",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/rsala.png",
+                                                                "name": "Ruth Sala Ordóñez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "HoneyTraps: Discovering macOS vulnerabilities like Winnie The Pooh",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/cpolop.png",
+                                                                "name": "Carlos Polop Martin"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Graphql for fun and bounties!",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/jfbolivar.png",
+                                                                "name": "Juan Francisco Bolivar Hernandez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "AWS, con sus lambdas y sus cositas",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/dgarcia.png",
+                                                                "name": "Daniel García (cr0hn)"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/cgallego.png",
+                                                                "name": "César Gallego Rodríguez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Seguridad en sistemas de videoconferencia",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/jlverdeguer.png",
+                                                                "name": "Jose Luis Verdeguer Navarro"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "LLMs: La Nueva Frontera de la Inteligencia en DevSecOps",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/rtroncoso.png",
+                                                                "name": "Rafael Troncoso Perez"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/fjramirez.png",
+                                                                "name": "Francisco José Ramírez Vicente"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "LLM steganography. Dirty PoCs and covert-channels",
+                                                "language": "",
+                                                "track": "Sala 20",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/amunoz.png",
+                                                                "name": "Alfonso Muñoz Muñoz"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/jdominguez.png",
+                                                                "name": "Javier Domínguez Gómez"
+                                                        }
+                                                ]
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 17",
+                                "talks": [
+                                        {
+                                                "title": "ASM & IA, What’s next?",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/psanemeterio.png",
+                                                                "name": "Pablo San Emeterio"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "It's the end of the (SOC) world as we know it and I feel fine",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Mario Guerra Soto"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "¿Quién vigila a los que nos vigilan?",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/borjaadsuara.png",
+                                                                "name": "Borja Adsuara Varela"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "La Cartera Europea de Identidad Digital: ¿garantía de la identidad o herramienta de control estatal?",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T13:00",
+                                                "timeend": "T14:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/ignacioalamillo.png",
+                                                                "name": "Ignacio Alamillo Domingo"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Accesibilidad Digital como clave en la ciberseguridad: Programa IMPACT#aliada",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T15:30",
+                                                "timeend": "T16:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/romanramirez.png",
+                                                                "name": "Roman Ramirez"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/cesarlopz.png",
+                                                                "name": "César López García"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/marcosmanchado.png",
+                                                                "name": "Marcos Manchado Martín"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/ricardogarciabahamonde.png",
+                                                                "name": "Ricardo García Bahamonde"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Ciberataque=Sanción AEPD + Daño Inmaterial",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T16:30",
+                                                "timeend": "T17:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/irenecotillas.png",
+                                                                "name": "Irene Cotillas Torres"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/juancarlosfernandezmartinez.png",
+                                                                "name": "Juan Carlos Fernández Martínez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Ciberasegúrame por favor!!!!!",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T18:00",
+                                                "timeend": "T19:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/daniellargacha.png",
+                                                                "name": "Daniel Largacha Lamela"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "LLM steganography. Dirty PoCs and covert-channels",
+                                                "language": "",
+                                                "track": "Sala 17",
+                                                "when": "8 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T19:00",
+                                                "timeend": "T20:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/amunoz.png",
+                                                                "name": "Alfonso Muñoz Muñoz"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/jdominguez.png",
+                                                                "name": "Javier Domínguez Gómez"
+                                                        }
+                                                ]
                                         }
                                 ]
                         },
@@ -1822,34 +1878,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "En las Raíces del Mal: Una Inmersión al Desarrollo de Bootkits UEFI",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/alejandrovazquezvazquez.png",
-                                                                "name": "Alejandro Vázquez Vázquez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "From Zero to Hero - An in-depth Threat Intelligence investigation",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T10:00",
-                                                "timeend": "T11:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/apriego.png",
-                                                                "name": "Albert Priego Bravo"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "Hardware Implant Revolution: Unveiling ISM Bands on Hardware Implants for Red Team Operations",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -1864,34 +1892,6 @@
                                                 ]
                                         },
                                         {
-                                                "title": "No sólo de Terraform vive el hombre",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/ogarciarama.png",
-                                                                "name": "Oscar García-Rama García"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Neo_Net - The Kingpin of Spanish eCrime",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T11:00",
-                                                "timeend": "T11:30",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/polthill.png",
-                                                                "name": "Pol Thill"
-                                                        }
-                                                ]
-                                        },
-                                        {
                                                 "title": "Crazy {Web|GenAI|Net} Cybersec Ideas",
                                                 "language": "",
                                                 "track": "Sala 25",
@@ -1902,38 +1902,6 @@
                                                         {
                                                                 "image": "/img/people/2024/calonso.png",
                                                                 "name": "Chema Alonso"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Arquitectura de seguridad para LLMs, lecciones desde el campo",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/fernandorubio.png",
-                                                                "name": "Fernando Rubio Román"
-                                                        },
-                                                        {
-                                                                "image": "/img/people/2024/no-photo.png",
-                                                                "name": "Rafael Álvarez"
-                                                        }
-                                                ]
-                                        },
-                                        {
-                                                "title": "Python en el día día de un pentester",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T12:00",
-                                                "timeend": "T13:00",
-                                                "speakers": [
-                                                        {
-                                                                "image": "/img/people/2024/danielecheverri.png",
-                                                                "name": "Daniel Echeverri Montoya"
                                                         }
                                                 ]
                                         },
@@ -1956,9 +1924,69 @@
                                                 ]
                                         },
                                         {
-                                                "title": "Ignora las instrucciones anteriores",
+                                                "title": "🎧🥳 División Sonora Dj´s (ESPACIO LUMIERE)",
                                                 "language": "",
                                                 "track": "Sala 25",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T14:00",
+                                                "timeend": "T16:00",
+                                                "speakers": []
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 18",
+                                "talks": [
+                                        {
+                                                "title": "En las Raíces del Mal: Una Inmersión al Desarrollo de Bootkits UEFI",
+                                                "language": "",
+                                                "track": "Sala 18",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/alejandrovazquezvazquez.png",
+                                                                "name": "Alejandro Vázquez Vázquez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "No sólo de Terraform vive el hombre",
+                                                "language": "",
+                                                "track": "Sala 18",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/ogarciarama.png",
+                                                                "name": "Oscar García-Rama García"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Arquitectura de seguridad para LLMs, lecciones desde el campo",
+                                                "language": "",
+                                                "track": "Sala 18",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/fernandorubio.png",
+                                                                "name": "Fernando Rubio Román"
+                                                        },
+                                                        {
+                                                                "image": "/img/people/2024/no-photo.png",
+                                                                "name": "Rafael Álvarez"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Ignora las instrucciones anteriores",
+                                                "language": "",
+                                                "track": "Sala 18",
                                                 "when": "9 Marzo - TRACK: ROOTEDCON",
                                                 "timestart": "T13:00",
                                                 "timeend": "T13:30",
@@ -1970,9 +1998,65 @@
                                                 ]
                                         },
                                         {
+                                                "title": "🍺🍻RootedBeers by TARLOGIC (ESPACIO LUMIERE)",
+                                                "language": "",
+                                                "track": "Sala 18",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T14:00",
+                                                "timeend": "T16:00",
+                                                "speakers": []
+                                        }
+                                ]
+                        },
+                        {
+                                "track": "Sala 19",
+                                "talks": [
+                                        {
+                                                "title": "From Zero to Hero - An in-depth Threat Intelligence investigation",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T10:00",
+                                                "timeend": "T11:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/apriego.png",
+                                                                "name": "Albert Priego Bravo"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Neo_Net - The Kingpin of Spanish eCrime",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T11:00",
+                                                "timeend": "T11:30",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/polthill.png",
+                                                                "name": "Pol Thill"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "title": "Python en el día día de un pentester",
+                                                "language": "",
+                                                "track": "Sala 19",
+                                                "when": "9 Marzo - TRACK: ROOTEDCON",
+                                                "timestart": "T12:00",
+                                                "timeend": "T13:00",
+                                                "speakers": [
+                                                        {
+                                                                "image": "/img/people/2024/danielecheverri.png",
+                                                                "name": "Daniel Echeverri Montoya"
+                                                        }
+                                                ]
+                                        },
+                                        {
                                                 "title": "Take the Red Pill: “Que la realidad no te estropee un buen cibertitular”",
                                                 "language": "",
-                                                "track": "Sala 25",
+                                                "track": "Sala 19",
                                                 "when": "9 Marzo - TRACK: ROOTEDCON",
                                                 "timestart": "T13:00",
                                                 "timeend": "T13:30",
@@ -1982,24 +2066,6 @@
                                                                 "name": "Mónica Valle"
                                                         }
                                                 ]
-                                        },
-                                        {
-                                                "title": "🎧🥳 División Sonora Dj´s (ESPACIO LUMIERE)",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T14:00",
-                                                "timeend": "T16:00",
-                                                "speakers": []
-                                        },
-                                        {
-                                                "title": "🍺🍻RootedBeers by TARLOGIC (ESPACIO LUMIERE)",
-                                                "language": "",
-                                                "track": "Sala 25",
-                                                "when": "9 Marzo - TRACK: ROOTEDCON",
-                                                "timestart": "T14:00",
-                                                "timeend": "T16:00",
-                                                "speakers": []
                                         }
                                 ]
                         },
