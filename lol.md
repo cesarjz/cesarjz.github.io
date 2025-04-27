@@ -1519,3 +1519,1519 @@ Ser jungla puede ser estresante:
 ---
 
 > 💬 *"El jungla no está en línea, pero está en todas partes. Silencioso, letal y decisivo: quien controla la jungla, controla el mapa."*
+
+# 🧨 Guía Completa de la Contrajungla (Counter Jungling)
+
+La **contrajungla** es una técnica avanzada que consiste en **invadir la jungla enemiga** para:
+- Robar campamentos.
+- Molestar o matar al jungla rival.
+- Colocar visión profunda.
+- Obtener control de objetivos neutrales.
+
+Es una herramienta de presión que, si se ejecuta bien, **destruye el ritmo del jungla enemigo** y da **ventaja global al equipo**.
+
+---
+
+## 🧠 ¿Por qué hacer contrajungla?
+
+- ✅ Robas recursos y experiencia al enemigo.
+- ✅ Ganas información clave de la posición del jungla.
+- ✅ Aseguras control de visión.
+- ✅ Generas ventaja en objetivos como dragones y heraldos.
+- ✅ Puedes forzar errores del enemigo.
+
+> ⚠️ *Mal ejecutada, te puede costar la vida y poner atrás a tu equipo.*
+
+---
+
+## ⏰ ¿Cuándo hacer contrajungla?
+
+| Situación favorable | Detalles |
+|---------------------|----------|
+| ✅ El jungla enemigo **muere o está en otra parte del mapa** | Tienes tiempo seguro para invadir |
+| ✅ Tienes **visión de su jungla** | Puedes planear rutas de robo |
+| ✅ Tu línea cercana **está presionando** | Los aliados pueden ayudarte si algo sale mal |
+| ✅ Tienes **prioridad de línea** y buen 1v1 | Puedes ganar una pelea si te descubren |
+| ✅ Tu campeón **limpia rápido** | Entras, limpias y sales antes de que te vean |
+
+---
+
+## ❌ ¿Cuándo evitar la contrajungla?
+
+- Tus líneas están **pushed en contra** (sin ayuda).
+- No tienes **visión del jungla enemigo**.
+- Estás **detrás en niveles o ítems**.
+- Tienes poca vida o cooldowns importantes en CD.
+- No sabes **dónde están los laners enemigos**.
+
+---
+
+## 🗺️ Tipos de contrajungla
+
+### 1. **Invasión temprana (nivel 1-3)**
+- Robas el buff inicial o campamentos secundarios del enemigo.
+- Requiere coordinación con tu equipo y wards al minuto 1:00.
+- Útil contra junglas lentos (ex: Fiddlesticks, Shyvana).
+
+### 2. **Invasión reactiva**
+- Sabes que el enemigo está en un lado del mapa → tú invades el otro.
+- Robas su jungla "desocupada" y colocas visión.
+
+### 3. **Invasión ofensiva con presión**
+- Tus líneas están ganando → entras con ellos.
+- Puedes robar, matar al jungla enemigo y salir.
+
+### 4. **Invasión para visión**
+- No robas, pero colocas **wards profundos** en campamentos clave.
+- Muy útil para controlar dragones/heraldos y planear ganks.
+
+---
+
+## 🛠️ ¿Qué campeones son buenos para contrajungla?
+
+| Campeón      | ¿Por qué?                              |
+|--------------|-----------------------------------------|
+| **Nidalee**   | Rápida, buen poke, difícil de atrapar   |
+| **Lee Sin**   | Movilidad + visión con Wards + 1v1      |
+| **Graves**    | Alta presión, buen clear, buen 1v1      |
+| **Kha’Zix**   | Invisibilidad + burst + movilidad       |
+| **Kindred**   | Marca al enemigo y puede invadir fácil  |
+| **Shaco**     | Invisibilidad + trampa + escape fácil   |
+| **Udyr**      | Limpieza rápida + velocidad + stun      |
+
+---
+
+## 🧭 ¿Dónde colocar visión para contrajungla?
+
+| Lugar             | ¿Para qué sirve?                            |
+|-------------------|---------------------------------------------|
+| Buff rojo o azul enemigo | Saber por dónde empieza y trackear rotación |
+| Arbusto del río cerca de su jungla | Control de cruce hacia dragón/heraldo |
+| Arbusto entre sus picuchillos y medio | Ver su rotación mid/jungla          |
+| Gromp o lobos enemigos | Saber si está en su blue-side             |
+
+> 📌 Lleva **wards de control** y **trinket rojo** si vas a invadir. La visión es tu mayor ventaja.
+
+---
+
+## 📦 ¿Qué campamentos priorizar al invadir?
+
+| Campamento   | Prioridad | Motivo                                  |
+|--------------|-----------|------------------------------------------|
+| Buff rojo    | Alta      | Muy valioso, especialmente al inicio     |
+| Buff azul    | Alta      | Importante para magos y maná             |
+| Picuchillos  | Media     | Mucho oro pero tardado                   |
+| Gromp        | Media     | Rápido y da bastante experiencia         |
+| Lobos        | Baja      | Poco oro y experiencia                   |
+| Rocosos      | Baja      | Lento y peligroso sin ayuda              |
+
+---
+
+## 💡 Consejos clave para contrajungla
+
+1. **Siempre wardea antes de entrar.**
+2. **No arriesgues si tus líneas no tienen prioridad.**
+3. **Roba y vete rápido. No pelees innecesariamente.**
+4. **Usa campeones móviles o con escape.**
+5. **Controla timers de respawn.** (Ej: Buff rojo reaparece 5 min después).
+6. **Aplica presión mental**: si invades seguido, el jungla rival jugará más defensivo.
+
+---
+
+## 🧮 Ejemplo de cálculo: ¿Vale la pena invadir?
+
+- Tienes 2 buffs.
+- Sabes que el enemigo empieza en blue.
+- Gankea top en minuto 3:15.
+- Tú estás en bot con 3 campamentos hechos.
+- ⇒ Invade su blue-side: gromp + lobos + ward = 300-400 de oro gratis.
+
+---
+
+> ⚔️ *“Contrajunglear no es solo robar; es imponer dominio, dictar el ritmo y hacer que el enemigo juegue tu partida.”*
+
+# 🏆 Plan de Entrenamiento para Mejorar en League of Legends
+
+---
+
+## 🎯 Objetivos del Plan
+
+- Mejorar mecánicas individuales (farmeo, microjuego, combos).
+- Comprender macrojuego (rotaciones, control de mapa).
+- Optimizar toma de decisiones.
+- Mejorar consistencia y mentalidad competitiva.
+- Aumentar winrate de forma sostenible.
+
+---
+
+## 🗓️ Estructura del Plan Semanal
+
+| Día | Enfoque Principal |
+|:----|:------------------|
+| Lunes | Mecánicas básicas (farm, posicionamiento) |
+| Martes | Visionado de partidas y análisis |
+| Miércoles | Microjuego avanzado (combos, kiting, movilidad) |
+| Jueves | Macrojuego (rotaciones, objetivos, control de visión) |
+| Viernes | Especialización en tu campeón/rol principal |
+| Sábado | Sesión intensiva de SoloQ / Rankeds |
+| Domingo | Revisión de partidas + descanso mental |
+
+---
+
+## 🛠️ Ejercicios Diarios Detallados
+
+### 1. **Mecánicas básicas (30-45 min diarios)**
+
+- **Farmeo en práctica**: 10 minutos en modo entrenamiento, SIN items ni enemigos.
+- **Last hit bajo torre**: Aprende a farmear con la ayuda del daño de la torre.
+- **Movimiento y posicionamiento**: Practica esquivar skillshots caminando en zigzag.
+
+---
+
+### 2. **Visionado de partidas y análisis (1 hora semanal)**
+
+- **Graba tus partidas** (puedes usar herramientas como OBS o replays del cliente).
+- **Anota 3 errores principales** (posición, gank recibido, mal objetivo, etc.).
+- **Ve partidas de jugadores profesionales** en tu rol y analiza su toma de decisiones.
+
+---
+
+### 3. **Microjuego avanzado (45 min diarios)**
+
+- **Practica combos** específicos de tu campeón.
+- **Kiting** (atacar y moverte continuamente mientras haces daño).
+- **Animaciones de autoataque**: Aprende a cancelarlas para moverte más rápido.
+
+---
+
+### 4. **Macrojuego (2 partidas enfocadas por semana)**
+
+- **Priorizar objetivos**: torres, dragones, heraldos.
+- **Control de visión**: lleva al menos 1 ward de control TODO el tiempo.
+- **Rotaciones inteligentes**: si tu torre cae, muévete a la línea más larga o abierta.
+
+---
+
+### 5. **Especialización en tu campeón y rol (a diario)**
+
+- Elige **1 o 2 campeones principales** (**main**).
+- Juega solo en tu **rol principal** durante el entrenamiento.
+- **Conoce al 100% tus habilidades, combos, límites**.
+
+---
+
+### 6. **Sesión intensiva de SoloQ/Rankeds (sábado)**
+
+- **Juega 5 a 7 partidas seguidas**, concentrado, sin distracciones.
+- No pongas excusas al perder; **analiza cada derrota**.
+- Usa pausas breves (5 min) entre partidas para refrescar tu mente.
+
+---
+
+### 7. **Revisión de partidas + descanso mental (domingo)**
+
+- **Elige 2 partidas ganadas y 2 perdidas.**
+- Analiza: ¿Qué hice bien? ¿Qué errores cometí?
+- Toma **notas simples** de cosas a mejorar la próxima semana.
+
+---
+
+## 📈 Metas de corto y largo plazo
+
+| Tiempo | Meta sugerida |
+|:------|:---------------|
+| 1 semana | Mejorar CS a minuto 10 (mínimo 70) |
+| 2 semanas | Aumentar tu visión por minuto (1.2 VPM) |
+| 1 mes | Subir al menos una división o mejorar tu MMR |
+| 3 meses | Mantener > 55% de winrate con tu campeón principal |
+
+---
+
+## 🧘 Consejos de Mentalidad
+
+- **No tiltearse**: Si pierdes 2 partidas seguidas, toma un descanso.
+- **Enfócate en aprender, no solo en ganar**.
+- **Acepta errores** como oportunidades de mejora.
+- **Mantén la disciplina**: Es mejor 2 horas bien enfocadas que 8 horas sin dirección.
+
+---
+
+> ⚔️ *“No necesitas jugar 10 horas diarias; necesitas jugar 2 horas INTENCIONALMENTE todos los días.”*
+
+# 🛡️⚔️ La Bot Lane, el Support y el ADC: Guía Completa
+
+---
+
+## 🛣️ ¿Qué es la Bot Lane?
+
+La **Bot Lane** o **Calle Inferior** es una de las tres líneas principales de League of Legends.  
+Se encuentra en el lado **inferior derecho** del mapa (desde la perspectiva del equipo azul).
+
+### Características:
+
+- Es la **única línea donde juegan dos campeones aliados juntos** en fase de líneas (early game).
+- Normalmente está compuesta por:
+  - **1 Support** (soporte).
+  - **1 ADC** (*Attack Damage Carry* o tirador).
+
+- Cerca de ella están:
+  - El **dragón**, un objetivo fundamental del early y midgame.
+  - El **jungla** frecuentemente pasa a ayudar debido a la importancia del dragón.
+
+> ✅ La buena sinergia y coordinación entre Support y ADC puede decidir el resultado de toda la partida.
+
+---
+
+## 🧙 Rol de **Support**: El Guardián de la Bot Lane
+
+El **Support** es un rol centrado en **proteger, habilitar y controlar el mapa**, más que en infligir daño.
+
+### Principales responsabilidades:
+
+1. **Proteger al ADC**:
+   - Interceptar habilidades enemigas.
+   - Usar escudos, curaciones o control de masas (CC).
+
+2. **Controlar la visión**:
+   - Colocar y eliminar **wards** para asegurar la visión en río y jungla.
+   - Controlar arbustos de botlane para prevenir emboscadas.
+
+3. **Iniciar peleas o peel**:
+   - Dependiendo del campeón, puede ser quien inicia una pelea o quien defiende al carry.
+
+4. **Zonificar al enemigo**:
+   - Amenazar o golpear al ADC enemigo para que pierda minions.
+
+5. **Rotaciones y roaming**:
+   - En midgame puede rotar para ayudar a mid o al jungla.
+   - Ayuda a asegurar objetivos como dragones y heraldos.
+
+### Tipos de Supports:
+
+| Tipo | Ejemplo | Características |
+|:-----|:--------|:----------------|
+| **Tanques iniciadores** | Leona, Nautilus | Mucho CC, gran capacidad de iniciar peleas |
+| **Enchanters (hechiceros)** | Janna, Lulu, Nami | Curaciones, escudos y potenciaciones para aliados |
+| **Mages de poke** | Zyra, Brand, Xerath | Alto daño y poke constante en línea |
+| **Supports de visión/movilidad** | Bard, Rakan | Alta movilidad, juego de mapa inteligente |
+
+---
+
+## ⚔️ Rol de **ADC (Attack Damage Carry)**: El Francotirador del Equipo
+
+El **ADC** es el rol que inflige **altas cantidades de daño físico constante** (principalmente mediante ataques básicos).
+
+### Principales responsabilidades:
+
+1. **Farmeo**:
+   - Prioridad total en obtener el oro de los minions.
+   - Cada minion perdido ralentiza su progreso en la partida.
+
+2. **Escalar hacia el late game**:
+   - El ADC necesita **ítems de daño crítico** para ser una amenaza real.
+   - Se vuelve más fuerte conforme acumula oro e ítems.
+
+3. **Posicionamiento seguro**:
+   - Siempre mantenerse en la **parte trasera** de las peleas.
+   - Evitar ser cazado o enganchado por enemigos.
+
+4. **Priorizar blancos**:
+   - Atacar a los enemigos que sean más cercanos.
+   - No perseguir objetivos peligrosos y no sobreextenderse.
+
+5. **Maximizar DPS**:
+   - Hacer **el máximo daño sostenido** posible sin morir.
+
+### Características de los ADCs:
+
+| Tipo | Ejemplo | Características |
+|:-----|:--------|:----------------|
+| **Hypercarries** | Jinx, Vayne, Kai'Sa | Muy débiles early, pero imparables en late game |
+| **Poke y burst** | Miss Fortune, Varus | Alto daño a distancia antes de pelear |
+| **Safe laners** | Sivir, Ezreal | Buenas herramientas para farmear y escapar |
+| **Utility ADCs** | Ashe, Senna | Control de masas y utilidad extra al equipo |
+
+---
+
+## 🤝 La Sinergia Support - ADC
+
+El éxito en Bot Lane depende **mucho de la cooperación entre el Support y el ADC**.
+
+- **Buena comunicación**: Saber cuándo jugar agresivo o defensivo juntos.
+- **Sinergias naturales**: Algunos campeones funcionan muy bien juntos (ej: Leona + Kai’Sa, Nami + Lucian).
+- **Coordinación en engages y desengages**: Iniciar o retirarse juntos.
+
+### Ejemplos de sinergias:
+
+| Support | ADC | ¿Por qué funciona? |
+|:--------|:----|:-------------------|
+| Leona | Kai'Sa | Iniciaciones fuertes + seguimiento explosivo |
+| Thresh | Aphelios | Seguridad y posibilidad de jugadas agresivas |
+| Lulu | Jinx | Hiperpotenciación del hypercarry |
+| Nami | Lucian | Potenciaciones y burst instantáneo |
+
+---
+
+## 🎯 Consejos para Support y ADC
+
+### Para Supports:
+
+- Siempre lleva **Wards de control** (pinks).
+- Aprende a **controlar la oleada** (ayudar a pushar o congelar si es necesario).
+- **Protege primero, mata después**.
+- **Roamea** inteligentemente si tu ADC puede estar seguro solo.
+
+### Para ADCs:
+
+- **Prioriza farmear** sobre intentar kills tempranas innecesarias.
+- **Haz kiting** constantemente (atacar y moverte).
+- **Compra objetos de supervivencia** si estás siendo focus (Ej: Ángel Guardián, Fajín de Mercurio).
+- **Respeta el rango** de habilidades enemigas (hook de Blitzcrank, burbuja de Nami, etc.).
+
+---
+
+# 🛡️⚔️ En resumen:
+
+La Bot Lane es un **dúo de coordinación**:  
+El Support **crea el espacio** y **protege**,  
+mientras que el ADC **farmea y escala** para **convertirse en el principal dealer de daño** del equipo.
+
+> ⚡ *"Un buen ADC es tan bueno como su Support le permite ser; un gran Support hace que un ADC mediocre 
+
+# 👁️‍🗨️ Visión y Wards en League of Legends: Guía Completa
+
+---
+
+## 📜 ¿Qué es la Visión?
+
+En League of Legends, la **visión** se refiere a la **capacidad de ver áreas del mapa** que normalmente estarían ocultas por la niebla de guerra (**Fog of War**).
+
+**Tener visión** permite:
+- Ver a enemigos moviéndose en el mapa.
+- Evitar emboscadas (ganks).
+- Controlar objetivos como dragones, heraldos o barones.
+- Planificar estrategias ofensivas y defensivas.
+
+> ✅ ¡Una buena colocación de visión puede cambiar completamente el rumbo de una partida!
+
+---
+
+## 🛡️ ¿Qué son los Wards?
+
+Los **wards** son **objetos** que colocas en el mapa para proporcionar visión durante un tiempo determinado.
+
+Existen diferentes tipos de wards, cada uno con su función específica.
+
+---
+
+## 🔎 Tipos de Wards
+
+### 1. **Guardián de visión (Stealth Ward / Wardo normal)**
+
+- **Color**: Verde.
+- **Cómo se obtiene**: Gratis al comienzo usando el **Trinket Amarillo** (*Warding Totem*).
+- **Duración**: 90 a 120 segundos (escala con nivel).
+- **Cantidad máxima activa**: 2 por jugador.
+- **Características**:
+  - **Invisible** tras colocarlo (solo puede ser destruido con control de visión).
+  - Da **visión fija** de un área cercana.
+
+---
+
+### 2. **Guardián de control (Control Ward / Pink Ward)**
+
+- **Color**: Rosa.
+- **Cómo se obtiene**: Comprado en tienda por **75 de oro**.
+- **Duración**: Permanente hasta ser destruido.
+- **Cantidad máxima activa**: 1 por jugador.
+- **Características**:
+  - No es invisible: los enemigos lo pueden ver y destruir.
+  - Además de dar visión, **revela wards enemigos invisibles**, trampas y camuflajes (ej: Teemo).
+  - Fundamental para **controlar zonas clave** (dragón, Nashor, arbustos).
+
+---
+
+### 3. **Guardián de visión lejana (Farsight Alteration / Trinket azul)**
+
+- **Color**: Azul.
+- **Cómo se obtiene**: Cambio de trinket a partir del nivel 9.
+- **Duración**: Se mantiene un rato breve.
+- **Cantidad activa**: 1 a la vez.
+- **Características**:
+  - Puede ser colocado **a muy larga distancia**.
+  - Se usa para **explorar zonas peligrosas** donde no quieres entrar físicamente.
+  - **Visible** para enemigos (pueden destruirlo fácilmente).
+
+---
+
+### 4. **Guardián de control por habilidades**
+
+Algunos campeones tienen habilidades que actúan como wards o visión extra:
+
+| Campeón | Habilidad | Función |
+|:--------|:----------|:--------|
+| Teemo | Setas (R) | Vision de zona + daño |
+| Nidalee | Trampas (W) | Proporciona visión temporal |
+| Ashe | E - Disparo de Halcón | Revela áreas del mapa en línea recta |
+| Caitlyn | Trampas (W) | Revela enemigos atrapados |
+
+---
+
+## 🗺️ Principales Lugares de Wardeo
+
+### Early Game (Fase de líneas):
+
+- Arbustos laterales de la botlane/midlane/toplane.
+- Entrada de jungla propia/enemiga.
+- Río y arbustos de río.
+
+### Mid Game (Objetivos):
+
+- Área alrededor de Dragón y Heraldo.
+- Entradas y salidas de jungla enemiga.
+- Profundizar wards en zonas de rotación enemiga.
+
+### Late Game:
+
+- Control total de Barón y Dragón Anciano.
+- Wards profundos cerca de bases enemigas.
+- Puertas de acceso a Nashor.
+
+> 🎯 Colocar **wards agresivos** (en la jungla enemiga) cuando vas ganando y **wards defensivos** (en tu jungla) cuando vas perdiendo.
+
+---
+
+## 🧠 ¿Cómo usar bien los Wards?
+
+1. **No pongas todos tus wards en el mismo arbusto**.
+2. **Coloca wards en rutas probables de movimiento enemigo** (no solo en arbustos).
+3. **Anticípate a los objetivos**:
+   - Wardea dragón/barón 1 minuto antes de que salgan.
+4. **Saca valor del Control Ward**:
+   - Siempre compra 1 tras volver a base.
+   - Asegura visión antes de pelear un objetivo.
+5. **No seas predecible**:
+   - Cambia tus rutas de wardeo para evitar ser cazado.
+
+---
+
+## 📈 Estadísticas importantes de visión
+
+- **VPM (Visión por minuto)**: mide cuántas unidades de visión aportas.
+  - Meta de visión:
+    - Support: **>1.2 VPM**.
+    - Otros roles: **>0.7 VPM**.
+
+- **Control Wards colocados por partida**:
+  - Intenta comprar y colocar **al menos 4–6 por partida**.
+
+---
+
+## 🧩 Control de visión avanzado
+
+- **Sweepers (Trinket rojo)**:
+  - Se usa para **detectar y destruir wards enemigos**.
+  - Fundamental antes de hacer emboscadas o tomar objetivos.
+
+- **Denegar visión**:
+  - No solo importa colocar visión: también debes quitar la visión enemiga.
+  - Zonas de “visión cero” son ideales para forzar peleas sorpresivas.
+
+---
+
+# 🎯 En resumen:
+
+La **visión** es un pilar clave del juego competitivo:
+
+- Sin visión no puedes pelear de forma segura.
+- Colocar y eliminar wards correctamente te da **ventaja estratégica**.
+- Buen control de mapa = más dragones, heraldos, barones... y más victorias.
+
+> ⚡ *"Los grandes jugadores no solo ven su línea, ven TODO el mapa."*
+
+
+# 🛡️⚔️ Builds en League of Legends: Guía Completa
+
+---
+
+## 📚 ¿Qué es un Build?
+
+Un **build** en League of Legends se refiere a:
+
+- **Los objetos** que compras durante la partida.
+- **El orden** en que los compras.
+- **Las botas**, **los objetos situacionales** y **las optimizaciones**.
+- **La elección de runas** que acompañan esos objetos.
+
+En otras palabras:  
+> ✅ *Tu build es la forma en que optimizas tu campeón para ser lo más efectivo posible durante la partida*.
+
+---
+
+## 🛒 Elementos de un Build
+
+Un build completo normalmente incluye:
+
+| Elemento | Descripción |
+|:---------|:------------|
+| **Objeto Mítico** | El objeto principal y más poderoso del campeón. |
+| **Objetos Legendarios** | Objetos que complementan las estadísticas y efectos del campeón. |
+| **Botas** | Mejoran la velocidad de movimiento y dan pasivas útiles. |
+| **Objetos Situacionales** | Adaptaciones según la partida (ej: armadura, resistencia mágica, anticuraciones). |
+| **Elixir** | Mejoras temporales en el late game para potenciar combates importantes. |
+
+---
+
+## 🧩 Partes de un Build
+
+### 1. Objeto Mítico
+
+- Solo puedes tener **uno**.
+- Define el estilo del campeón en esa partida.
+- Ejemplos:
+  - **Galeforce** para ADCs móviles.
+  - **Kraken Slayer** para daño sostenido.
+  - **Everfrost** para magos de control.
+  - **Sunfire Aegis** para tanques.
+
+### 2. Objetos Legendarios
+
+- No hay límite más allá del espacio de inventario.
+- Potencian estadísticas clave:
+  - Daño.
+  - Velocidad de ataque.
+  - Letalidad.
+  - Penetración mágica.
+  - Vida, armadura, resistencia mágica, entre otros.
+
+### 3. Botas
+
+- Generalmente se compran como **segundo o tercer objeto**.
+- Tipos comunes:
+  - **Botas de Mercurio**: Resistencia mágica y tenacidad.
+  - **Grebas de Berserker**: Velocidad de ataque para ADCs.
+  - **Botas de movilidad**: Para supports de roaming.
+  - **Tabis de acero** (Plated Steelcaps): Reducción de daño físico recibido.
+
+### 4. Objetos Situacionales
+
+- Se ajustan al contexto de la partida:
+  - **Fajín de Mercurio** (QSS) contra mucho control de masas.
+  - **Morellonomicon** o **Ejecutor de la Cuchilla Oscura** contra curaciones excesivas.
+  - **Zhonyas** para evitar burst en magos.
+
+### 5. Elixires
+
+- Se compran en el **late game** para combates finales.
+- Ejemplos:
+  - **Elixir de la Ira**: Para campeones de daño físico.
+  - **Elixir de Hechicería**: Para magos.
+  - **Elixir de Hierro**: Para tanques y luchadores.
+
+---
+
+## 🧠 ¿Cómo hacer un buen Build?
+
+1. **Entiende tu rol**:
+   - ¿Debes hacer daño, tanquear, curar o iniciar peleas?
+2. **Identifica las amenazas enemigas**:
+   - ¿Quién es el más peligroso? ¿Daño físico o mágico?
+3. **Adapta tu build a la partida**:
+   - No copies ciegamente builds de guías. Cada partida es diferente.
+4. **Sinergiza tu build con tus runas**:
+   - Si tienes runas de penetración, busca builds que las potencien.
+
+---
+
+## 🔥 Ejemplos de Builds
+
+### ADC (Jinx)
+
+1. **Kraken Slayer** (Mítico)
+2. **Grebas de Berserker** (Botas)
+3. **Hojas del Infinito** (Crítico)
+4. **Huracán de Runaan** (Multigolpe)
+5. **Bloodthirster** (Robo de vida)
+6. **Guardian Angel** (Segunda vida)
+
+### Mago (Ahri)
+
+1. **Everfrost** (Mítico)
+2. **Botas de Hechicero** (Penetración mágica)
+3. **Sombrero Mortal de Rabadon** (Poder de habilidad)
+4. **Reloj de Arena de Zhonya** (Supervivencia)
+5. **Velo del Hada de la Muerte** (Protección extra)
+6. **Vara del Vacío** (Penetración mágica)
+
+### Jungla Tanque (Amumu)
+
+1. **Jak'Sho, el Proteico** (Mítico)
+2. **Botas Blindadas** (Defensa física)
+3. **Malla de Espinas** (Anticuración)
+4. **Corazón de Acero** (Vida máxima)
+5. **Fuerza de la Naturaleza** (Defensa mágica)
+6. **Warmog's Armor** (Regeneración de vida enorme)
+
+---
+
+## 🎯 Consejos Finales de Builds
+
+- **Compra objetos defensivos si vas por delante**: No todo es daño.
+- **Ajusta tu orden de compra**: Si necesitas supervivencia urgente, priorízala antes que daño.
+- **Combina efectos**: Velocidad de ataque + robo de vida = gran DPS sostenido.
+- **Elige sabiamente tu primer objeto**: Marca mucho el ritmo de tu partida.
+
+---
+
+# 📈 En resumen:
+
+Tu **build** define tu rendimiento.  
+> ⚡ *Un build inteligente y flexible te permite convertirte en una pesadilla para tus enemigos.*
+
+Nunca construyas automáticamente: ¡piensa, adapta y domina!
+
+
+# 🛡️⚔️ Guía de Objetos Situacionales en League of Legends
+
+---
+
+## 📚 ¿Qué son los Objetos Situacionales?
+
+Los **objetos situacionales** son aquellos que:
+
+- No forman parte de un "build fijo".
+- Se **compran adaptándose** a las condiciones específicas de cada partida.
+- Te **protegen** o te **potencian** frente a amenazas concretas (campeones, composiciones, estrategias enemigas).
+
+> ✅ Saber **cuándo y por qué** comprar estos objetos es clave para ser un jugador de alto nivel.
+
+---
+
+## 🔥 Objetos Situacionales Comunes
+
+### 1. **Contra Curaciones Excesivas (Anti-Heal)**
+
+| Objeto | Rol | Efecto | Para usar contra |
+|:------|:----|:------|:-----------------|
+| **Morellonomicon** | Magos | Reduce curaciones enemigas (Heridas Graves) | Soraka, Yuumi, Vladimir |
+| **Ejecutor de la Cuchilla Oscura** (Executioner's Calling) / **Recordatorio Mortal** | ADCs | Reduce curaciones enemigas | Aatrox, Dr. Mundo |
+| **Llamado del Verdugo** (Chempunk Chainsword) | Luchadores/Físicos | Reduce curaciones enemigas | Warwick, Nami |
+
+---
+
+### 2. **Contra Enemigos con Daño Crítico o Excesivo**
+
+| Objeto | Rol | Efecto | Para usar contra |
+|:------|:----|:------|:-----------------|
+| **Malla de Espinas** (Thornmail) | Tanques | Devuelve daño y aplica Heridas Graves | ADCs tipo Jhin, Kai'Sa |
+| **Presagio de Randuin** | Tanques | Reduce daño crítico recibido | Yasuo, Yone, Tryndamere |
+
+---
+
+### 3. **Contra Daño Mágico Elevado**
+
+| Objeto | Rol | Efecto | Para usar contra |
+|:------|:----|:------|:-----------------|
+| **Fuerza de la Naturaleza** | Tanques | Aumenta resistencia mágica y velocidad | Karthus, Syndra |
+| **Velo del Hada de la Muerte** (Banshee's Veil) | Magos | Escudo que bloquea la próxima habilidad enemiga | Ahri, Zoe |
+
+---
+
+### 4. **Contra Mucho CC (Control de Masas)**
+
+| Objeto | Rol | Efecto | Para usar contra |
+|:------|:----|:------|:-----------------|
+| **Fajín de Mercurio** (Quicksilver Sash) | ADCs/asesinos | Elimina aturdimientos, supresiones y encantamientos | Malzahar (suppress), Morgana (bind) |
+| **Cimitarra Mercurial** | ADCs | Mejora del fajín + daño | Skarner, Warwick |
+| **Botas de Mercurio** | Todos | Tenacidad (reduce duración de CC) | Composiciones de stuns y slows pesados |
+
+---
+
+### 5. **Para Supervivencia Personal**
+
+| Objeto | Rol | Efecto | Para usar cuando |
+|:------|:----|:------|:-----------------|
+| **Reloj de Arena de Zhonya** | Magos | Inmunidad temporal (stasis) | Eres objetivo de asesinos como Zed o Talon |
+| **Ángel Guardián** (Guardian Angel) | ADCs, Asesinos | Revivir tras morir | Teamfights explosivas |
+| **Corazón de Hielo** (Frozen Heart) | Tanques | Reduce velocidad de ataque enemiga | Contra composiciones de ADCs rápidos |
+
+---
+
+### 6. **Contra Tanques Fuertes**
+
+| Objeto | Rol | Efecto | Para usar contra |
+|:------|:----|:------|:-----------------|
+| **Últimas Palabras / Recordatorio Mortal** | ADCs | Penetración de armadura | Ornn, Malphite, Sion |
+| **Vara del Vacío** (Void Staff) | Magos | Penetración mágica | Tanques mágicos o bruisers mágicos |
+
+---
+
+### 7. **Objetos de utilidad o para roles de apoyo**
+
+| Objeto | Rol | Efecto | Para usar cuando |
+|:------|:----|:------|:-----------------|
+| **Redención** | Supports | Cura en área a aliados | Peleas prolongadas o healing teamcomps |
+| **Medallón de los Solari de Hierro** | Supports | Escudo en área para aliados | Combos de daño masivo del rival |
+| **Putrificador Quimtech** | Supports | Aplica Heridas Graves a curaciones enemigas al buffear aliados | Contra healing compositions |
+
+---
+
+## 🧠 ¿Cómo saber qué objeto situacional comprar?
+
+1. **¿Me están matando mucho?**  
+   - Compra defensivos o de anti-burst (Zhonyas, Guardian Angel).
+
+2. **¿El enemigo cura demasiado?**  
+   - Compra anti-heal inmediatamente (Morello, Executioner).
+
+3. **¿Sufro mucho CC?**  
+   - Compra Tenacidad (Botas de Mercurio) o un Fajín de Mercurio.
+
+4. **¿Los enemigos tienen tanques imposibles de bajar?**  
+   - Invierte en Penetración (Recordatorio Mortal o Vara del Vacío).
+
+5. **¿Necesito mejorar a mis aliados?**  
+   - Juega con objetos de utilidad (Redención, Solari).
+
+---
+
+# 📈 En resumen:
+
+> ⚡ *No hay un "build único" perfecto: los mejores jugadores adaptan sus builds a cada partida.*
+
+Conocer y utilizar **objetos situacionales** correctamente es un **diferenciador enorme** entre un jugador normal y uno experto.
+
+
+# 📊 Estadísticas de Objetos en League of Legends
+
+Los **objetos** en LoL otorgan **estadísticas** que mejoran las capacidades de los campeones de muchas formas distintas.
+
+---
+
+## 🧠 Principales Tipos de Estadísticas
+
+| Estadística | Descripción | A quién beneficia |
+|:------------|:------------|:------------------|
+| **Poder de Habilidad (AP)** | Aumenta el daño o las curaciones de habilidades mágicas. | Magos, Supports, algunos asesinos |
+| **Daño de Ataque (AD)** | Aumenta el daño de ataques básicos y algunas habilidades físicas. | ADCs, luchadores, asesinos |
+| **Velocidad de Ataque** | Permite atacar más veces en menos tiempo. | ADCs, luchadores |
+| **Vida Máxima** | Incrementa la cantidad de vida máxima. | Tanques, luchadores |
+| **Regeneración de Vida** | Regenera vida constantemente. | Tanques, junglas |
+| **Maná Máximo** | Incrementa la reserva de maná. | Magos, algunos junglas |
+| **Regeneración de Maná** | Recupera maná por segundo. | Magos, supports |
+| **Armadura** | Reduce el daño físico recibido. | Tanques, frontlines |
+| **Resistencia Mágica** | Reduce el daño mágico recibido. | Tanques, bruisers |
+| **Velocidad de Movimiento** | Incrementa la velocidad de desplazamiento. | Todos los roles |
+| **Letalidad** | Ignora una porción de la armadura del enemigo (early-mid game). | Asesinos, luchadores físicos |
+| **Penetración de Armadura** | Reduce o ignora armadura del enemigo (late game). | ADCs, bruisers |
+| **Penetración Mágica** | Reduce o ignora resistencia mágica enemiga. | Magos, asesinos mágicos |
+| **Crítico de Ataque** | Probabilidad de hacer golpes críticos que infligen daño extra. | ADCs, algunos luchadores |
+| **Daño de Golpe Crítico** | Incrementa el daño que hacen los críticos. | ADCs con builds de crítico |
+| **Omnivampirismo** | Cura un porcentaje del daño infligido (de cualquier tipo). | Bruisers, algunos magos |
+| **Robo de Vida** | Cura un porcentaje del daño de ataques básicos. | ADCs, luchadores |
+| **Vampirismo de Habilidad** | Cura un porcentaje del daño causado por habilidades. | Magos, luchadores mágicos |
+| **Aceleración de Habilidad** | Reduce los tiempos de enfriamiento de habilidades (Cooldown Reduction). | Todos |
+| **Tenacidad** | Reduce la duración de efectos de control de masas (stuns, slows, etc.). | Frontlines, junglas |
+| **Escudos Mejorados** | Aumenta la fuerza de escudos que otorgas o recibes. | Supports, magos escudadores |
+| **Curaciones Mejoradas** | Incrementa las curaciones dadas o recibidas. | Supports, curanderos |
+
+---
+
+## 🛡️ Estadísticas Especiales o Pasivas Únicas
+
+| Tipo | Descripción | Ejemplos |
+|:-----|:------------|:---------|
+| **Pasivas Únicas** | Efectos automáticos que no se acumulan si tienes dos objetos iguales. | Ej: ralentizar con el guantelete congelado |
+| **Activas Únicas** | Habilidades que puedes activar manualmente. | Ej: escudo de Solari, dash de Galeforce |
+| **Efectos Míticos** | Bonificaciones que escalan con cada objeto legendario comprado. | Ej: estadísticas adicionales por mítico |
+
+---
+
+## 🔥 Estadísticas Avanzadas o Poco Comunes
+
+| Estadística | Descripción | Ejemplos de objetos |
+|:------------|:------------|:--------------------|
+| **Velocidad de Movimiento Fuera de Combate** | Te mueves más rápido cuando no estás en combate. | Botas de movilidad |
+| **Resistencia a Críticos** | Reduce el daño recibido de golpes críticos. | Presagio de Randuin |
+| **Penetración Omnicanal** (Penetración plana) | Reduce directamente resistencias enemigas sin importar su cantidad. | Letalidad o penetración mágica plana |
+| **Shield Reaver** | Ciertos efectos que destruyen o atraviesan escudos enemigos. | Eclipse (en situaciones específicas) |
+
+---
+
+## 📈 ¿Cómo se combinan las estadísticas?
+
+- **Magos** priorizan: Poder de habilidad, penetración mágica, aceleración de habilidad.
+- **ADCs** priorizan: Daño de ataque, velocidad de ataque, crítico.
+- **Asesinos** priorizan: Letalidad, daño de ataque, velocidad de movimiento.
+- **Tanques** priorizan: Vida, armadura, resistencia mágica, regeneración.
+- **Supports** priorizan: Maná, regeneración de maná, vida, escudos mejorados.
+
+---
+
+# 📚 Resumen General
+
+> ⚡ *Las estadísticas definen tu potencial en partida. Entenderlas te permite construir mejores builds y adaptarte al rival.*
+
+Recuerda que:
+- **No todas las estadísticas escalan igual** (early, mid y late game).
+- **Algunos campeones aprovechan mejor ciertas combinaciones** específicas.
+- **Combinar estadísticas adecuadamente marca la diferencia entre sobrevivir o caer en una pelea.**
+
+
+# 📋 Guía Visual: ¿Qué Estadísticas Buscar Según Tu Tipo de Campeón?
+
+## 🧙‍♂️ Magos (AP Carries)
+
+| Prioridad | Estadísticas |
+|:---------|:-------------|
+| 1 | Poder de Habilidad (AP) |
+| 2 | Penetración Mágica |
+| 3 | Aceleración de Habilidad |
+| 4 | Vida / Supervivencia (Zhonyas, Banshee's) |
+| 5 | Maná y Regeneración de Maná |
+
+---
+
+## ⚔️ ADCs (Tiradores - Attack Damage Carries)
+
+| Prioridad | Estadísticas |
+|:---------|:-------------|
+| 1 | Daño de Ataque (AD) |
+| 2 | Velocidad de Ataque |
+| 3 | Probabilidad de Crítico |
+| 4 | Daño de Crítico |
+| 5 | Robo de Vida / Supervivencia (Guardian Angel, Cimitarra) |
+
+---
+
+## 🥷 Asesinos (Físicos y Mágicos)
+
+| Prioridad | Estadísticas |
+|:---------|:-------------|
+| 1 | Letalidad o Penetración Mágica |
+| 2 | Daño de Ataque o Poder de Habilidad (según tipo) |
+| 3 | Velocidad de Movimiento / Movilidad |
+| 4 | Aceleración de Habilidad |
+| 5 | Omnivampirismo (opcional en asesinos sustain como Sylas) |
+
+---
+
+## 🛡️ Tanques (Frontlines)
+
+| Prioridad | Estadísticas |
+|:---------|:-------------|
+| 1 | Vida Máxima |
+| 2 | Armadura |
+| 3 | Resistencia Mágica |
+| 4 | Aceleración de Habilidad (para CC más frecuente) |
+| 5 | Regeneración de Vida / Escudos Extra |
+
+---
+
+## 🛟 Supports
+
+| Prioridad | Estadísticas |
+|:---------|:-------------|
+| 1 | Vida y Regeneración de Maná |
+| 2 | Poder de Habilidad (en supports ofensivos) |
+| 3 | Escudos Mejorados y Curaciones Mejoradas |
+| 4 | Aceleración de Habilidad |
+| 5 | Velocidad de Movimiento (para moverse entre líneas) |
+
+---
+
+# ⏳ Cómo Priorizar Estadísticas Según el Momento de la Partida
+
+## ⏱️ Early Game (Minuto 0-15)
+- Potenciar **daño base** o **presión en línea**.
+- Ejemplos:
+  - Más daño de ataque (ADCs).
+  - Más maná/regeneración (Magos).
+  - Botas baratas para rotar (Supports, Junglas).
+
+## ⏳ Mid Game (Minuto 15-25)
+- Mejorar **movilidad, aceleración** y **penetración**.
+- Ejemplos:
+  - Más velocidad de ataque (ADCs).
+  - Penetración mágica (Magos).
+  - Letalidad (Asesinos).
+
+## ⏲️ Late Game (Minuto 25+)
+- Buscar **supervivencia** y **finalizar el burst de daño**.
+- Ejemplos:
+  - Guardian Angel para ADCs.
+  - Zhonya's para Magos.
+  - Más vida/resistencia para Tanques.
+  - Robo de vida / omnivampirismo para luchadores.
+
+---
+
+# 🎯 Consejos Finales:
+
+- **Si vas ganando**, enfócate en **potenciar el daño**.
+- **Si vas perdiendo**, **invierte en supervivencia** (resistencias, escudos).
+- **Si el enemigo tiene mucha curación**, adapta **Heridas Graves** (anti-healing).
+- **No copies builds ciegamente**: siempre analiza **tu equipo** y **el del rival**.
+
+> **¡La adaptación es la clave para ganar partidas!**
+
+
+# 🔗 Guía de Combinación de Estadísticas en League of Legends
+
+Entender **cómo combinar estadísticas** es fundamental para **sacar el máximo potencial** a tu campeón según el momento de la partida.
+
+---
+
+# 🧩 ¿Cómo Combinar Estadísticas de Forma Inteligente?
+
+### Principios Básicos:
+- **No apiles solo una estadística**: combinar potencia ofensiva con mitigación o utilidad es mejor.
+- **Sinergias naturales**: algunas estadísticas escalan juntas.
+- **Responde al enemigo**: adapta tus combinaciones a sus amenazas.
+
+---
+
+# 📜 Combinaciones Típicas según el Rol
+
+## 🧙‍♂️ Magos (AP Carries)
+
+| Si tienes... | Combínalo con... | ¿Por qué? |
+|:------------|:-----------------|:---------|
+| Alto Poder de Habilidad (AP) | Penetración Mágica | Para asegurar daño contra enemigos con resistencia |
+| Aceleración de Habilidad | Maná y regeneración | Para spamear habilidades más rápido sin quedarte sin recursos |
+| Poca movilidad | Vida adicional / Zhonya's | Para sobrevivir más tiempo en peleas |
+
+---
+
+## ⚔️ ADCs (Tiradores)
+
+| Si tienes... | Combínalo con... | ¿Por qué? |
+|:------------|:-----------------|:---------|
+| Daño de Ataque (AD) alto | Velocidad de Ataque | Para aplicar más daño rápidamente |
+| Mucho crítico | Robo de Vida | Para curarte con tus golpes críticos y sobrevivir |
+| Vulnerabilidad alta | Objetos defensivos situacionales (e.g., Ángel Guardián) | Para evitar morir primero en las peleas |
+
+---
+
+## 🥷 Asesinos
+
+| Si tienes... | Combínalo con... | ¿Por qué? |
+|:------------|:-----------------|:---------|
+| Mucha letalidad | Velocidad de movimiento | Para entrar y salir rápidamente tras eliminar un objetivo |
+| Alto burst mágico | Penetración mágica | Para asegurar asesinatos incluso contra objetivos con resistencia mágica |
+| Débil en peleas largas | Omnivampirismo o objetos de escape | Para resistir o reposicionarte tras el asesinato inicial |
+
+---
+
+## 🛡️ Tanques
+
+| Si tienes... | Combínalo con... | ¿Por qué? |
+|:------------|:-----------------|:---------|
+| Mucha vida | Armadura y Resistencia Mágica | Para hacer que esa vida sea más difícil de bajar |
+| Armadura alta | Resistencia mágica balanceada | Evitar ser débil contra daño mágico |
+| Aceleración de Habilidad | Más control de masas (CC) frecuente | Para aportar utilidad constante a tu equipo |
+
+---
+
+## 🛟 Supports
+
+| Si tienes... | Combínalo con... | ¿Por qué? |
+|:------------|:-----------------|:---------|
+| Poder de Habilidad | Curaciones y escudos potenciados | Para maximizar tu utilidad en peleas |
+| Mucha aceleración | Mejoras de movilidad y peel | Para rotar y proteger carries más eficientemente |
+| Buen control de visión | Velocidad de movimiento | Para moverte entre zonas de visión con seguridad |
+
+---
+
+# 🧠 Combinaciones Estratégicas según Situaciones
+
+| Situación | Combinaciones Recomendadas |
+|:----------|:---------------------------|
+| Enemigos con alta curación | Daño + Heridas Graves (Ej. Morellonomicon, Recordatorio Mortal) |
+| Mucho daño explosivo enemigo | Vida + Resistencia específica (Ej. Randuin vs críticos, Velo del Hada de la Muerte vs AP) |
+| Necesitas empujar rápido las líneas | AD + Velocidad de Ataque (para pushes rápidos) |
+| Peleas prolongadas | Robo de Vida u Omnivampirismo + Resistencia |
+| Mucha movilidad enemiga | Aceleración + CDR de control de masas o ralentizaciones |
+
+---
+
+# 📈 Ejemplos de Combinaciones Avanzadas
+
+### 1. Magos de Burst
+- **Poder de Habilidad** → **Penetración Mágica** → **Aceleración**
+- Ejemplo: Syndra, Veigar.
+
+### 2. ADCs de Crítico
+- **AD** → **Velocidad de Ataque** → **Crítico** → **Robo de Vida**
+- Ejemplo: Jinx, Kai'Sa.
+
+### 3. Tanques de Iniciación
+- **Vida Máxima** → **Aceleración de Habilidad** → **Armadura + Resistencia Mágica**
+- Ejemplo: Malphite, Ornn.
+
+### 4. Asesinos Móviles
+- **Letalidad** → **Velocidad de Movimiento** → **Penetración de Armadura**
+- Ejemplo: Talon, Zed.
+
+### 5. Supports Utilitarios
+- **Aceleración de Habilidad** → **Escudos Mejorados** → **Velocidad de Movimiento**
+- Ejemplo: Lulu, Karma.
+
+---
+
+# 🎯 Resumen Final
+
+> **¡Combinar estadísticas estratégicamente transforma tu campeón de bueno a imparable!**
+
+Recuerda:
+- Prioriza **adaptarte** a la partida.
+- Combina **potencial ofensivo** + **supervivencia** de forma inteligente.
+- La **flexibilidad** es la diferencia entre un jugador promedio y uno excelente.
+
+
+# 🐛📜 Todo sobre las Larvas, el Heraldo de la Grieta y el Barón Nashor
+
+---
+
+# 1. Larvas del Heraldo
+
+## 📍 ¿Qué son?
+- Antes de que aparezca el primer **Herald of Rift**, se genera una **larva** en el foso.
+- Es un estado **pasivo**: **la Larva no ataca ni se puede atacar**.
+- Aparece entre los minutos **4:00 - 5:00** de partida.
+- Permanece quieta **cargando** para luego transformarse en el **Herald**.
+
+## 📋 Datos Clave:
+| Característica | Valor |
+|:---------------|:------|
+| Aparición | 4:00 min |
+| Ubicación | Río, en el Foso de Barón (arriba del mapa) |
+| Estado | No interactuable |
+| Desaparición | Se transforma en el Heraldo |
+
+> **Nota**: Si no hay intervención de los jugadores, la larva se convertirá automáticamente en Heraldo alrededor del minuto 5.
+
+---
+
+# 2. Heraldo de la Grieta (Rift Herald)
+
+## 📍 ¿Qué es?
+- Es un **monstruo épico**.
+- Aparece en el **foso del Barón** **antes** que el Barón Nashor.
+- Al matarlo, **deja caer un "ojo"** que puede recoger un campeón.
+- **El campeón que recoge el ojo puede invocar al Heraldo** como **aliado temporal**.
+
+## 🕰️ Cronología de su Aparición:
+- Primer Heraldo disponible desde **5:00 min**.
+- Si se mata rápido (antes de 14:00 min), puede aparecer un **segundo Heraldo**.
+
+## 📋 Estadísticas Básicas:
+| Característica | Valor |
+|:---------------|:------|
+| Vida inicial | ~6500 |
+| Daño | Fuerte en early game |
+| Habilidad especial | Carga frontal que hace daño masivo a torres |
+
+## 🧠 ¿Cómo se usa?
+- Se invoca en **una línea** para:
+  - **Romper torres rápidamente**.
+  - **Presionar mapas** y ganar espacio.
+- El Heraldo **carga** contra las torres enemigas causando un **enorme daño verdadero**.
+
+## 🎯 Tips Estratégicos:
+- Ideal usarlo **tras una kill** en línea o cuando sepas que el jungla enemigo está lejos.
+- Mejor aún si logras **romper la primera torre** (da un bono de oro de Primera Torre).
+
+## ⚠️ Cuidado:
+- Si no utilizas el "ojo" del Heraldo antes de 4 minutos tras recogerlo, **se pierde**.
+- Invocarlo **demasiado cerca** de una torre puede hacer que lo maten rápido sin cargar.
+
+---
+
+# 3. Barón Nashor
+
+## 📍 ¿Qué es?
+- El **monstruo épico más poderoso** del mapa.
+- Su muerte **otorga un gran buff** a todos los jugadores vivos de tu equipo.
+
+## 🕰️ Cronología de su Aparición:
+- Aparece en el **foso** a los **20:00 minutos** de partida.
+- **Reaparece** 6 minutos después de ser abatido.
+
+## 📋 Estadísticas Básicas:
+| Característica | Valor |
+|:---------------|:------|
+| Vida inicial | ~10,000 (escala con el tiempo) |
+| Daño | Altísimo (sobre todo contra quienes lo tanquean) |
+| Daño mágico | Sí, habilidades tipo daño en área |
+| Habilidades | Golpes, empujes, áreas de daño, control de masas leve |
+
+## 🎁 Beneficios al matarlo:
+| Beneficio | Descripción |
+|:----------|:------------|
+| Buff de Barón | Aumenta daño de ataque y poder de habilidad |
+| Mejora de súbditos | Los súbditos cerca de ti reciben mejoras de vida y daño |
+| Velocidad de regreso a base | Al canalizar la vuelta a base (recall), es mucho más rápido |
+
+> **El buff de Barón dura 3 minutos.**
+
+## 🎯 Usos Estratégicos:
+- Facilitar **asaltos finales** para cerrar partidas.
+- **Romper inhibidores** enemigos.
+- Forzar peleas favorables si tienes ventaja de buff.
+- Presionar todas las líneas simultáneamente (estilo **1-3-1**).
+
+## ⚔️ Cómo pelear el Barón:
+- **Tener visión** del área (wards de control).
+- **Evitar ser emboscado** mientras lo haces.
+- **Idealmente matar primero al jungla enemigo** para evitar que robe el Nashor con Smite.
+
+## ⚡ Robos de Barón:
+- El jungla con Smite debe **calcular bien el último golpe**.
+- Los enemigos pueden intentar **entrar, robar y morir**, pero negar el buff.
+
+---
+
+# 📚 Resumen Visual
+
+| Monstruo | Hora de aparición | Recompensa principal | Dificultad |
+|:---------|:------------------|:---------------------|:----------|
+| Larva | 4:00 min | N/A (se transforma) | N/A |
+| Heraldo | 5:00 min | Ayuda a tirar torres | Media |
+| Barón Nashor | 20:00 min | Buff para asediar | Muy alta |
+
+---
+
+# 🎯 Consejos Finales
+- **Asegura siempre la visión** antes de luchar contra Heraldo o Barón.
+- **No fuerces Barón** si tu equipo está dividido o hay riesgo de robo.
+- **Planifica**: Una buena toma del Heraldo o Barón puede decidir la partida.
+
+
+# 🐉 Guía Detallada de los Dragones en League of Legends
+
+---
+
+# 1. ¿Qué son los Dragones?
+
+- Son **monstruos épicos** que aparecen en la **zona inferior del río** (en el foso del dragón).
+- Matar un dragón otorga **mejoras permanentes** a tu equipo.
+- **Existen varios tipos** de dragón, cada uno con diferentes beneficios.
+- Tras matar varios dragones, aparece un **Dragón Ancestral**, aún más poderoso.
+
+---
+
+# 2. Tipos de Dragones Elementales
+
+Cada partida puede tener **diferentes tipos de dragones** (rotan de forma aleatoria en cada partida).
+
+## 🌪️ Dragón de Viento (Cloud Drake)
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | Aumenta la **velocidad de movimiento** fuera de combate |
+| Alma (Soul) | Velocidad extra + reducción de tiempos de reutilización al usar la definitiva |
+| Terreno | Corrientes de viento en la jungla, que aceleran el movimiento |
+
+---
+
+## 🔥 Dragón de Fuego (Infernal Drake)
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | Aumenta el **daño de ataque** (AD) y **poder de habilidad** (AP) |
+| Alma (Soul) | Tus habilidades y ataques causan una **explosión extra de daño** |
+| Terreno | La jungla se incendia, eliminando zonas de cobertura |
+
+---
+
+## 🏔️ Dragón de Montaña (Mountain Drake)
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | Otorga **resistencias** (armadura y resistencia mágica) |
+| Alma (Soul) | Genera un **escudo** tras estar un tiempo sin recibir daño |
+| Terreno | Aparecen muros adicionales en el mapa, más obstáculos |
+
+---
+
+## 💧 Dragón de Océano (Ocean Drake)
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | **Regeneración** de vida perdida |
+| Alma (Soul) | **Curación** cada vez que infliges daño |
+| Terreno | Brotan arbustos y lianas nuevas en la jungla |
+
+---
+
+## 🦑 Dragón del Vacío (Void Drake) — *Nuevo en Season 14*
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | Aumenta el daño contra enemigos con más vida que tú |
+| Alma (Soul) | Hace que ataques y habilidades liberen **tentáculos del vacío** que dañan |
+| Terreno | Deforma el mapa, creando portales del vacío para moverse |
+
+---
+
+# 3. Dragón Ancestral
+
+> Es el **dragón final** que aparece tras matar suficientes dragones elementales.
+
+| Característica | Efecto |
+|:---------------|:-------|
+| Mejora | **Ejecución**: si haces daño a un enemigo por debajo de cierto % de vida, lo matas instantáneamente |
+| No depende de tipo elemental | El buff es único, no mezcla con los demás |
+| Altísima prioridad | Puede cambiar el resultado de una partida |
+
+---
+
+# 4. Funciones Estratégicas de los Dragones
+
+| Función | Detalle |
+|:--------|:--------|
+| Buffs de combate | Mejores estadísticas (más daño, más velocidad, etc.) |
+| Condición de victoria | Conquistar el **Alma del Dragón** da gran ventaja |
+| Peleas forzadas | Controlar el dragón obliga a peleas claves para la partida |
+| Control de visión | Wardear la zona es fundamental |
+
+---
+
+# 5. Resumen de Orden y Eventos
+
+1. Primer dragón: **5:00 minutos**.
+2. Dragones reaparecen cada **5 minutos** tras ser abatidos.
+3. Cuando un equipo consigue **4 dragones** → obtiene **Alma**.
+4. Después del Alma, comienza el **Dragón Ancestral** a aparecer.
+
+---
+
+# 6. Tips Avanzados
+
+- **Prioriza dragones según tu composición**: si eres de late game, Ocean; si eres de burst, Infernal.
+- **No regales dragones gratis**: perder 2-3 puede condenar la partida.
+- **Controla visión profunda** antes de cada pelea de dragón.
+- **Finge retirarte** y luego colapsa sobre el equipo enemigo desprevenido.
+
+---
+
+# 📚 Tabla Rápida de Dragones
+
+| Dragón | Efecto Normal | Efecto de Alma |
+|:-------|:--------------|:---------------|
+| Viento | Velocidad de movimiento | Reducción enfriamiento definitiva |
+| Fuego | Daño aumentado | Explosiones adicionales |
+| Montaña | Resistencias extra | Escudo |
+| Océano | Regeneración de vida | Curación continua |
+| Vacío | Daño vs enemigos con más vida | Tentáculos de daño |
+| Ancestral | No aplica | Ejecución instantánea |
+
+
+# 🛠️ Dragón Hextech - Explicación Completa
+
+---
+
+# 1. ¿Qué es el Dragón Hextech?
+
+- El **Dragón Hextech** es uno de los tipos de **dragón elemental** que puede aparecer en una partida.
+- Fue introducido en la **temporada 12** de *League of Legends*.
+- Tiene una temática **tecnológica** y **eléctrica**.
+- Modifica el mapa de manera única y da **bonificaciones de daño y ralentización**.
+
+---
+
+# 2. Beneficios del Dragón Hextech
+
+## 🛡️ Buff individual (al matar cada dragón)
+
+- **Aumento de velocidad de ataque** (Attack Speed).
+- **Aumento de aceleración de habilidades** (Ability Haste).
+  - *Velocidad de ataque:* atacas más rápido.
+  - *Aceleración de habilidades:* tus habilidades tienen menos tiempo de reutilización.
+
+| Mejoras por stack de Dragón Hextech |
+|:-------------------------------|
+| +9% Velocidad de Ataque |
+| +9 de Aceleración de Habilidad |
+
+*Se acumula por cada dragón Hextech que mates.*
+
+---
+
+## 🌀 Alma Hextech (Hextech Soul)
+
+- Si tu equipo consigue **cuatro dragones** (y se activa el alma), consigues:
+  - **Ralentizar automáticamente** a los enemigos que dañes con ataques básicos o habilidades.
+  - Este efecto ralentiza en **movimiento** y **velocidad de ataque**.
+  
+| Alma Hextech - Efecto |
+|:----------------------|
+| Ralentiza con daño aplicado |
+| Se activa cada pocos segundos por enemigo |
+| Ideal para perseguir o kitear enemigos |
+
+---
+
+# 3. Terreno Hextech
+
+Cuando el mapa se transforma en **Hextech Rift**:
+
+| Cambios en el mapa |
+|:-------------------|
+| **Portales Hextech** aparecen por todo el mapa. |
+| Permiten **teletransportarse** entre portales emparejados. |
+| Uso estratégico: rotaciones rápidas, ganks sorpresa, escapes. |
+
+**Los Portales Hextech** son **instantáneos** y te lanzan de un portal a otro **en un segundo**.
+
+**Ubicaciones típicas de portales:**
+- Entre jungla y líneas.
+- Cerca de los campamentos de la jungla.
+- En los flancos alrededor del foso del dragón y del Barón.
+
+---
+
+# 4. Estrategia con Dragón Hextech
+
+| Estrategia | Explicación |
+|:-----------|:------------|
+| Controlar portales | Los portales permiten emboscadas. ¡Coloca visión cerca de ellos! |
+| Velocidad de ataque | Perfecto para composiciones de daño constante (DPS), como ADCs de hipercarry. |
+| Habilidad de ralentizar | Ideal para campeones que persiguen o kitean, como Vayne, Ashe, Ezreal. |
+| Movilidad extra | Combos sorpresivos de asesinos usando portales para saltar líneas |
+
+---
+
+# 5. ¿Qué composiciones aprovechan mejor el Dragón Hextech?
+
+| Composición | Beneficio |
+|:------------|:----------|
+| DPS de ataque rápido (Jinx, Kai’Sa) | Más velocidad de ataque = más daño |
+| Equipos de poke (Jayce, Ezreal) | Más habilidad de spamear habilidades |
+| Asesinos (Zed, Talon) | Portales para entradas y salidas rápidas |
+| Supports de engage (Leona, Nautilus) | Portales permiten iniciar peleas sorpresivas |
+
+---
+
+# 6. Resumen del Dragón Hextech
+
+| Aspecto | Detalle |
+|:--------|:--------|
+| Buff básico | +Velocidad de ataque, +Aceleración de habilidades |
+| Alma | Ralentización automática al dañar enemigos |
+| Terreno | Portales Hextech que permiten saltos rápidos |
+| Prioridad | Muy alta si tu composición se basa en engage o DPS rápido |
+
+# 🛡️ Mejor Campeón de Support para Empezar en League of Legends
+
+---
+
+# 1. Mejor campeón para empezar: **Leona**
+
+- **Estilo**: Tank/Engage (Iniciadora)
+- **Dificultad**: Baja-Media (fácil de aprender fundamentos de support)
+- **Por qué es buena**:
+  - Mucha **durabilidad** (aguanta mucho daño).
+  - **Engages directos** y sencillos (entrar y atrapar enemigos).
+  - No necesita mucho oro para ser útil.
+  - Perdona errores: puedes fallar y seguir siendo relevante.
+
+---
+
+# 2. Runas recomendadas para Leona
+
+## Primaria: Valor (Resolve)
+
+| Runa | Efecto |
+|:----|:-------|
+| **Garras del Inmortal** | Golpear campeones aumenta tu vida máxima y cura |
+| **Demoler** | Golpea torres con extra de daño |
+| **Fuerzas Renovadas** | Curación tras recibir daño |
+| **Inquebrantable** | Tenacidad y resistencia tras usar hechizos de invocador |
+
+## Secundaria: Inspiración (Inspiration)
+
+| Runa | Efecto |
+|:----|:-------|
+| **Momento Oportuno** | Cronómetro gratuito para dives y engages |
+| **Perspicacia Cósmica** | Reducción de enfriamiento en hechizos y objetos |
+
+## Fragmentos (pequeñas mejoras)
+
+- +Vida escalable
+- +Resistencia mágica
+- +Armadura
+
+---
+
+# 3. Build (Objeto recomendado para Leona)
+
+## Objetos principales:
+
+| Objeto | Efecto |
+|:------|:-------|
+| **Medallón de los Solari de Hierro** | Escudo de área para tu equipo |
+| **Baluarte de Montaña** (ítem de support) | Da visión, da oro y aguanta |
+| **Botas Blindadas** o **Botas de Mercurio** | Según el tipo de daño enemigo |
+| **Promesa del Caballero** | Protege a tu ADC (redirige parte del daño que le hagan a ti) |
+| **Convergencia de Zeke** | Sinergiza con tus engages para dar daño extra a tu ADC |
+
+## Situacionales:
+
+- **Fuerza de la Naturaleza** (vs AP fuerte)
+- **Corazón de Acero** (para aún más tankiness)
+- **Voto del Protector** (extra protección a tu ADC)
+
+---
+
+# 4. Combo básico de Leona (para iniciar):
+
+1. **E** ("Hoja del Zenith") — Avanzas y te enganchas al enemigo.
+2. **Q** ("Escudo del Alba") — En cuanto llegues, autoataque + aturdes.
+3. **R** ("Llamarada Solar") — Lanzas la ultimate para ralentizar y stunear más.
+
+**Consejo**:  
+- No uses tu "E" a ciegas. Asegúrate de que tu ADC o tu jungla estén cerca para acompañar.
+- Usa tu ultimate en los objetivos más peligrosos o para cortar escapes.
+
+---
+
+# 5. ¿Por qué es ideal para aprender?
+
+- Aprendes sobre:
+  - **Visión** (wardear y deswardear)
+  - **Engage Timing** (cuándo iniciar una pelea)
+  - **Protección del ADC**
+  - **Rotaciones** (desplazarte a mid y ayudar)
+- **Errores no son muy castigados**: puedes fallar habilidades y seguir tanqueando.
+
+---
+
+# 📈 En resumen:
+
+| Aspecto | Resumen |
+|:--------|:--------|
+| Campeón | **Leona** |
+| Rol | Engage Tank Support |
+| Runas | Valor + Inspiración |
+| Build | Medallón + Promesa + Baluarte + Botas resistentes |
+| Dificultad | **Baja** para empezar, escalable a niveles altos |
+
+---
+
+# 🧠 Nota Extra
+
+Si prefieres un estilo **de curación y protección** en lugar de **entrar a pelear**, otra opción es:
+
+**Campeón alternativo**: **Janna**  
+- Runas: Invocar a Aery.
+- Estilo: Proteger a tus compañeros, no entrar a pelear directamente.
+
+Pero **para aprender fuerte y rápido**, **Leona** es la mejor opción.
+
+
+
+
+
+     
