@@ -3031,7 +3031,1799 @@ Si prefieres un estilo **de curación y protección** en lugar de **entrar a pel
 Pero **para aprender fuerte y rápido**, **Leona** es la mejor opción.
 
 
+# 🛡️ Otros Supports Fáciles para Empezar
 
+| Campeón | Estilo | Ventajas |
+|:--------|:-------|:---------|
+| **Nautilus** | Tank/Engage | Muy sencillo: un gancho (Q) garantiza iniciaciones. Mucho CC. |
+| **Blitzcrank** | Hook/Disruptor | Diversión máxima: ganchos que cambian peleas. Muy potente en soloQ. |
+| **Morgana** | Anti-CC/Protección | Escudo de magia + raíz de largo alcance. Ideal para proteger y atrapar. |
+| **Lux** | Mago Support | Pokeo seguro a distancia y mucho control de zona con ultimate. |
+| **Yuumi** | Healer Support | Fácil mecánicamente, pero depende 100% de su compañero. Perfecta si quieres aprender apoyo puro.|
+
+**Recomendación**:  
+- Si quieres **aprender a pelear** ➔ **Nautilus** o **Blitzcrank**.  
+- Si quieres **proteger** ➔ **Morgana** o **Lux**.
+
+---
+
+# 🧭 Guía Rápida: Primeros Minutos como Support
+
+## 1. **Nivel 1-2**:
+
+- Ayuda a tu jungla en la salida (leash) si es necesario.
+- Trata de controlar el arbusto lateral de bot lane.
+- No te expongas mucho: a niveles bajos puedes morir fácil.
+
+## 2. **Nivel 3-6**:
+
+- Aprovecha tus habilidades: la mayoría de supports de engage tienen todo el combo al nivel 3.
+- Coloca tu primer **ward de control** (pinky) en el río o en el tribush.
+- **Comunícate**: avisa si ves al jungla enemigo o si falta alguien.
+
+## 3. **Post-6 (después de tener ultimate)**:
+
+- Busca **engages** o **ayuda al jungla** en dragón.
+- **Rota al medio (mid)** si tu botlane está pusheada.
+- Ayuda a colocar visión en zonas neutrales importantes (Dragón y Heraldo).
+
+---
+
+# ⚠️ Errores Comunes que Debes Evitar como Support
+
+| Error | Cómo solucionarlo |
+|:------|:------------------|
+| Overextend sin visión | Siempre wardea antes de entrar en zonas oscuras |
+| Iniciar peleas sin tu equipo cerca | Asegúrate de que tu ADC y jungla te sigan |
+| No usar los wards | Compra **wards de control** (pinks) constantemente |
+| No proteger a tu ADC | Tu trabajo no siempre es iniciar; a veces debes peel (cubrir) |
+| No rotar después de tomar la torre | Si bot cae, ayúdate a rotar a mid para seguir empujando |
+
+---
+
+# 🎯 Tabla de Wards Básicos para Support
+
+| Momento | Dónde colocar |
+|:--------|:--------------|
+| Early (0-10 min) | Arbustos del río y tribush |
+| Mid game (10-20 min) | Río central, dragón y heraldo |
+| Late game (20+ min) | Baron, caminos principales del enemigo |
+
+---
+
+# 📚 Resumen Rápido para Mejorar como Support
+
+- **El mapa es tuyo**: visión, control, engages.
+- **Adáptate al ADC**: si es débil, protégelo; si es fuerte, juega agresivo.
+- **No necesitas kills**: tu éxito se mide en control y utilidad.
+- **La visión gana partidas**: más wards colocados y destruidos = ventaja de mapa.
+
+---
+
+# 🛡️ Hoja de Ruta: Entrenamiento para Ser un Gran Support en League of Legends
+
+---
+
+# 🗓️ Semana 1: Fundamentos y Visión
+
+**Objetivos:**
+- Entender el concepto de visión: wardear y deswardear.
+- Controlar el minimapa cada 5 segundos.
+
+**Tareas:**
+- Coloca siempre tu **ward trinket** en arbustos clave (río, tribush, dragón).
+- Compra al menos **1 pink ward** cada vez que vuelvas a base.
+- Rompe **wards enemigos** siempre que puedas (¡usan el oráculo!).
+
+**Consejo extra:**
+- Mira repeticiones de tus partidas y revisa **si usaste bien los wards**.
+
+---
+
+# 🗓️ Semana 2: Gestión de Línea y Peel
+
+**Objetivos:**
+- Aprender a proteger y a seguir el tempo de tu ADC.
+- Saber cuándo ser agresivo o cuándo ser defensivo.
+
+**Tareas:**
+- **No uses habilidades a lo loco**: guarda tu CC para peel si tu ADC es débil.
+- Practica estar **SIEMPRE** entre tu ADC y el peligro.
+- Aprende **cuándo hacer trade** (pelea corta) solo cuando tu ADC puede seguirte.
+
+**Consejo extra:**
+- Juega con amigos si puedes, para mejorar la comunicación en botlane.
+
+---
+
+# 🗓️ Semana 3: Timing de Rotaciones
+
+**Objetivos:**
+- Aprender a rotar tras tomar la primera torre.
+- Ayudar a mid y jungla después de bot.
+
+**Tareas:**
+- Cuando tires torre de bot, **no te quedes farmeando**.
+- Ayuda a colocar visión profunda en la jungla enemiga de dragón.
+- Gankea (ayuda) a mid con tu ADC o con tu jungla.
+
+**Consejo extra:**
+- Sé **proactivo**: no esperes a que pase algo, crea la oportunidad.
+
+---
+
+# 🗓️ Semana 4: Engages y Teamfights
+
+**Objetivos:**
+- Perfeccionar cuándo iniciar una pelea.
+- Saber cuándo **no** iniciar (evitar throweos).
+
+**Tareas:**
+- Practica usar tu engage solo cuando **tu equipo esté cerca**.
+- Aprende a **distinguir targets prioritarios** (atrapar al carry enemigo, no al tanque).
+- Si tu engage falla, **cubre a tu equipo** para que puedan retirarse.
+
+**Consejo extra:**
+- **No siempre es tu culpa** si la pelea sale mal, pero siempre revisa si el engage fue bueno.
+
+---
+
+# 🗓️ Semana 5: Objetivos y Macro Juego
+
+**Objetivos:**
+- Entender la importancia de dragones, barón y torres.
+- Planear la visión alrededor de los objetivos.
+
+**Tareas:**
+- Siempre prepara **visión previa** al dragón o al barón **30-40 segundos antes** de que salgan.
+- Nunca pelees sin visión en zonas oscuras.
+- Coordina con tu jungla la toma de objetivos.
+
+**Consejo extra:**
+- Aprende a **forzar errores del enemigo** jugando alrededor de objetivos.
+
+---
+
+# 📈 Evaluación Mensual
+
+**Preguntas que debes hacerte:**
+- ¿Cuántos wards coloco por partida? (Meta: más de 20 en partidas largas)
+- ¿Cuántos pink wards compro? (Meta: mínimo 3-4 por partida)
+- ¿Mi ADC sobrevive más cuando yo estoy?
+- ¿Hago engages que ganan peleas o que causan derrotas?
+- ¿Estoy presente en la pelea del dragón/barón siempre?
+
+---
+
+# 🎯 Tips generales durante todo el entrenamiento
+
+- **Aprende de Supports Pro**: Mira partidas de Keria, Mikyx o Hylissang.
+- **Juega varios tipos de supports**: tanques, protectores y magos.
+- **Comunicación > Mecánicas**: un support que avisa y guía al equipo tiene enorme impacto.
+- **Juega muchas partidas**: nada reemplaza la práctica real.
+
+---
+
+# 🧠 Estrategias Básicas en Botlane (ADC + Support)
+
+---
+
+# 📈 1. Push + Roam
+
+**¿Qué es?**
+- Empujar rápido la oleada bajo la torre enemiga.
+- Rotar (moverse) hacia el medio o hacia la jungla enemiga para ayudar o colocar visión.
+
+**¿Cuándo hacerlo?**
+- Si el jungla enemigo está en top side (parte de arriba del mapa).
+- Si tu ADC puede farmear bajo torre solo durante 30 segundos.
+
+**Beneficios:**
+- Creas presión en bot.
+- Puedes ayudar a mid a sacar ventaja.
+- Puedes asegurar visión profunda en la jungla enemiga.
+
+---
+
+# ❄️ 2. Freeze Defensivo
+
+**¿Qué es?**
+- Dejar que los súbditos enemigos queden cerca de tu torre sin matarlos rápido.
+- Solo lasthitear (dar el último golpe) para mantener la línea estática.
+
+**¿Cuándo hacerlo?**
+- Si vas perdiendo o tu ADC necesita farmear seguro.
+- Cuando el jungla enemigo esté cerca y quieras evitar engages.
+
+**Beneficios:**
+- Minimiza el riesgo de ser diveados (atacados bajo torre).
+- Obliga al ADC enemigo a sobreextender para farmear.
+
+---
+
+# 🚶‍♂️ 3. Slow Push
+
+**¿Qué es?**
+- Matar solo los súbditos magos (de atrás) y dejar que la oleada se acumule lentamente.
+
+**¿Cuándo hacerlo?**
+- Antes de hacer un back seguro (recall).
+- Antes de preparar un objetivo como el dragón.
+
+**Beneficios:**
+- Creas una oleada grande que presiona torre enemiga.
+- Permite moverte a otro objetivo sin perder tantos súbditos.
+
+---
+
+# 🛡️ 4. Protect ADC
+
+**¿Qué es?**
+- Quedarte siempre cerca de tu ADC en peleas, usando habilidades defensivas o de peel.
+
+**¿Cuándo hacerlo?**
+- Si tu ADC es la fuente principal de daño (Jinx, Kai'Sa, Aphelios).
+- Si los enemigos tienen muchos asesinos (Zed, Kha'Zix).
+
+**Beneficios:**
+- Garantiza que el ADC pueda hacer daño en la pelea sin morir rápidamente.
+- Proteges la condición de victoria de tu equipo.
+
+---
+
+# ❌ Errores Comunes en Teamfights como Support
+
+| Error | Por qué es malo | Cómo evitarlo |
+|:------|:---------------|:--------------|
+| Iniciar sin tu equipo | Te matan fácil y pierden la pelea | Mira siempre tu minimapa antes de iniciar |
+| Usar CC en el tanque | No sirve mucho, pierdes habilidades importantes | Guarda tus habilidades para el carry enemigo |
+| Olvidar proteger a tu ADC | Sin protección, el ADC muere rápido | Siempre revisa si tu ADC necesita peel |
+| No colocar visión antes de pelear | Peleas en desventaja | 40 segundos antes del objetivo, wardea |
+| Usar mal el escudo o la curación | Gastarlas antes del daño verdadero | Guarda skills defensivas para el daño real |
+
+---
+
+# 📚 Resumen Estratégico
+
+- **Antes de la pelea** ➔ Control de visión, slowpush y rotaciones inteligentes.
+- **Durante la pelea** ➔ Iniciar bien, proteger a quien más daño puede hacer.
+- **Después de la pelea** ➔ Caza enemigos rezagados y asegura objetivos (torres, dragones).
+
+
+# 🥇 Mejor Campeón ADC para Principiantes: **Miss Fortune**
+
+---
+
+## 📖 ¿Por qué Miss Fortune?
+
+| Ventaja | Explicación |
+|:--------|:------------|
+| **Fácil de usar** | Habilidades intuitivas, no necesita mecánicas complicadas. |
+| **Gran daño temprano** | Muy poderosa en los primeros niveles para dominar la bot lane. |
+| **Ulti devastadora** | Su R (`Bullet Time`) puede ganar peleas de equipo enteras. |
+| **Buen pokeo** | Puede desgastar al enemigo con sus habilidades (`Q` y `E`). |
+| **Flexible en builds** | Puede adaptarse a letalidad (daño explosivo) o crítico (daño sostenido). |
+
+---
+
+# 🛠️ Runas recomendadas para Miss Fortune
+
+## Opción 1: **Dominación - Cometa Arcano** (Poke y Daño temprano)
+
+- **Primaria: Dominación**
+  - Primer golpe (`Primer Golpe`) o `Cometa Arcano`
+  - `Impacto Repentino`
+  - `Colección de Globos Oculares`
+  - `Cazador Voraz`
+- **Secundaria: Inspiración**
+  - `Entrega de Galletas`
+  - `Momento Oportuno` o `Calzado Mágico`
+
+**¿Por qué?** ➔ Aumenta tu daño al pokear con la Q y la E en fase de líneas.
+
+---
+
+## Opción 2: **Precisión - Pies Veloces** (Supervivencia y Sostenimiento)
+
+- **Primaria: Precisión**
+  - `Pies Veloces`
+  - `Claridad Mental`
+  - `Leyenda: Linaje`
+  - `Golpe de Gracia`
+- **Secundaria: Brujería**
+  - `Celeridad`
+  - `Tormenta Creciente`
+
+**¿Por qué?** ➔ Mejoras tu curación y movilidad para sobrevivir y escalar en la partida.
+
+---
+
+# 🛒 Build típica para Miss Fortune
+
+### 🌟 Ítems principales:
+
+1. **Filoscuro de Draktharr** *(si quieres daño explosivo / letalidad)*  
+2. **Verdugo de Krakens** *(si quieres daño sostenido crítico contra tanques)*
+
+### 🧩 Ítems secundarios:
+
+- **Recolector** ➔ mucho daño y ejecuta enemigos.
+- **Filo Infinito** ➔ gran aumento de daño crítico.
+- **Cañón de Fuego Rápido** ➔ rango adicional para pegar desde más lejos.
+- **Ángel Guardián** ➔ una segunda vida en peleas.
+- **Recordatorio Mortal** ➔ reduce curaciones enemigas.
+
+---
+
+# 🎮 Consejos para jugar Miss Fortune
+
+| Consejo | Explicación |
+|:--------|:------------|
+| **Abusa del early game** | Tienes uno de los daños iniciales más fuertes; presiona y castiga constantemente. |
+| **Colócate bien en peleas** | Quédate detrás de tus aliados para lanzar tu ulti segura (`Bullet Time`). |
+| **Usa bien tu Q** | Si golpeas a un minion bajo de vida y la Q rebota a un enemigo, haces daño crítico. |
+| **Sé paciente con la R** | No la gastes en cuanto veas enemigos; espera a que estén controlados (CC). |
+
+---
+
+# 📊 Estadísticas de Miss Fortune
+
+- **Dificultad**: ⭐⭐☆☆☆ (2/5)
+- **Poder en Early Game**: ⭐⭐⭐⭐☆ (4/5)
+- **Escalado a Late Game**: ⭐⭐⭐☆☆ (3/5)
+- **Movilidad**: ⭐⭐☆☆☆ (2/5)
+- **Impacto en Teamfights**: ⭐⭐⭐⭐☆ (4/5)
+
+---
+
+# 🎯 Plan de Entrenamiento para Ser un Gran ADC en League of Legends
+
+---
+
+## 🧠 Principios Fundamentales de un ADC
+
+Antes de lanzarte al entrenamiento, recuerda:
+
+- **Tu prioridad es sobrevivir y hacer daño**.
+- **No te sobreextiendas**: un ADC muerto no hace daño.
+- **Tu posición en las peleas es tu vida**.
+- **El farmeo es tu principal fuente de poder**.
+
+---
+
+# 🗺️ Estructura del Entrenamiento
+
+Organizaremos tu mejora en 5 áreas:
+
+1. **Farm y oro** (CS)
+2. **Kiting y posicionamiento**
+3. **Control de visión**
+4. **Entendimiento de peleas** (Teamfights)
+5. **Map awareness y macrojuego**
+
+---
+
+# 1️⃣ Farm y Control de Oleadas (CS)
+
+## Objetivo
+- Alcanzar **+80 súbditos a los 10 minutos**.
+- Luego llegar a **+200 súbditos a los 20 minutos**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Practicar en modo entrenamiento** | 10-15 minutos de solo farmear sin enemigos. |
+| **Last hit bajo torre** | Aprende el timing correcto: melee (2 golpes + básico), magos (básico tras daño de torre). |
+| **Gestionar la oleada** | Aprende a Freezear, Pushear lento, Pushear rápido.
+
+## Tip:
+- **Cada 15 CS** equivalen a **aproximadamente 1 kill** en oro.
+
+---
+
+# 2️⃣ Kiting y Posicionamiento
+
+## Objetivo
+- **Moverte mientras atacas** para evitar daño.
+- **Mantener distancia segura**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Attack Move** | Usa clics rápidos (`A` + clic izquierdo) mientras caminas. |
+| **Kiteo contra bots** | Entra a modo práctica y "kitea" mobs o enemigos. |
+| **Posicionamiento en teamfights** | Juega scrims enfocándote solo en no morir mientras pegas.
+
+## Tip:
+- **El mejor ADC** es el que **pega todo el tiempo** sin ser atrapado.
+
+---
+
+# 3️⃣ Control de Visión
+
+## Objetivo
+- Usar **wards ofensivos** para atacar y **wards defensivos** para defender.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Controla arbustos enemigos** | Wardea siempre antes de pushear. |
+| **Compra siempre un Guardián de Visión** | ("Pink ward") cada vez que regreses a base. |
+| **Ayuda a tu support** | Pinguea zonas sin visión.
+
+## Tip:
+- La visión **salva tu vida** y **permite ganks exitosos**.
+
+---
+
+# 4️⃣ Entendimiento de Peleas (Teamfights)
+
+## Objetivo
+- **Pegar al objetivo más cercano seguro** (focus correcto).
+- **No saltar sobre enemigos a menos que sea seguro**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Mira partidas profesionales** | Observa cómo los ADCs priorizan su supervivencia. |
+| **Revisa tus repeticiones** | Corrige errores de posición y foco.
+| **Practica objetivos cercanos** | No trates de matar al asesino, mata al tanque si es más seguro.
+
+## Tip:
+- **Vive primero, haz daño segundo**.
+
+---
+
+# 5️⃣ Map Awareness y Macrojuego
+
+## Objetivo
+- **Mirar el minimapa cada 5-10 segundos**.
+- **Rotar adecuadamente** tras destruir torres.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Pinguea constantemente** | Informa a tu equipo si ves enemigos desaparecidos. |
+| **Rotaciones** | Tras tirar la primera torre, muévete al carril medio o ayuda en dragón/heraldo.
+| **Sé consciente del jungla enemigo** | Siempre presume que **puede venir a matarte**.
+
+## Tip:
+- Un buen ADC **se mueve con su equipo** después de la fase de líneas.
+
+---
+
+# 📅 Programa Semanal de Entrenamiento
+
+| Día | Ejercicio Principal | Meta diaria |
+|:---|:---------------------|:------------|
+| Lunes | Solo Farm | 90 CS a los 10 min. |
+| Martes | Kiting | 20 minutos kiteando bots. |
+| Miércoles | Visión | 5+ wards comprados y colocados. |
+| Jueves | Teamfights | 3 partidas enfocadas en posicionamiento. |
+| Viernes | Map Awareness | Ping cada 10s y rotaciones limpias. |
+| Sábado | Scrim completo | Jugar con mentalidad de torneo. |
+| Domingo | Repaso | Revisar repeticiones de 2 partidas.
+
+---
+
+# 🎯 Consejos de Mentalidad
+
+- **No te frustres si mueres**: analiza por qué sucedió.
+- **Enfócate en los errores que puedes controlar**.
+- **Cada partida debe tener un objetivo claro de mejora** (por ejemplo: farmear mejor, wardear mejor, kitear mejor).
+
+---
+
+
+
+# 🥇 Mejor Campeón de Mid para Principiantes: **Annie**
+
+---
+
+## 📖 ¿Por qué Annie?
+
+| Ventaja | Explicación |
+|:--------|:------------|
+| **Muy fácil de aprender** | Habilidades claras, sin mecánicas complicadas. |
+| **Gran burst de daño** | Puede eliminar enemigos rápidamente. |
+| **Control de masas potente** | Su aturdimiento (`stun`) con la pasiva es muy fácil de usar. |
+| **Segura en fase de líneas** | Buen rango para farmear sin arriesgarse mucho. |
+| **Impacto enorme en teamfights** | Su ulti (`Tiburón de fuego Tibbers`) puede cambiar una pelea entera. |
+
+---
+
+# 🛠️ Runas recomendadas para Annie
+
+## Precisión mágica y control de peleas
+
+- **Primaria: Brujería**
+  - `Invocar: Aery` ➔ para hacer daño extra o proteger ligeramente.
+  - `Banda de maná` ➔ para no quedarte sin recursos.
+  - `Trascendencia` ➔ CDR gratis (reducción de enfriamiento).
+  - `Piroláser` ➔ daño extra al acertar habilidades.
+
+- **Secundaria: Inspiración**
+  - `Momento Oportuno` ➔ obtienes un Zhonya gratuito (parar ataques enemigos).
+  - `Entrega de Galletas` ➔ para sostenerte mejor en línea.
+
+**¿Por qué?** ➔ Mejoras tu poder de pokeo, de control y sobrevives mejor en las fases complicadas.
+
+---
+
+# 🛒 Build típica para Annie
+
+### 🌟 Ítems principales:
+
+1. **Tempestad de Luden** ➔ para hacer mucho daño de burst con las habilidades.
+2. **Reloj de Arena de Zhonya** ➔ para esquivar iniciaciones o diveos.
+3. **Sombrero mortal de Rabadon** ➔ aumenta brutalmente tu AP.
+
+### 🧩 Ítems secundarios:
+
+- **Velo del Hada de la Muerte** ➔ evita que te controlen primero en peleas.
+- **Bastón del Vacío** ➔ penetra resistencias mágicas de enemigos.
+- **Morellonomicón** ➔ corta curaciones enemigas.
+- **Llameante** (Llamasombría) ➔ si quieres mejorar daño en áreas.
+
+---
+
+# 🎮 Consejos para jugar Annie
+
+| Consejo | Explicación |
+|:--------|:------------|
+| **Controla tu pasiva** | Tu pasiva carga un stun. Asegúrate de entrar en pelea cuando tengas el stun disponible. |
+| **Sé paciente con Tibbers** | No tires tu ulti si solo hay un enemigo débil. Espera el mejor momento para stunear a varios. |
+| **Farmea bien** | Annie depende mucho de tener objetos pronto, así que intenta no perder súbditos innecesariamente. |
+| **Rotaciones** | Después de empujar tu línea, busca ayudar bot o jungla.
+| **Pokeo sencillo** | Una `Q` + `Autoataque` es un combo de daño seguro en línea.
+
+---
+
+# 📊 Estadísticas de Annie
+
+- **Dificultad**: ⭐⭐☆☆☆ (2/5)
+- **Poder en Early Game**: ⭐⭐⭐⭐☆ (4/5)
+- **Escalado a Late Game**: ⭐⭐⭐☆☆ (3/5)
+- **Movilidad**: ⭐⭐☆☆☆ (2/5)
+- **Impacto en Teamfights**: ⭐⭐⭐⭐☆ (4/5)
+
+---
+
+# 🎯 Plan de Entrenamiento para Ser un Gran Mid Laner en League of Legends
+
+---
+
+## 🧠 Principios Fundamentales de un Mid Laner
+
+- **Dueño del centro del mapa**: puedes rotar a cualquier lado rápidamente.
+- **Responsable de la presión y visión del medio**.
+- **Debe balancear agresividad y supervivencia**.
+- **Puede definir partidas solo** si sabe moverse bien.
+
+---
+
+# 🗺️ Áreas Clave del Entrenamiento
+
+Entrenaremos en 6 pilares:
+
+1. **Farm y control de oleadas**
+2. **Dominio 1v1 y presión**
+3. **Control de visión en mid**
+4. **Rotaciones y roaming**
+5. **Teamfights y posicionamiento**
+6. **Map awareness y macrojuego**
+
+---
+
+# 1️⃣ Farm y Control de Oleadas
+
+## Objetivo
+- Superar **80-90 súbditos a los 10 minutos**.
+- Dominar **freezeo**, **push controlado** y **fast push**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Modo práctica** | 10 min diarios de farm sin enemigos. |
+| **Last hit bajo presión** | Juega bots agresivos para practicar last hit bajo hostigamiento. |
+| **Gestión de oleadas** | Practica freezear, pushear lento y rápido según necesidad.
+
+## Tip:
+- Una **oleada bien manejada** equivale a **control total del carril**.
+
+---
+
+# 2️⃣ Dominio 1v1 y Presión
+
+## Objetivo
+- **Controlar el ritmo** del carril.
+- **Saber cuándo intercambiar daño y cuándo jugar seguro**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Practicar intercambios** | Da un básico + habilidad + básico. |
+| **Estudia "trading patterns"** | Cuándo y cómo golpear según el campeón. |
+| **Mini-juegos 1v1** | Entrena con un amigo: 5 intercambios perfectos sin morir.
+
+## Tip:
+- Si **ganas presión** en mid, **puedes rotar** y apoyar otras líneas.
+
+---
+
+# 3️⃣ Control de Visión en Mid
+
+## Objetivo
+- Evitar ganks enemigos.
+- Preparar rotaciones ofensivas.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Wardeo de arbustos laterales** | Wards en "brush" izquierdo y derecho. |
+| **Wardeo profundo** | Cuando pushees, entra en su jungla a poner wards avanzados.
+| **Sentinelas de control** | Siempre lleva y coloca pink wards.
+
+## Tip:
+- La **visión correcta** te hará **imposible de gankear**.
+
+---
+
+# 4️⃣ Rotaciones y Roaming
+
+## Objetivo
+- Ayudar a bot, top o jungla en el momento correcto.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Mirar bot/top constantemente** | Cada 10-15 segundos, chequea otras líneas. |
+| **Roams efectivos** | Tras pushear fuerte, mueve hacia río y baja a bot/top. |
+| **Evita roams innecesarios** | Si la oleada está mal, quédate farmeando.
+
+## Tip:
+- **Roamear exitosamente** te convierte en el **rey del mapa**.
+
+---
+
+# 5️⃣ Teamfights y Posicionamiento
+
+## Objetivo
+- Hacer **máximo daño sin morir**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Ubicación tras frontline** | Siempre quédate detrás de tanques/amigos. |
+| **Focus correcto** | Daño primero al objetivo más fácil (frontline si no puedes llegar al carry).
+| **Ultis en área** | Si tu campeón tiene daño en área (ej. Orianna), entrena ultis multi-objetivo.
+
+## Tip:
+- **Un mago vivo** puede **voltear una teamfight**.
+
+---
+
+# 6️⃣ Map Awareness y Macrojuego
+
+## Objetivo
+- Saber cuándo rotar, cuándo presionar y cuándo retirarse.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Mirar minimapa cada 5 segundos** | No solo lo veas, **interpreta**: ¿Dónde están todos? ¿Quién falta? |
+| **Rotaciones tras kill** | Si matas al mid enemigo, ayuda a bot, top o invade jungla enemigo.
+| **No sobreextendirse** | Si no ves al jungla, juega seguro.
+
+## Tip:
+- **Un buen mid laner piensa como un mini-jungla**: todo el mapa es su campo de batalla.
+
+---
+
+# 📅 Programa Semanal de Entrenamiento
+
+| Día | Ejercicio Principal | Meta diaria |
+|:---|:---------------------|:------------|
+| Lunes | Farm intensivo | 90 CS a 10 min |
+| Martes | 1v1 Control | 5 trades ganados vs bots o amigos |
+| Miércoles | Wards correctos | +5 wards colocados por partida |
+| Jueves | Roaming | 3 roams exitosos |
+| Viernes | Teamfights | Sobrevivir + hacer daño |
+| Sábado | Macrojuego | Rotaciones tras kills o torres |
+| Domingo | Repaso | Revisar 2 repeticiones y anotar errores
+
+---
+
+# 🎯 Consejos de Mentalidad para Mid Laners
+
+- **Sé un estratega**: piensa más allá de tu carril.
+- **No tiltearte**: el mid puede cargar incluso partidas complicadas.
+- **Aprende diferentes estilos**: magos, asesinos, control.
+
+---
+
+# 📘 Campeones Recomendados para Empezar Mid Lane
+
+| Campeón | Tipo | Por qué |
+|:--------|:-----|:-------|
+| **Annie** | Mago de burst | Fácil, control de masas, útil en todas las elos. |
+| **Lux** | Mago de poke | Bueno para aprender distancia y habilidades de zona. |
+| **Malzahar** | Mago de control | Seguro, puede limpiar oleadas y ultear de forma sencilla. |
+
+---
+
+---
+
+# 🥇 Mejor Campeón de Top para Principiantes: **Garen**
+
+---
+
+## 📖 ¿Por qué Garen?
+
+| Ventaja | Explicación |
+|:--------|:------------|
+| **Extremadamente fácil de usar** | Habilidades directas, sin combos complicados. |
+| **Muy resistente** | Mucha vida, regeneración alta. |
+| **Gran daño** | Puede eliminar carries enemigos si se acerca. |
+| **No depende de maná** | Puedes usar tus habilidades sin preocuparte por recursos. |
+| **Buena movilidad** | Con su `Q` y su `E` puede acercarse rápido o escapar.
+| **Impacto sencillo en peleas** | Su `R` (Justicia Demaciana) ejecuta a enemigos debilitados.
+
+---
+
+# 🛠️ Runas recomendadas para Garen
+
+## Para resistencia y aguante
+
+- **Primaria: Valor**
+  - `Garras del Inmortal` ➔ daño adicional y vida extra en intercambios.
+  - `Demoler` ➔ ayuda a destruir torretas rápidamente.
+  - `Condicionamiento` ➔ escala tus resistencias en mid/late game.
+  - `Inquebrantable` ➔ para resistir mejor control de masas.
+
+- **Secundaria: Precisión**
+  - `Triunfo` ➔ curación tras kills o asistencias.
+  - `Golpe de Gracia` ➔ hace más daño a enemigos bajos de vida.
+
+**¿Por qué?** ➔ Así te vuelves un muro difícil de matar y sigues siendo una amenaza ofensiva.
+
+---
+
+# 🛒 Build típica para Garen
+
+### 🌟 Ítems principales:
+
+1. **Fuerza de la Trinidad** ➔ da todo lo que necesita: daño, vida, velocidad de movimiento.
+2. **Cota de Espinas** ➔ contra enemigos que curan mucho.
+3. **Fuerza de la Naturaleza** ➔ contra equipos con mucho daño mágico.
+
+### 🧩 Ítems secundarios:
+
+- **Malla de Espinas** ➔ reflejar daño y reducir curaciones.
+- **Corazón de Acero** ➔ para ser aún más tanque y escalar vida.
+- **Placa del Hombre Muerto** ➔ para moverte más rápido entre líneas y entrar mejor en peleas.
+
+---
+
+# 🎮 Consejos para jugar Garen
+
+| Consejo | Explicación |
+|:--------|:------------|
+| **Controla tus intercambios** | Usa la `Q` para silenciar al enemigo y luego girar con la `E`. |
+| **Aprovecha tu pasiva** | Si sales de combate, tu vida se regenera muy rápido. |
+| **Sé un splitpusher** | Garen es excelente para presionar líneas cuando los enemigos no pueden pararte 1v1. |
+| **Busca ejecuciones con la `R`** | No tengas miedo de usarla, tiene bajo enfriamiento en niveles altos.
+| **No sobreextiendas** | Aunque seas resistente, no eres invencible. Juega inteligente.
+
+---
+
+# 📊 Estadísticas de Garen
+
+- **Dificultad**: ⭐⭐☆☆☆ (2/5)
+- **Poder en Early Game**: ⭐⭐⭐⭐☆ (4/5)
+- **Escalado a Late Game**: ⭐⭐⭐☆☆ (3/5)
+- **Movilidad**: ⭐⭐⭐☆☆ (3/5)
+- **Impacto en Teamfights**: ⭐⭐⭐⭐☆ (4/5)
+
+---
+
+
+# 🎯 Plan de Entrenamiento para Ser un Gran Top Laner en League of Legends
+
+---
+
+## 🧠 Principios Fundamentales de un Top Laner
+
+- **Autonomía**: estás lejos del resto del mapa, debes sobrevivir y prosperar solo.
+- **Gestión de oleadas**: esencial para controlar la línea y sacar ventaja.
+- **Teleportación inteligente**: ayudar al equipo con TP en momentos clave.
+- **Presión dividida (Splitpush)**: convertirte en una amenaza constante en side lanes.
+- **Tanqueo o daño**: decidir si ser frontline o carry dependiendo del pick.
+
+---
+
+# 🗺️ Áreas Clave del Entrenamiento
+
+Trabajaremos en 6 grandes áreas:
+
+1. **Farm y control de oleadas**
+2. **Tradeo 1v1 y control de línea**
+3. **Gestión del Teleport**
+4. **Splitpush y presión en side lanes**
+5. **Teamfights y posicionamiento**
+6. **Macrogame y toma de decisiones**
+
+---
+
+# 1️⃣ Farm y Control de Oleadas
+
+## Objetivo
+- Alcanzar **80-90 súbditos a minuto 10**.
+- Dominar conceptos como **freezing**, **slow push** y **crash**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Modo práctica** | 10 minutos diarios de farm libre. |
+| **Last hit bajo torre** | Aprende a calcular daño de torre + básicos. |
+| **Gestión de oleadas** | Practica mantener freeze cerca de tu torre.
+
+## Tip:
+- Un **freeze bien hecho** te protege y fuerza errores del rival.
+
+---
+
+# 2️⃣ Tradeo 1v1 y Control de Línea
+
+## Objetivo
+- Ganar intercambios.
+- Castigar errores enemigos.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Practicar intercambios** | Usa habilidades + básicos + retirada. |
+| **Control del arbusto** | Gana la posición en el arbusto para controlar la visión. |
+| **Conocer tu power spike** | Identifica niveles donde eres más fuerte (ej: lvl 6).
+
+## Tip:
+- **Un buen primer intercambio** puede decidir toda la línea.
+
+---
+
+# 3️⃣ Gestión del Teleport
+
+## Objetivo
+- Aprovechar **TPs estratégicos** para cambiar el curso de la partida.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **TP a bot tras pushear** | No hagas TP si tu oleada va a perderse. |
+| **Guardar TP para dragones importantes** | Prioriza objetivos globales. |
+| **TP defensivo** | TP a torre para defender si te divean.
+
+## Tip:
+- **Un TP bien usado** gana teamfights o salva compañeros clave.
+
+---
+
+# 4️⃣ Splitpush y Presión en Side Lanes
+
+## Objetivo
+- Ser **incontenible** en el 1v1.
+- Forzar al enemigo a enviar dos jugadores.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Presionar cuando el objetivo está lejos** | Si dragón/barón no son una amenaza inmediata. |
+| **Wardeo profundo en side lanes** | Protege tu splitpush con visión. |
+| **Mirar el mapa mientras pusheas** | No morir por rotaciones enemigas.
+
+## Tip:
+- **Un buen splitpush** fuerza al rival a elegir entre defender o perder el mapa.
+
+---
+
+# 5️⃣ Teamfights y Posicionamiento
+
+## Objetivo
+- Impactar en peleas como tanque, engage o daño.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Identificar tu rol** | ¿Eres frontline? ¿Inicias? ¿Zonas carries? |
+| **Focus correcto** | Golpear a quien puedas: no intentes pasar entre líneas innecesariamente.
+| **Flankeo** | Aprende a entrar desde ángulos laterales si tu campeón es asesino o iniciador.
+
+## Tip:
+- **Un buen engage o focus** desde top puede **barrer** la pelea.
+
+---
+
+# 6️⃣ Macrogame y Toma de Decisiones
+
+## Objetivo
+- Pensar en el **mapa completo** y no solo en tu línea.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Rotaciones post torre** | Tras tirar torre, ayuda a mid o bot. |
+| **Decidir entre split y teamfight** | Si llevas ventaja, quédate splitpusheando. |
+| **Aprender timings de objetivos** | Saber cuándo salir del split para dragones/barones.
+
+## Tip:
+- **Entender el mapa** es lo que diferencia a un top promedio de uno que **carga partidas**.
+
+---
+
+# 📅 Programa Semanal de Entrenamiento
+
+| Día | Ejercicio Principal | Meta diaria |
+|:---|:---------------------|:------------|
+| Lunes | Farm y gestión de oleadas | 90 CS a 10 minutos |
+| Martes | Tradeo 1v1 | 5 trades ganados seguidos |
+| Miércoles | Teleport táctico | 2 TPs útiles por partida |
+| Jueves | Splitpush seguro | 0 muertes innecesarias en side lanes |
+| Viernes | Teamfights | 1 engage/flank bueno en cada pelea |
+| Sábado | Macrogame | Tomar la mejor decisión 3 veces en mid/late |
+| Domingo | Repaso | Ver repeticiones de tus errores y corregir
+
+---
+
+# 📘 Campeones Recomendados para Empezar Top Lane
+
+| Campeón | Tipo | Por qué |
+|:--------|:-----|:-------|
+| **Garen** | Luchador/tanque | Simple, resistente, buen daño. |
+| **Malphite** | Tanque/iniciador | Muy fácil de jugar, inicia peleas masivas. |
+| **Shen** | Tanque/global | Permite practicar splitpush + teleport/ult global. |
+
+---
+
+# 🎯 Consejos Finales
+
+- **No tilt**: Top puede ser difícil si pierdes una vez, pero aún puedes splitpushear o aportar tanqueo.
+- **Aprende a ser autosuficiente**: en top, nadie te salva si fallas.
+- **Domina tu teleport y rotaciones**: los buenos tops afectan todo el mapa, no solo su línea.
+
+---
+
+---
+
+# 🥇 Mejor Campeón de Jungla para Principiantes: **Warwick**
+
+---
+
+## 📖 ¿Por qué Warwick?
+
+| Ventaja | Explicación |
+|:--------|:------------|
+| **Muy fácil de jugar** | No requiere mecánicas complicadas. |
+| **Gran regeneración de vida** | Se cura al golpear, permitiéndote farmear sin problemas. |
+| **Fácil de gankear** | Su `R` es un gran control de masas (sujeta al enemigo). |
+| **Buen rastreador** | Su pasiva lo orienta hacia enemigos de vida baja.
+| **No depende tanto del equipo** | Puede limpiar su jungla y cazar enemigos solos.
+
+---
+
+# 🛠️ Runas recomendadas para Warwick
+
+## Para duelos y gankeos efectivos
+
+- **Primaria: Precisión**
+  - `Compás Letal` ➔ aumenta tu velocidad de ataque durante las peleas.
+  - `Triunfo` ➔ curación tras kills o asistencias.
+  - `Leyenda: Tenacidad` ➔ reduce la duración del control de masas (CC).
+  - `Golpe de Gracia` ➔ hace más daño a enemigos bajos de vida.
+
+- **Secundaria: Valor**
+  - `Segundo Aliento` ➔ para aguantar mejor en la jungla o en duelos largos.
+  - `Inquebrantable` ➔ resistencia extra cuando peleas en situaciones complicadas.
+
+---
+
+# 🛒 Build típica para Warwick
+
+### 🌟 Ítems principales:
+
+1. **Chupasangre** ➔ mucha curación durante las peleas.
+2. **Hidra Titánica** ➔ más daño en área y más vida.
+3. **Malla de Espinas** ➔ contra campeones que se curan mucho.
+
+### 🧩 Ítems situacionales:
+
+- **Coraza del Muerto** ➔ moverte más rápido por el mapa.
+- **Fuerza de la Naturaleza** ➔ contra equipos con mucho daño mágico.
+- **Cuchilla Negra** ➔ contra enemigos con mucha armadura.
+
+---
+
+# 🎮 Consejos para jugar Warwick
+
+| Consejo | Explicación |
+|:--------|:------------|
+| **Prioriza tu jungla** | No pierdas mucho tiempo buscando gankeos innecesarios. |
+| **Gankea líneas avanzadas** | Usa tu olfato para perseguir enemigos de baja vida. |
+| **Cuidado al usar tu R** | Es tu principal herramienta de iniciación o remate.
+| **Controla dragones** | Gracias a tu curación, puedes hacer objetivos neutrales muy pronto.
+| **Sigue presionando** | Warwick es muy bueno en midgame: no dejes que el juego se alargue demasiado.
+
+---
+
+# 📊 Estadísticas de Warwick
+
+- **Dificultad**: ⭐⭐☆☆☆ (2/5)
+- **Poder en Early Game**: ⭐⭐⭐⭐☆ (4/5)
+- **Escalado a Late Game**: ⭐⭐⭐☆☆ (3/5)
+- **Movilidad**: ⭐⭐⭐☆☆ (3/5)
+- **Impacto en Teamfights**: ⭐⭐⭐⭐☆ (4/5)
+
+---
+
+# 🧩 Patrón básico de Warwick en partidas
+
+1. **Start en el buff rojo** (o azul si prefieres).
+2. **Farmea 3 campamentos**.
+3. **Gankea una línea cercana si ves oportunidad**.
+4. **Sigue farmeando y busca el primer dragón**.
+5. **Activa tu W si ves un enemigo débil cerca para cazarlo**.
+
+---
+
+
+
+# 🎯 Plan de Entrenamiento para Ser un Gran Jungler en League of Legends
+
+---
+
+## 🧠 Principios Fundamentales de la Jungla
+
+- **Control de mapa**: visión, información y control de objetivos.
+- **Impacto global**: puedes cambiar el destino de cualquier línea.
+- **Adaptación**: ajustarte al estado de tus líneas, no hacer siempre lo mismo.
+- **Gestión de recursos**: experiencia, oro y tiempos de campamentos.
+- **Objetivos neutrales**: dragones, Heraldo y Nashor son tu responsabilidad.
+
+---
+
+# 🗺️ Áreas Clave del Entrenamiento
+
+Trabajaremos en 6 grandes áreas:
+
+1. **Ruteo eficiente**
+2. **Gankeos inteligentes**
+3. **Control de visión**
+4. **Objetivos mayores**
+5. **Toma de decisiones rápida**
+6. **Macrogame y presión de mapa**
+
+---
+
+# 1️⃣ Ruteo Eficiente
+
+## Objetivo
+- Clear de campamentos **rápido y saludable**.
+- Entender **qué ruta conviene según el matchup**.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Modo práctica** | Practica clears hasta tener un patrón perfecto. |
+| **Clears optimizados** | Blue > Gromp > Wolves > Raptors > Red > Krugs (ruta estándar) |
+| **Adaptación** | Si ves a tu rival en top, puedes invadir bot-side.
+
+## Tip:
+- No pierdas tiempo entre campamento y campamento: **cadena limpia** de clears.
+
+---
+
+# 2️⃣ Gankeos Inteligentes
+
+## Objetivo
+- Gankear líneas cuando tienen presión favorable o enemigos mal posicionados.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Practicar lectura de líneas** | ¿Tiene tu laner CC? ¿El enemigo está pusheando mucho? |
+| **Caminar en zigzag** | Evita wards enemigos. |
+| **Postureo** | A veces solo aparecer fuerza un error o un flash.
+
+## Tip:
+- No forces gankeos innecesarios: **mejor farmear** que un mal gank.
+
+---
+
+# 3️⃣ Control de Visión
+
+## Objetivo
+- Dominar el **control de wards** en zonas clave.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Pink wards constantes** | Siempre comprar pinks en base. |
+| **Sweepers** | Usa lente reveladora para limpiar visión antes de invadir. |
+| **Vision ofensiva** | Wards en jungla enemiga para prever movimientos.
+
+## Tip:
+- **La jungla no es sólo farm**: **es visión, presión y control**.
+
+---
+
+# 4️⃣ Objetivos Mayores
+
+## Objetivo
+- Asegurar dragones, Heraldos y Nashor de manera eficiente.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Trackeo de smite** | Conoce el daño exacto de tu smite en todo momento. |
+| **Objetivos seguros** | No forzar si tu equipo está lejos o débil. |
+| **Rotaciones** | Preparar visión antes de iniciar un objetivo.
+
+## Tip:
+- **Un solo Heraldo bien usado** puede **derribar torres** y abrir el mapa.
+
+---
+
+# 5️⃣ Toma de Decisiones Rápida
+
+## Objetivo
+- Ser **decisivo** y aprovechar cada ventana.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **¿Qué hacer tras un kill?** | Invadir, sacar objetivo o pushear línea. |
+| **Aprovechar timers** | Si el jungla enemigo muere, invade o toma su jungla. |
+| **Toma de riesgos calculados** | A veces un dive temprano cambia la partida.
+
+## Tip:
+- En jungla, **la duda es peor que el fallo**.
+
+---
+
+# 6️⃣ Macrogame y Presión de Mapa
+
+## Objetivo
+- Aumentar la presión en el mapa mediante acciones inteligentes.
+
+## Ejercicios:
+
+| Ejercicio | Método |
+|:---------|:-------|
+| **Swap de líneas** | Tras sacar Heraldo y torre top, manda a top a bot. |
+| **Dividir la jungla enemiga** | Cortar recursos al jungla enemigo si tienes ventaja. |
+| **Alinearte a objetivos** | Jugar alrededor de la ubicación del próximo objetivo.
+
+## Tip:
+- El buen jungla **planifica siempre** 1 minuto en el futuro.
+
+---
+
+# 📅 Programa Semanal de Entrenamiento
+
+| Día | Ejercicio Principal | Meta diaria |
+|:---|:---------------------|:------------|
+| Lunes | Clear de jungla perfecto | Menos de 3:20 en primer clear |
+| Martes | Gankeos efectivos | 2 gankeos exitosos antes de minuto 8 |
+| Miércoles | Visión proactiva | 5 wards colocados antes de minuto 10 |
+| Jueves | Control de objetivos | Primer dragón/heraldo asegurado |
+| Viernes | Decisiones rápidas | 3 acciones buenas post-kill |
+| Sábado | Macro rotaciones | 2 swaps o invades efectivos |
+| Domingo | Repaso | Ver repeticiones y anotar errores de ruta y gankeo
+
+---
+
+# 📘 Campeones de Jungla Recomendados para Empezar
+
+| Campeón | Tipo | Por qué |
+|:--------|:-----|:-------|
+| **Amumu** | Tanque | Fácil, gran CC, buena iniciación en teamfights. |
+| **Warwick** | Luchador | Auto-sostenimiento, ruta fácil, buen 1v1. |
+| **Nunu** | Tanque | Excelente para aprender control de objetivos y presión.
+
+---
+
+# 🎯 Consejos Finales
+
+- **El jungla marca el ritmo**: un buen jungla acelera la partida para su equipo.
+- **No te obsesiones con kills**: farmeo consistente + control de mapa ganan más partidas.
+- **Siempre juega pensando en objetivos, no en peleas aleatorias**.
+
+---
+
+
+
+
+
+
+---
+
+# ⚔️ Guía Detallada: Entendiendo las Teamfights en League of Legends
+
+---
+
+# 🧠 ¿Qué es una Teamfight?
+
+Una **teamfight** es una pelea grupal donde **la mayoría de los campeones de ambos equipos** participan.  
+Suelen ocurrir alrededor de **objetivos importantes** (torres, dragones, Barón) o cuando un equipo busca cazar a alguien.
+
+**Objetivo de una Teamfight**:
+- Eliminar a los enemigos más peligrosos.
+- Sobrevivir el mayor número de aliados.
+- Conseguir control de mapa u objetivos importantes.
+
+---
+
+# 🛡️ Fases de una Teamfight
+
+---
+
+## 1. **Preparación**
+
+**¿Qué ocurre?**
+- Colocación de visión.
+- Posicionamiento de campeones.
+- Evaluación de recursos (ultimates disponibles, maná, vida).
+
+**Claves:**
+- Controlar la **visión del terreno** (para evitar ser emboscado).
+- Tener **summoners spells** (Destello, Curar, Extenuar) disponibles.
+- Esperar a tener **ultimates** importantes listos.
+
+---
+
+## 2. **Engage (Inicio de la Pelea)**
+
+**¿Qué ocurre?**
+- Un campeón inicia usando una habilidad de control (stun, root, knock-up).
+- O bien alguien es cazado mal posicionado.
+
+**Tipos de Engage:**
+- **Hard Engage**: Iniciación directa (ej: Malphite, Amumu).
+- **Poke Engage**: Daño a distancia antes de iniciar (ej: Zoe, Jayce).
+- **Pick Off**: Cazar a un enemigo aislado antes de pelear (ej: Blitzcrank).
+
+**Claves:**
+- Iniciar sobre **objetivos prioritarios** (no sobre tanques si no es necesario).
+- No iniciar si tu equipo está lejos.
+
+---
+
+## 3. **Peeling y Disrupción**
+
+**¿Qué ocurre?**
+- Tanques y supports protegen a los carries de los asesinos enemigos.
+- También tratan de interrumpir habilidades clave del enemigo.
+
+**Claves:**
+- **Peel** ➔ Proteger a tus carries (ADCs y magos).
+- **Zonificación** ➔ Mantener a los enemigos lejos de tus fuentes de daño.
+
+---
+
+## 4. **Daño y Colapso**
+
+**¿Qué ocurre?**
+- Carries (ADC, mid) hacen todo el daño posible mientras sobreviven.
+- Bruisers y asesinos intentan eliminar al carry enemigo.
+
+**Claves:**
+- **Focus** (enfocar) correctamente: no perder tiempo en tanques si puedes matar a los frágiles.
+- Saber cuándo **diving** (sumergirte) para eliminar a un objetivo clave.
+
+---
+
+## 5. **Disengage o Rematar**
+
+**¿Qué ocurre?**
+- Si la pelea va bien: perseguir y eliminar a los que huyen.
+- Si va mal: usar habilidades para escapar y minimizar pérdidas.
+
+**Claves:**
+- **No perseguir** demasiado lejos: puede ser trampa del enemigo.
+- **Resetear**: si matas a uno o dos enemigos, puedes buscar un objetivo.
+
+---
+
+# 🧠 Conceptos Clave en Teamfights
+
+| Concepto | Descripción |
+|:---------|:------------|
+| **Focus** | Decidir a quién golpear (prioridad: ADC ➔ Mid ➔ Support ➔ Tanque). |
+| **Peel** | Defender a tus carries del daño enemigo. |
+| **Zoning** | Usar tu posición o habilidades para bloquear el paso del enemigo. |
+| **Kiting** | Atacar mientras retrocedes, manteniendo distancia (especialmente ADCs). |
+| **Burst** | Eliminar rápidamente a un objetivo con una combinación de habilidades. |
+| **Sostenimiento** | Luchar lentamente y prolongar la pelea (curaciones, escudos). |
+
+---
+
+# 📈 ¿Cómo Mejorar en Teamfights?
+
+**1. Posicionamiento**
+- Los carries deben mantenerse **detrás** del equipo.
+- Los tanques deben **estar al frente**.
+
+**2. Control del Terreno**
+- No pelear en espacios estrechos si el enemigo tiene mucho CC.
+- Forzar peleas en zonas donde tu composición sea más fuerte.
+
+**3. Comunicación**
+- Si juegas en equipo: **pinguea** antes de iniciar ("Voy", "Siganme", "Cuidado").
+
+**4. Paciencia**
+- A veces no debes ser tú quien inicie: espera el error enemigo.
+
+**5. Usar Summoners de Forma Correcta**
+- Destello defensivo ➔ Mejor que morir.
+- Exhaust en asesinos ➔ Salva a tu ADC.
+
+---
+
+# 🎯 Mini-Checklist Rápida Antes de una Teamfight
+
+| Pregunta | Idealmente respuesta |
+|:---------|:---------------------|
+| ¿Tenemos visión? | ✅ Sí |
+| ¿Todos tenemos la ultimate lista? | ✅ Sí |
+| ¿Nuestro ADC/mid están seguros? | ✅ Sí |
+| ¿Sabemos dónde está el jungla enemigo? | ✅ Sí |
+| ¿Podemos hacer disengage si sale mal? | ✅ Sí |
+
+---
+
+# 🛡️ Roles en una Teamfight por Tipo de Campeón
+
+| Rol | Tarea Principal |
+|:----|:----------------|
+| Tanque | Iniciar y absorber daño. |
+| Bruiser | Entrar en la backline enemiga y matar carries. |
+| Asesino | Cazar a los carries desprevenidos. |
+| Mago | Hacer daño explosivo y control de masas. |
+| ADC | Hacer daño constante desde atrás. |
+| Support | Proteger a los carries y dar control de visión. |
+
+---
+
+# 🌊 Guía Completa de Control de Oleadas en League of Legends
+
+---
+
+# 🧠 ¿Qué es el Control de Oleadas?
+
+El **control de oleadas** es la capacidad de **gestionar** la posición, velocidad y tamaño de los minions en la línea para:
+- Tener **ventaja de oro y experiencia**.
+- **Forzar errores** en el rival.
+- **Facilitar rotaciones** o movimientos en el mapa.
+- **Negar recursos** al enemigo.
+- **Preparar objetivos** como dragones o heraldos.
+
+---
+
+# 🎯 Conceptos Clave de Control de Oleadas
+
+| Concepto | Descripción |
+|:---------|:------------|
+| **Push** | Empujar la oleada hacia la torre enemiga. |
+| **Freeze** | Mantener la oleada en una posición fija, cerca de tu torre pero sin que esta la golpee. |
+| **Slow Push** | Empujar lentamente acumulando una gran cantidad de minions. |
+| **Fast Push** | Eliminar rápidamente la oleada para que choque contra la torre enemiga. |
+| **Resetear la oleada** | Dejar que las oleadas se igualen en número en el centro de la línea. |
+
+---
+
+# 🔥 Tipos de Control de Oleadas
+
+---
+
+## 1. **Freezing (Congelar la Línea)**
+
+**¿Qué es?**
+- Dejas la oleada **cerca de tu torre** sin que la torre la golpee.
+
+**¿Cómo hacerlo?**
+- Solo matas los minions que van a morir.
+- Mantienes entre **3-4 minions enemigos** vivos.
+
+**¿Ventajas?**
+- Estás más **seguro** contra emboscadas (ganks).
+- Obligas al enemigo a **sobre-extenderse** (alejarse de su torre).
+- Puedes **negar farmeo**.
+
+**¿Cuándo congelar?**
+- Si vas por detrás y necesitas jugar seguro.
+- Si tu jungla quiere venir a ayudarte a matar al enemigo.
+
+---
+
+## 2. **Slow Push (Empuje Lento)**
+
+**¿Qué es?**
+- Empujar poco a poco, **acumulando una gran oleada**.
+
+**¿Cómo hacerlo?**
+- Solo lastimeas (debilitas) los minions enemigos.
+- No elimines rápido a los magos enemigos.
+- Mantén tu propia oleada viva el mayor tiempo posible.
+
+**¿Ventajas?**
+- Creas una **gran presión** en el mapa.
+- Es más difícil para el enemigo limpiar una oleada grande.
+- Puedes **rotar** a otro sitio mientras el enemigo pierde farm.
+
+**¿Cuándo slowpushear?**
+- Antes de querer **roamear** o moverte.
+- Antes de querer **recall** (volver a base).
+- Antes de buscar **objetivos** (dragón, heraldo).
+
+---
+
+## 3. **Fast Push (Empuje Rápido)**
+
+**¿Qué es?**
+- Eliminar rápidamente todos los minions para que tu oleada choque en la torre enemiga.
+
+**¿Cómo hacerlo?**
+- Usas habilidades y autoataques para **limpiar rápidamente**.
+
+**¿Ventajas?**
+- Haces que el enemigo **pierda minions** bajo su torre.
+- Puedes hacer **recall** sin perder muchos súbditos.
+- Puedes forzar al enemigo a **farmear bajo presión**.
+
+**¿Cuándo fastpushear?**
+- Cuando quieres **volver a base** de forma segura.
+- Cuando ves al enemigo **roamear** y quieres castigar su ausencia.
+
+---
+
+# 🎯 Principios Fundamentales de Control de Oleadas
+
+---
+
+## ✅ Posicionar la Oleada Según tu Ventaja
+
+- Si vas por delante ➔ Puedes **pusear fuerte**.
+- Si vas por detrás ➔ Mejor **congelar** cerca de tu torre.
+
+---
+
+## ✅ Saber Cuándo Pushear o Congelar
+
+- **Antes de un objetivo** importante ➔ **Slow Push** ➔ **Fast Push** ➔ **Rotar** ➔ **Objetivo**.
+- **Cuando tu enemigo muere o retrocede** ➔ **Fast Push** para negarle farm.
+
+---
+
+## ✅ Uso de la Oleada para Divear
+
+Si acumulas una **gran oleada**, puedes:
+- **Divear** (sumergirte bajo torre enemiga) porque los minions absorben tiros de torre.
+- **Forzar errores**: el enemigo puede morir intentando farmear bajo presión.
+
+---
+
+# 🧠 Consejos Avanzados de Control de Oleadas
+
+---
+
+## ➤ Last Hit (Último Golpe)
+- Solo da el golpe final a los minions para no empujar innecesariamente la oleada.
+
+## ➤ Lee el Estado de la Oleada
+- Si tienes **más minions** ➔ la oleada avanza hacia el enemigo.
+- Si el enemigo tiene **más minions** ➔ la oleada avanza hacia ti.
+
+## ➤ Congela Después de un Gank Exitoso
+- Si matas al enemigo ➔ **No pushear inmediatamente**. Congela y obliga al enemigo a perder más farm.
+
+## ➤ Aprende el Tempo de los Minions
+- Cada **30 segundos** aparece una nueva oleada.
+- Cada **3 oleadas**, aparece una oleada con **cañón** (minion más resistente).
+
+---
+
+# 🛡️ ¿Cómo Romper un Freeze Enemigo?
+
+- Llama a tu jungla para ayudar a pushear.
+- Usa habilidades para forzar la oleada bajo torre.
+- No te acerques solo ➔ puedes ser emboscado.
+
+---
+
+# 📈 Ejemplos de Aplicaciones de Control de Oleadas
+
+| Situación | Acción recomendada |
+|:----------|:--------------------|
+| Vas a roamear | Slow push ➔ luego fast push antes de irte |
+| Enemigo quiere gankear | Fast push para castigar |
+| Enemigo difícil de matar | Freeze para que se arriesgue |
+| Tienes ventaja | Pushea para negar farm |
+| Vas detrás | Congela para farmear seguro |
+
+---
+
+# 📊 Tabla de Tipos de Control de Oleadas
+
+| Tipo | Objetivo | Ventajas | Cuándo Usarlo |
+|:-----|:---------|:---------|:--------------|
+| Freeze | Seguridad / Denegar farm | Evitar ser gankeado | Estás en desventaja |
+| Slow Push | Crear presión | Facilitar rotaciones y diveos | Antes de moverte o hacer recall |
+| Fast Push | Forzar pérdidas de farm | Recuperar control o resetear línea | Tras matar al enemigo o antes de recall |
+
+---
+
+# 🔄 Guía Completa de Rotaciones y Macrojuego en League of Legends
+
+---
+
+# 🌍 ¿Qué es el Macrojuego?
+
+El **macrojuego** es **todo lo que haces que no sea directamente pelear**:
+- Control de oleadas.
+- Movimientos estratégicos por el mapa.
+- Toma de objetivos (torres, dragones, heraldos, Barón).
+- Manejo de la visión.
+- Coordinación con el equipo.
+
+Mientras el **microjuego** es tu habilidad mecánica (pelear, esquivar, lanzar habilidades bien), el **macrojuego** es tu **capacidad de tomar buenas decisiones estratégicas**.
+
+---
+
+# 🔄 ¿Qué son las Rotaciones?
+
+**Rotar** es moverte de una parte del mapa a otra en el **momento correcto**, para:
+- Ayudar a tu equipo.
+- Presionar un objetivo.
+- Aprovechar una ventaja de número.
+
+Por ejemplo:
+- El mid laner que mata a su oponente y **rota a la bot lane** para forzar una pelea 2v3.
+- El jungla que después de limpiar su jungla **rota a top** porque ve que el top enemigo está sobreextendido.
+
+---
+
+# 🎯 ¿Por qué es importante rotar bien?
+
+- **Ganas ventajas de número** ➔ peleas que son 3v2, 4v3, etc.
+- **Tomas más objetivos** ➔ más oro y control de mapa.
+- **Presionas varias líneas** ➔ el enemigo se ve obligado a dividir fuerzas.
+- **Minimizas riesgos** ➔ evitas ser emboscado o atrapado.
+
+---
+
+# 🛣️ Principios Básicos de Macrojuego y Rotaciones
+
+---
+
+## 1. **No rotar por rotar**
+- **Solo rota si**:
+  - Tu oleada está empujada o congelada en buena posición.
+  - Ves una oportunidad clara (enemigo sobreextendido, tu equipo presiona).
+  - No perderás mucho farm.
+
+## 2. **Mira siempre el mapa**
+- Observa constantemente dónde están los enemigos y tus aliados.
+- La **visión** es tu mejor herramienta para decidir rotaciones.
+
+## 3. **Prioriza objetivos importantes**
+- No siempre es mejor matar enemigos ➔ a veces es más valioso destruir una torre o asegurar un dragón.
+
+## 4. **Respeta los timers**
+- Cuando falte poco para un dragón o heraldo ➔ rota con tiempo para tener **prioridad**.
+
+---
+
+# 🧠 Tipos de Rotaciones Clave
+
+---
+
+## 📍 Mid a Bot / Bot a Mid
+
+- El **mid laner** o **jungla** rota a bot para hacer superioridad de números.
+- Tras conseguir kills ➔ **se pushea la bot lane** y se toma **torre + dragón**.
+
+## 📍 Jungla a Línea
+
+- Tras limpiar campamentos ➔ decide qué línea necesita ayuda.
+- **Apunta** donde el enemigo esté adelantado, o donde tu compañero pueda colaborar bien en un 2v2.
+
+## 📍 Bot Lane después de destruir torre
+
+- Cuando destruyes la primera torre de bot, **los ADC + support suben a top**.
+- Esto crea presión en otra zona del mapa para:
+  - Tomar la torre de top.
+  - Presionar para el **Herald**.
+
+*(Esto se llama "Lane Swap" o "Rotación de Bot hacia Top")*.
+
+---
+
+# 📈 Fases del Macrojuego
+
+---
+
+## 🕛 Early Game (0-15 min)
+
+- **Prioridad en líneas**: Ganar la presión para controlar el río y la visión.
+- **Dragones tempranos**: Aprovechar si tienes bot lane fuerte.
+- **Heraldos**: Importantes para romper la primera torre.
+
+## 🕓 Mid Game (15-25 min)
+
+- **Rotaciones intensas**: Buscas torres exteriores (mid y top).
+- **Más peleas por visión**: Controlar zonas alrededor de dragones y Barón.
+- **Splitpush**: Campeones que pueden empujar solos (como Fiora, Jax) presionan líneas laterales.
+
+## 🕖 Late Game (25+ min)
+
+- **Prioridad máxima en visión** cerca de Barón y dragones ancestrales.
+- **Rotaciones rápidas**: De una línea a otra para castigar torres descuidadas.
+- **Peleas 5v5**: Más peligrosas, cualquier error puede decidir la partida.
+
+---
+
+# 🛡️ Buenas prácticas para un Macrojuego sólido
+
+| Buen hábito | Explicación |
+|:------------|:------------|
+| **Empujar antes de rotar** | Asegúrate de que tu oleada está empujada para que no pierdas farm y para forzar que el enemigo la defienda. |
+| **Prioridad antes de dragón/barón** | Gana la presión de las líneas cercanas antes de empezar el objetivo. |
+| **Wards estratégicos** | Wardea rutas de entrada para prevenir que te embosquen mientras haces un objetivo. |
+| **Juega con tu jungla** | No tomes peleas sin tu jungla cerca en mid game/lategame. |
+
+---
+
+# 🧠 Macro avanzado: ¿Cuándo splitpushear?
+
+El **splitpush** (presionar solo una línea lateral) es eficaz cuando:
+
+- Tienes **teleport** o movilidad para unirte rápido al equipo.
+- Eres más fuerte en duelo (1v1) que el rival.
+- Tu equipo **aguanta sin ti** (no se expone innecesariamente).
+
+Idealmente, **presionas en un lado**, y el equipo amenaza el otro lado ➔ el enemigo debe dividirse ➔ ganan una pelea o un objetivo.
+
+---
+
+
+# 🧠 Dominio Estratégico Completo en League of Legends
+
+Este documento profundiza en los temas clave de alto nivel que todo jugador debe dominar, independientemente de su rol:
+
+---
+
+# ⏰ Timing de Objetivos (Para Todos los Roles)
+
+## ¿Qué es el Timing de Objetivos?
+
+Es la habilidad de **conocer y anticipar** la aparición y desaparición de **objetivos mayores** (dragones, Heraldos, Barón Nashor, torres) para preparar tu equipo para pelear o asegurarlos.
+
+## Timings Clave:
+
+| Objetivo | Primer Spawn | Respawn | Notas Importantes |
+|:--------|:-------------|:--------|:------------------|
+| Dragón Elemental | 5:00 min | 5 min después de muerto | Determina alma elemental a partir del 3er dragón. |
+| Heraldo de la Grieta | 8:00 min | Solo hasta 19:45 min | Puede aparecer una segunda vez si matas rápido al primero. |
+| Barón Nashor | 20:00 min | 6 min tras ser abatido | Buff clave para cerrar partidas. |
+| Dragón Ancestro | Después de que un equipo toma 4 dragones | 5 min tras ser abatido | Da un buff devastador en late game.|
+
+## ¿Qué debe hacer cada rol?
+- **Top/Mid/ADC**: Planificar waves para poder moverte hacia el objetivo antes de que aparezca.
+- **Support**: Preparar y mantener **visión** en la zona de objetivo 1-2 minutos antes.
+- **Jungla**: Controlar los respawns y forzar peleas o intercambios cuando el enemigo esté débil.
+
+---
+
+# 👁️ Control de Visión Avanzado (Wardeo Inteligente)
+
+## ¿Qué es Control de Visión?
+
+Controlar no solo **dónde** sino **cuándo y por qué** pones visión, dominando zonas claves en el mapa.
+
+## Tipos de Wards:
+
+| Tipo | Uso Principal | Ejemplo |
+|:-----|:--------------|:--------|
+| Wards Defensivos | Evitar gankeos | Arbustos de línea o rutas de jungla enemiga. |
+| Wards Ofensivos | Rastrear jungla enemiga o rotaciones | Buff enemigo, caminos del medio del mapa. |
+| Wards de Objetivo | Controlar zonas de peleas futuras | Río y entradas hacia Dragón/Barón. |
+
+## Control Avanzado:
+
+- **Reset antes del objetivo**: Compra pinks y limpia visión enemiga.
+- **Control de visión profunda**: Si vas ganando, wardea la jungla enemiga.
+- **Flancos**: Siempre wardea zonas de flanqueo antes de iniciar peleas grandes.
+
+## Roles:
+- **Support**: Principal proveedor de visión.
+- **Jungla**: Wards profundos en la jungla enemiga.
+- **Mid/Top/ADC**: Wards situacionales para proteger su avance o splitpush.
+
+---
+
+# 🧠 Mindgames – Psicología del Juego
+
+## ¿Qué es un Mindgame?
+
+Técnicas para **manipular decisiones** del enemigo, basándote en información falsa o presión indirecta.
+
+## Ejemplos de Mindgames:
+
+| Técnica | Cómo Funciona | Ejemplo |
+|:--------|:--------------|:--------|
+| Fake Ganks | Finges presencia para forzar retroceso | Jungla finge acercarse a línea pero no gankea. |
+| Pressure Bait | Muestras intención de Barón para forzar pelea | Haces como si inicias el Nashor y escondes campeones cerca. |
+| Patrones Rotos | Cambias tu comportamiento habitual | Normalmente pusheas, luego de repente haces roaming. |
+| Overstay Trap | Finges estar débil para que el enemigo sobreextienda | Como ADC, te quedas bajo vida en línea para forzar dive y emboscarlos.|
+
+## Mindgames Clave:
+
+- **Forzar errores** (flashs innecesarios, peleas desfavorables).
+- **Manipular mapa**: mostrar a varios en una parte para capturar objetivos en otra.
+- **Condicionar**: si siempre invades, el enemigo cambiará su ruta para evitarte.
+
+---
+
+# 🛡️ Análisis de Composición de Equipos
+
+## ¿Qué debe analizarse?
+
+| Aspecto | Pregunta Clave |
+|:--------|:--------------|
+| Daño | ¿Hay daño físico (AD) y mágico (AP) balanceado? |
+| Frontline | ¿Quién absorbe daño en tu equipo? ¿Tanques o bruisers? |
+| Engage | ¿Pueden iniciar peleas? ¿De qué manera? (Hard engage, poke engage, pick) |
+| Peel | ¿Pueden proteger a carries del enemigo? (Supports peelers como Janna, Lulu) |
+| Scaling | ¿El equipo es fuerte temprano, medio o late game? |
+| Win Conditions | ¿Qué condiciones debe cumplir tu equipo para ganar? |
+
+## Ejemplo de Composición:
+
+- **Tu equipo**: Gnar, Sejuani, Viktor, Kai’Sa, Lulu.
+- **Composición**: Mucho **CC**, **scaling medio-late**, **engage medio**, **peel alto**.
+- **Plan**: Evitar peleas tempranas, escalar a 2-3 items, controlar visión de Nashor, forzar peleas 5v5.
+
+---
+
+# 🌟 Claves Finales para Aplicarlo en Partidas:
+
+- **Preparación**: Visión y waves antes de peleas de objetivos.
+- **Control mental**: Juega con la mente del rival, no solo con mecánicas.
+- **Análisis**: Piensa antes de pelear: ¿quién gana la pelea? ¿cómo la queremos hacer?
+- **Adaptación**: No todos los planes funcionan igual en todas las partidas: lee la situación y cambia de estrategia si es necesario.
+
+---
 
 
      
