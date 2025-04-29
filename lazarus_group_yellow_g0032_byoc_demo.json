@@ -2115,6 +2115,10 @@
 		{
 			"color": "#ff66f4",
 			"label": "used by Lazarus Group and used by a campaign attributed to Lazarus Group"
+		},
+		{
+			"label": "Used in BYOC Demo",
+			"color": "#fce93b"
 		}
 	],
 	"metadata": [],
